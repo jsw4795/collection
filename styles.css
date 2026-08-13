@@ -167,7 +167,7 @@ code { color: #a6ada8; font-family: ui-monospace, SFMono-Regular, monospace; }
 .card-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-top: 20px; }
 .whisky-card { overflow: hidden; padding: 0; border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); color: inherit; text-align: left; transition: transform .2s ease, border-color .2s ease; }
 .whisky-card:hover { transform: translateY(-3px); border-color: #465049; }
-.card-image { position: relative; aspect-ratio: 4 / 3; overflow: hidden; display: grid; place-items: center; background: radial-gradient(circle at 50% 45%, #27302b, #121714 65%); }
+.card-image { position: relative; aspect-ratio: 4 / 3; display: grid; place-items: center; background: radial-gradient(circle at 50% 45%, #27302b, #121714 65%); }
 .card-image img {
   width: 100%;
   height: 100%;
