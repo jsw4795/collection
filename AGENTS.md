@@ -75,6 +75,7 @@ Each object in `data/whiskies.json` represents one purchased bottle. Application
 - Do not delete records unless explicitly requested. Finished, sold, or gifted bottles remain as history; update their status instead.
 - When a request could match multiple bottles, ask for clarification.
 - A routine collection update should normally change only `data/whiskies.json`.
+- When adding a new bottle, search for a suitable background-free product bottle image from a reliable source, add it under `images/`, and set `whisky.image` to that repository asset path. Use `null` only when no suitable image is available.
 
 ## Application behavior
 
