@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "id": "glenlivet-18-001",
+    "whisky": {
+      "name": "The Glenlivet 18 Year Old",
+      "nameKo": "글렌리벳 18년",
+      "distillery": "The Glenlivet",
+      "country": "Scotland",
+      "region": "Speyside",
+      "category": "Single Malt Scotch",
+      "age": 18,
+      "abv": 40.0,
+      "volumeMl": 700,
+      "cask": "American oak and ex-sherry oak casks",
+      "finish": null,
+      "peated": false,
+      "image": null
+    },
+    "purchase": {
+      "date": null,
+      "place": {
+        "name": "Liquor Mountain",
+        "city": "Shibuya",
+        "country": "Japan"
+      },
+      "price": {
+        "amount": 10800,
+        "currency": "JPY",
+        "convertedKrw": null,
+        "paidKrw": null,
+        "exchangeRate": null,
+        "exchangeRateDate": null
+      },
+      "purchaseType": "tax_free"
+    },
+    "bottle": {
+      "status": "opened",
+      "openedDate": null,
+      "remainingPercent": 80
+    },
+    "personal": {
+      "rating": null,
+      "memo": "",
+      "tags": []
+    },
+    "createdAt": "2026-08-13",
+    "updatedAt": "2026-08-13"
+  }
+]

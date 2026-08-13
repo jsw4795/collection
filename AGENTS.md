@@ -94,3 +94,7 @@ Maintain the read-only collection cards and detail view, case-insensitive search
 - For data-only changes, validate that `data/whiskies.json` parses as JSON.
 - For application changes, serve the repository with any simple static HTTP server and check the browser console, empty data, populated data, responsive layout, and repository-subpath asset behavior.
 - Do not introduce a build command as part of validation.
+
+## Version control
+
+- After every modification to collection data, validate the change, commit it, and push the commit to the configured remote repository.
