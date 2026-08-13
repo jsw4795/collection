@@ -48,7 +48,7 @@
   },
   {
     "id": "kavalan-solist-vinho-barrique-001",
-    "whisky": { "name": "Kavalan Solist Vinho Barrique", "nameKo": "카발란 솔리스트 비노 바리끄", "distillery": "Kavalan", "country": "Taiwan", "region": "Yilan", "category": "Single Malt Taiwanese Whisky", "age": null, "abv": null, "volumeMl": 700, "cask": "Vinho barrique", "finish": null, "peated": false, "image": "/images/kavalan-solist-vinho-barrique.png" },
+    "whisky": { "name": "Kavalan Solist Vinho Barrique", "nameKo": "카발란 솔리스트 비노 바리끄", "distillery": "Kavalan", "country": "Taiwan", "region": "Yilan", "category": "Single Malt Taiwanese Whisky", "age": null, "abv": 58.6, "volumeMl": 700, "cask": "Vinho barrique", "finish": null, "peated": false, "image": "/images/kavalan-solist-vinho-barrique.png" },
     "purchase": { "date": null, "place": { "name": "Airstar Shinsegae Duty Free", "city": null, "country": "South Korea" }, "price": { "amount": 126866, "currency": "KRW", "convertedKrw": null, "paidKrw": 126866, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "duty_free" },
     "bottle": { "status": "opened", "openedDate": null, "remainingPercent": 80 },
     "personal": { "rating": null, "memo": "", "tags": [] },
@@ -56,7 +56,7 @@
   },
   {
     "id": "kavalan-solist-port-cask-001",
-    "whisky": { "name": "Kavalan Solist Port Cask", "nameKo": "카발란 솔리스트 포트", "distillery": "Kavalan", "country": "Taiwan", "region": "Yilan", "category": "Single Malt Taiwanese Whisky", "age": null, "abv": null, "volumeMl": 700, "cask": "Port cask", "finish": null, "peated": false, "image": "/images/kavalan-solist-port-cask.png" },
+    "whisky": { "name": "Kavalan Solist Port Cask", "nameKo": "카발란 솔리스트 포트", "distillery": "Kavalan", "country": "Taiwan", "region": "Yilan", "category": "Single Malt Taiwanese Whisky", "age": null, "abv": 55.6, "volumeMl": 700, "cask": "Port cask", "finish": null, "peated": false, "image": "/images/kavalan-solist-port-cask.png" },
     "purchase": { "date": null, "place": { "name": "Shinsegae Duty Free", "city": null, "country": "South Korea" }, "price": { "amount": 127800, "currency": "KRW", "convertedKrw": null, "paidKrw": 127800, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "duty_free" },
     "bottle": { "status": "opened", "openedDate": null, "remainingPercent": 90 },
     "personal": { "rating": null, "memo": "", "tags": [] },
