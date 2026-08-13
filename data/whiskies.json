@@ -45,5 +45,205 @@
     },
     "createdAt": "2026-08-13",
     "updatedAt": "2026-08-13"
+  },
+  {
+    "id": "kavalan-solist-vinho-barrique-001",
+    "whisky": { "name": "Kavalan Solist Vinho Barrique", "nameKo": "카발란 솔리스트 비노 바리끄", "distillery": "Kavalan", "country": "Taiwan", "region": "Yilan", "category": "Single Malt Taiwanese Whisky", "age": null, "abv": null, "volumeMl": 700, "cask": "Vinho barrique", "finish": null, "peated": false, "image": "/images/kavalan-solist-vinho-barrique.png" },
+    "purchase": { "date": null, "place": { "name": "Airstar Shinsegae Duty Free", "city": null, "country": "South Korea" }, "price": { "amount": 126866, "currency": "KRW", "convertedKrw": null, "paidKrw": 126866, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "duty_free" },
+    "bottle": { "status": "opened", "openedDate": null, "remainingPercent": 80 },
+    "personal": { "rating": null, "memo": "", "tags": [] },
+    "createdAt": "2026-08-13", "updatedAt": "2026-08-13"
+  },
+  {
+    "id": "kavalan-solist-port-cask-001",
+    "whisky": { "name": "Kavalan Solist Port Cask", "nameKo": "카발란 솔리스트 포트", "distillery": "Kavalan", "country": "Taiwan", "region": "Yilan", "category": "Single Malt Taiwanese Whisky", "age": null, "abv": null, "volumeMl": 700, "cask": "Port cask", "finish": null, "peated": false, "image": "/images/kavalan-solist-port-cask.png" },
+    "purchase": { "date": null, "place": { "name": "Shinsegae Duty Free", "city": null, "country": "South Korea" }, "price": { "amount": 127800, "currency": "KRW", "convertedKrw": null, "paidKrw": 127800, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "duty_free" },
+    "bottle": { "status": "opened", "openedDate": null, "remainingPercent": 90 },
+    "personal": { "rating": null, "memo": "", "tags": [] },
+    "createdAt": "2026-08-13", "updatedAt": "2026-08-13"
+  },
+  {
+    "id": "octomore-15-1-001",
+    "whisky": { "name": "Octomore Edition 15.1", "nameKo": "옥토모어 15.1", "distillery": "Bruichladdich", "country": "Scotland", "region": "Islay", "category": "Single Malt Scotch", "age": 5, "abv": 59.1, "volumeMl": 700, "cask": "First-fill bourbon barrels and re-charred ex-bourbon casks", "finish": null, "peated": true, "image": "/images/octomore-15-1.png" },
+    "purchase": { "date": null, "place": { "name": "Shinsegae Duty Free", "city": null, "country": "South Korea" }, "price": { "amount": 92906, "currency": "KRW", "convertedKrw": null, "paidKrw": 92906, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "duty_free" },
+    "bottle": { "status": "opened", "openedDate": null, "remainingPercent": 95 },
+    "personal": { "rating": null, "memo": "", "tags": [] },
+    "createdAt": "2026-08-13", "updatedAt": "2026-08-13"
+  },
+  {
+    "id": "bookers-2024-01e-001",
+    "whisky": { "name": "Booker's Batch 2024-01E", "nameKo": "부커스 2024-01E", "distillery": "Jim Beam", "country": "United States", "region": "Kentucky", "category": "Kentucky Straight Bourbon", "age": 7, "abv": 62.2, "volumeMl": 700, "cask": "New American oak", "finish": null, "peated": false, "image": "/images/bookers-2024-01e.png" },
+    "purchase": { "date": null, "place": { "name": "Kingram Kanda", "city": "Tokyo", "country": "Japan" }, "price": { "amount": 18000, "currency": "JPY", "convertedKrw": 159905, "paidKrw": null, "exchangeRate": 8.8836, "exchangeRateDate": "2026-08-13" }, "purchaseType": "tax_free" },
+    "bottle": { "status": "opened", "openedDate": null, "remainingPercent": 95 },
+    "personal": { "rating": null, "memo": "", "tags": [] },
+    "createdAt": "2026-08-13", "updatedAt": "2026-08-13"
+  },
+  {
+    "id": "macallan-double-cask-15-001",
+    "whisky": { "name": "The Macallan Double Cask 15 Years Old", "nameKo": "맥캘란 더블 캐스크 15년", "distillery": "The Macallan", "country": "Scotland", "region": "Speyside", "category": "Single Malt Scotch", "age": 15, "abv": 43.0, "volumeMl": 700, "cask": "Sherry-seasoned American and European oak casks", "finish": null, "peated": false, "image": "/images/macallan-double-cask-15.png" },
+    "purchase": { "date": null, "place": { "name": "GS25 Namyangju Geumgok", "city": "Namyangju", "country": "South Korea" }, "price": { "amount": 151818, "currency": "KRW", "convertedKrw": null, "paidKrw": 151818, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "normal" },
+    "bottle": { "status": "sealed", "openedDate": null, "remainingPercent": 100 },
+    "personal": { "rating": null, "memo": "", "tags": [] },
+    "createdAt": "2026-08-13", "updatedAt": "2026-08-13"
+  },
+  {
+    "id": "hakushu-japanese-forest-bittersweet-001",
+    "whisky": { "name": "Hakushu Japanese Forest Bittersweet Edition", "nameKo": "하쿠슈 재패니즈 포레스트 비터스위트 에디션", "distillery": "Hakushu", "country": "Japan", "region": "Yamanashi", "category": "Japanese Single Malt Whisky", "age": null, "abv": 43.0, "volumeMl": 700, "cask": "Spanish oak casks", "finish": null, "peated": null, "image": "/images/hakushu-japanese-forest-bittersweet.png" },
+    "purchase": { "date": null, "place": { "name": "Narita Airport Duty Free", "city": "Narita", "country": "Japan" }, "price": { "amount": 19000, "currency": "JPY", "convertedKrw": null, "paidKrw": 190000, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "duty_free" },
+    "bottle": { "status": "sealed", "openedDate": null, "remainingPercent": 100 },
+    "personal": { "rating": null, "memo": "", "tags": [] },
+    "createdAt": "2026-08-13", "updatedAt": "2026-08-13"
+  },
+  {
+    "id": "glendronach-21-001",
+    "whisky": { "name": "The GlenDronach Parliament 21 Year Old", "nameKo": "글렌드로낙 21년", "distillery": "The GlenDronach", "country": "Scotland", "region": "Highlands", "category": "Single Malt Scotch", "age": 21, "abv": 48.0, "volumeMl": 700, "cask": "Oloroso and Pedro Ximénez sherry casks", "finish": null, "peated": false, "image": "/images/glendronach-21.jpg" },
+    "purchase": { "date": null, "place": { "name": "가품양주", "city": null, "country": "Taiwan" }, "price": { "amount": 5980, "currency": "TWD", "convertedKrw": null, "paidKrw": 270357, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "normal" },
+    "bottle": { "status": "sealed", "openedDate": null, "remainingPercent": 100 },
+    "personal": { "rating": null, "memo": "", "tags": [] },
+    "createdAt": "2026-08-13", "updatedAt": "2026-08-13"
+  },
+  {
+    "id": "balvenie-portwood-21-001",
+    "whisky": { "name": "The Balvenie PortWood 21 Year Old", "nameKo": "발베니 21년 포트우드", "distillery": "The Balvenie", "country": "Scotland", "region": "Speyside", "category": "Single Malt Scotch", "age": 21, "abv": 40.0, "volumeMl": 700, "cask": "Traditional oak casks", "finish": "Port casks", "peated": false, "image": "/images/balvenie-portwood-21.png" },
+    "purchase": { "date": null, "place": { "name": "가품양주", "city": null, "country": "Taiwan" }, "price": { "amount": 5090, "currency": "TWD", "convertedKrw": null, "paidKrw": 230120, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "normal" },
+    "bottle": { "status": "sealed", "openedDate": null, "remainingPercent": 100 },
+    "personal": { "rating": null, "memo": "", "tags": [] },
+    "createdAt": "2026-08-13", "updatedAt": "2026-08-13"
+  },
+  {
+    "id": "johnnie-walker-blue-label-001",
+    "whisky": { "name": "Johnnie Walker Blue Label", "nameKo": "조니워커 블루 라벨", "distillery": "Johnnie Walker", "country": "Scotland", "region": null, "category": "Blended Scotch", "age": null, "abv": 40.0, "volumeMl": 700, "cask": null, "finish": null, "peated": null, "image": "/images/johnnie-walker-blue-label.png" },
+    "purchase": { "date": null, "place": { "name": "Bic Camera", "city": "Fukuoka", "country": "Japan" }, "price": { "amount": 17000, "currency": "JPY", "convertedKrw": null, "paidKrw": 165000, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "tax_free" },
+    "bottle": { "status": "finished", "openedDate": null, "remainingPercent": 0 },
+    "personal": { "rating": null, "memo": "", "tags": [] },
+    "createdAt": "2026-08-13", "updatedAt": "2026-08-13"
+  },
+  {
+    "id": "johnnie-walker-blue-label-200ml-001",
+    "whisky": { "name": "Johnnie Walker Blue Label 200ml", "nameKo": "조니워커 블루 라벨 200ml", "distillery": "Johnnie Walker", "country": "Scotland", "region": null, "category": "Blended Scotch", "age": null, "abv": 40.0, "volumeMl": 200, "cask": null, "finish": null, "peated": null, "image": "/images/johnnie-walker-blue-label-200ml.png" },
+    "purchase": { "date": null, "place": { "name": "가품양주", "city": null, "country": "Taiwan" }, "price": { "amount": 950, "currency": "TWD", "convertedKrw": null, "paidKrw": 42950, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "normal" },
+    "bottle": { "status": "sealed", "openedDate": null, "remainingPercent": 100 },
+    "personal": { "rating": null, "memo": "", "tags": [] },
+    "createdAt": "2026-08-13", "updatedAt": "2026-08-13"
+  },
+  {
+    "id": "glendronach-21-50ml-001",
+    "whisky": { "name": "The GlenDronach Parliament 21 Year Old 50ml", "nameKo": "글렌드로낙 21년 50ml", "distillery": "The GlenDronach", "country": "Scotland", "region": "Highlands", "category": "Single Malt Scotch", "age": 21, "abv": 48.0, "volumeMl": 50, "cask": "Oloroso and Pedro Ximénez sherry casks", "finish": null, "peated": false, "image": "/images/glendronach-21-50ml.png" },
+    "purchase": { "date": null, "place": { "name": "가품양주", "city": null, "country": "Taiwan" }, "price": { "amount": 450, "currency": "TWD", "convertedKrw": null, "paidKrw": 20345, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "normal" },
+    "bottle": { "status": "sealed", "openedDate": null, "remainingPercent": 100 },
+    "personal": { "rating": null, "memo": "", "tags": [] },
+    "createdAt": "2026-08-13", "updatedAt": "2026-08-13"
+  },
+  {
+    "id": "glendronach-18-50ml-001",
+    "whisky": { "name": "The GlenDronach Allardice 18 Year Old 50ml", "nameKo": "글렌드로낙 18년 50ml", "distillery": "The GlenDronach", "country": "Scotland", "region": "Highlands", "category": "Single Malt Scotch", "age": 18, "abv": 46.0, "volumeMl": 50, "cask": "Oloroso sherry casks", "finish": null, "peated": false, "image": "/images/glendronach-18-50ml.jpg" },
+    "purchase": { "date": null, "place": { "name": "가품양주", "city": null, "country": "Taiwan" }, "price": { "amount": 350, "currency": "TWD", "convertedKrw": null, "paidKrw": 15824, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "normal" },
+    "bottle": { "status": "sealed", "openedDate": null, "remainingPercent": 100 },
+    "personal": { "rating": null, "memo": "", "tags": [] },
+    "createdAt": "2026-08-13", "updatedAt": "2026-08-13"
+  },
+  {
+    "id": "glendronach-18-001",
+    "whisky": { "name": "The GlenDronach Allardice 18 Year Old", "nameKo": "글렌드로낙 18년", "distillery": "The GlenDronach", "country": "Scotland", "region": "Highlands", "category": "Single Malt Scotch", "age": 18, "abv": 46.0, "volumeMl": 700, "cask": "Oloroso sherry casks", "finish": null, "peated": false, "image": "/images/glendronach-18.png" },
+    "purchase": { "date": null, "place": { "name": "가품양주", "city": null, "country": "Taiwan" }, "price": { "amount": 3900, "currency": "TWD", "convertedKrw": null, "paidKrw": 161954, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "normal" },
+    "bottle": { "status": "sealed", "openedDate": null, "remainingPercent": 100 },
+    "personal": { "rating": null, "memo": "", "tags": [] },
+    "createdAt": "2026-08-13", "updatedAt": "2026-08-13"
+  },
+  {
+    "id": "glendronach-15-001",
+    "whisky": { "name": "The GlenDronach Revival 15 Year Old", "nameKo": "글렌드로낙 15년", "distillery": "The GlenDronach", "country": "Scotland", "region": "Highlands", "category": "Single Malt Scotch", "age": 15, "abv": 46.0, "volumeMl": 700, "cask": "Pedro Ximénez and Oloroso sherry casks", "finish": null, "peated": false, "image": "/images/glendronach-15.png" },
+    "purchase": { "date": null, "place": { "name": "가품양주", "city": null, "country": "Taiwan" }, "price": { "amount": 1590, "currency": "TWD", "convertedKrw": null, "paidKrw": 64702, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "normal" },
+    "bottle": { "status": "sealed", "openedDate": null, "remainingPercent": 100 },
+    "personal": { "rating": null, "memo": "", "tags": [] },
+    "createdAt": "2026-08-13", "updatedAt": "2026-08-13"
+  },
+  {
+    "id": "glendronach-15-002",
+    "whisky": { "name": "The GlenDronach Revival 15 Year Old", "nameKo": "글렌드로낙 15년", "distillery": "The GlenDronach", "country": "Scotland", "region": "Highlands", "category": "Single Malt Scotch", "age": 15, "abv": 46.0, "volumeMl": 700, "cask": "Pedro Ximénez and Oloroso sherry casks", "finish": null, "peated": false, "image": "/images/glendronach-15.png" },
+    "purchase": { "date": null, "place": { "name": "가품양주", "city": null, "country": "Taiwan" }, "price": { "amount": 1590, "currency": "TWD", "convertedKrw": null, "paidKrw": 64702, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "normal" },
+    "bottle": { "status": "opened", "openedDate": null, "remainingPercent": 50 },
+    "personal": { "rating": null, "memo": "", "tags": [] },
+    "createdAt": "2026-08-13", "updatedAt": "2026-08-13"
+  },
+  {
+    "id": "glenfiddich-15-50ml-001",
+    "whisky": { "name": "Glenfiddich 15 Year Old 50ml", "nameKo": "글렌피딕 15년 50ml", "distillery": "Glenfiddich", "country": "Scotland", "region": "Speyside", "category": "Single Malt Scotch", "age": 15, "abv": 40.0, "volumeMl": 50, "cask": null, "finish": null, "peated": false, "image": "/images/glenfiddich-15-50ml.webp" },
+    "purchase": { "date": null, "place": { "name": "시먼딩 바틀샵", "city": "Taipei", "country": "Taiwan" }, "price": { "amount": 200, "currency": "TWD", "convertedKrw": null, "paidKrw": 9042, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "normal" },
+    "bottle": { "status": "sealed", "openedDate": null, "remainingPercent": 100 },
+    "personal": { "rating": null, "memo": "", "tags": [] },
+    "createdAt": "2026-08-13", "updatedAt": "2026-08-13"
+  },
+  {
+    "id": "balvenie-doublewood-12-50ml-001",
+    "whisky": { "name": "The Balvenie DoubleWood 12 Year Old 50ml", "nameKo": "발베니 12년 50ml", "distillery": "The Balvenie", "country": "Scotland", "region": "Speyside", "category": "Single Malt Scotch", "age": 12, "abv": 40.0, "volumeMl": 50, "cask": "American oak casks", "finish": "European oak sherry casks", "peated": false, "image": "/images/balvenie-doublewood-12-50ml.jpg" },
+    "purchase": { "date": null, "place": { "name": "시먼딩 바틀샵", "city": "Taipei", "country": "Taiwan" }, "price": { "amount": 200, "currency": "TWD", "convertedKrw": null, "paidKrw": 9042, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "normal" },
+    "bottle": { "status": "sealed", "openedDate": null, "remainingPercent": 100 },
+    "personal": { "rating": null, "memo": "", "tags": [] },
+    "createdAt": "2026-08-13", "updatedAt": "2026-08-13"
+  },
+  {
+    "id": "glenfiddich-22-gran-cortes-001",
+    "whisky": { "name": "Glenfiddich 22 Year Old Gran Cortes", "nameKo": "글렌피딕 22년 그랑 코르테스", "distillery": "Glenfiddich", "country": "Scotland", "region": "Speyside", "category": "Single Malt Scotch", "age": 22, "abv": 44.3, "volumeMl": 700, "cask": null, "finish": "Palo Cortado sherry casks", "peated": false, "image": "/images/glenfiddich-22-gran-cortes.png" },
+    "purchase": { "date": null, "place": { "name": "Shinsegae Duty Free", "city": null, "country": "South Korea" }, "price": { "amount": 231970, "currency": "KRW", "convertedKrw": null, "paidKrw": 231970, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "duty_free" },
+    "bottle": { "status": "sealed", "openedDate": null, "remainingPercent": 100 },
+    "personal": { "rating": null, "memo": "", "tags": [] },
+    "createdAt": "2026-08-13", "updatedAt": "2026-08-13"
+  },
+  {
+    "id": "hibiki-blenders-choice-001",
+    "whisky": { "name": "Hibiki Blender's Choice", "nameKo": "히비키 블렌더스 초이스", "distillery": "Suntory", "country": "Japan", "region": null, "category": "Blended Japanese Whisky", "age": null, "abv": 43.0, "volumeMl": 700, "cask": null, "finish": "Includes wine-cask-finished whiskies", "peated": false, "image": "/images/hibiki-blenders-choice.png" },
+    "purchase": { "date": null, "place": { "name": "Ultra Whisky", "city": "Osaka", "country": "Japan" }, "price": { "amount": 17500, "currency": "JPY", "convertedKrw": null, "paidKrw": 164150, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "tax_free" },
+    "bottle": { "status": "sealed", "openedDate": null, "remainingPercent": 100 },
+    "personal": { "rating": null, "memo": "", "tags": [] },
+    "createdAt": "2026-08-13", "updatedAt": "2026-08-13"
+  },
+  {
+    "id": "makers-mark-50ml-001",
+    "whisky": { "name": "Maker's Mark 50ml", "nameKo": "메이커스 마크 50ml", "distillery": "Maker's Mark", "country": "United States", "region": "Kentucky", "category": "Kentucky Straight Bourbon", "age": null, "abv": 45.0, "volumeMl": 50, "cask": "New American oak", "finish": null, "peated": false, "image": "/images/makers-mark-50ml.png" },
+    "purchase": { "date": null, "place": { "name": "Ultra Whisky", "city": "Osaka", "country": "Japan" }, "price": { "amount": 590, "currency": "JPY", "convertedKrw": null, "paidKrw": 5267, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "tax_free" },
+    "bottle": { "status": "sealed", "openedDate": null, "remainingPercent": 100 },
+    "personal": { "rating": null, "memo": "", "tags": [] },
+    "createdAt": "2026-08-13", "updatedAt": "2026-08-13"
+  },
+  {
+    "id": "glenallachie-15-50ml-001",
+    "whisky": { "name": "The GlenAllachie 15 Year Old 50ml", "nameKo": "글렌알라키 15년 50ml", "distillery": "The GlenAllachie", "country": "Scotland", "region": "Speyside", "category": "Single Malt Scotch", "age": 15, "abv": 46.0, "volumeMl": 50, "cask": "Pedro Ximénez and Oloroso sherry casks", "finish": null, "peated": false, "image": "/images/glenallachie-15-50ml.png" },
+    "purchase": { "date": null, "place": { "name": "Ultra Whisky", "city": "Osaka", "country": "Japan" }, "price": { "amount": 1680, "currency": "JPY", "convertedKrw": null, "paidKrw": 14997, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "tax_free" },
+    "bottle": { "status": "sealed", "openedDate": null, "remainingPercent": 100 },
+    "personal": { "rating": null, "memo": "", "tags": [] },
+    "createdAt": "2026-08-13", "updatedAt": "2026-08-13"
+  },
+  {
+    "id": "glendronach-16-boynsmill-001",
+    "whisky": { "name": "The GlenDronach Boynsmill 16 Year Old", "nameKo": "글렌드로낙 16년 보인스밀", "distillery": "The GlenDronach", "country": "Scotland", "region": "Highlands", "category": "Single Malt Scotch", "age": 16, "abv": 46.0, "volumeMl": 700, "cask": "Pedro Ximénez, Oloroso sherry and Port casks", "finish": null, "peated": false, "image": "/images/glendronach-16-boynsmill.jpg" },
+    "purchase": { "date": null, "place": { "name": "Shinsegae Duty Free", "city": null, "country": "South Korea" }, "price": { "amount": 102216, "currency": "KRW", "convertedKrw": null, "paidKrw": 102216, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "duty_free" },
+    "bottle": { "status": "sealed", "openedDate": null, "remainingPercent": 100 },
+    "personal": { "rating": null, "memo": "", "tags": [] },
+    "createdAt": "2026-08-13", "updatedAt": "2026-08-13"
+  },
+  {
+    "id": "royal-salute-21-001",
+    "whisky": { "name": "Royal Salute 21 Year Old The Signature Blend", "nameKo": "로얄 살루트 21년", "distillery": "Royal Salute", "country": "Scotland", "region": null, "category": "Blended Scotch", "age": 21, "abv": 40.0, "volumeMl": 700, "cask": null, "finish": null, "peated": null, "image": "/images/royal-salute-21.png" },
+    "purchase": { "date": null, "place": { "name": "Liquor Mountain", "city": "Shibuya", "country": "Japan" }, "price": { "amount": 13900, "currency": "JPY", "convertedKrw": null, "paidKrw": 110271, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "tax_free" },
+    "bottle": { "status": "sealed", "openedDate": null, "remainingPercent": 100 },
+    "personal": { "rating": null, "memo": "", "tags": [] },
+    "createdAt": "2026-08-13", "updatedAt": "2026-08-13"
+  },
+  {
+    "id": "hennessy-xo-001",
+    "whisky": { "name": "Hennessy X.O", "nameKo": "헤네시 XO", "distillery": "Hennessy", "country": "France", "region": "Cognac", "category": "Cognac", "age": null, "abv": 40.0, "volumeMl": 700, "cask": "French oak casks", "finish": null, "peated": false, "image": "/images/hennessy-xo.png" },
+    "purchase": { "date": null, "place": { "name": "Kingram Kanda", "city": "Tokyo", "country": "Japan" }, "price": { "amount": 18000, "currency": "JPY", "convertedKrw": null, "paidKrw": 160679, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "tax_free" },
+    "bottle": { "status": "sealed", "openedDate": null, "remainingPercent": 100 },
+    "personal": { "rating": null, "memo": "", "tags": [] },
+    "createdAt": "2026-08-13", "updatedAt": "2026-08-13"
+  },
+  {
+    "id": "jack-daniels-old-no-7-50ml-001",
+    "whisky": { "name": "Jack Daniel's Old No. 7 50ml", "nameKo": "잭 다니엘스 Old No. 7 50ml", "distillery": "Jack Daniel Distillery", "country": "United States", "region": "Tennessee", "category": "Tennessee Whiskey", "age": null, "abv": 40.0, "volumeMl": 50, "cask": "New American oak", "finish": null, "peated": false, "image": "/images/jack-daniels-old-no-7-50ml.png" },
+    "purchase": { "date": null, "place": { "name": "Kingram Kanda", "city": "Tokyo", "country": "Japan" }, "price": { "amount": 500, "currency": "JPY", "convertedKrw": null, "paidKrw": 4463, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "tax_free" },
+    "bottle": { "status": "sealed", "openedDate": null, "remainingPercent": 100 },
+    "personal": { "rating": null, "memo": "", "tags": [] },
+    "createdAt": "2026-08-13", "updatedAt": "2026-08-13"
   }
 ]
