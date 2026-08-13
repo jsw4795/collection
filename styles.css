@@ -168,7 +168,15 @@ code { color: #a6ada8; font-family: ui-monospace, SFMono-Regular, monospace; }
 .whisky-card { overflow: hidden; padding: 0; border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); color: inherit; text-align: left; transition: transform .2s ease, border-color .2s ease; }
 .whisky-card:hover { transform: translateY(-3px); border-color: #465049; }
 .card-image { position: relative; aspect-ratio: 4 / 3; overflow: hidden; display: grid; place-items: center; background: radial-gradient(circle at 50% 45%, #27302b, #121714 65%); }
-.card-image img { width: 100%; height: 100%; object-fit: contain; padding: 18px; }
+.card-image img {
+  width: 100%;
+  height: 100%;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  object-position: center;
+  padding: 22px 26px;
+}
 .card-placeholder { transform: scale(1.35); opacity: .65; }
 .card-status { position: absolute; top: 12px; right: 12px; padding: 5px 8px; border: 1px solid rgba(255,255,255,.1); border-radius: 20px; background: rgba(8, 11, 10, .75); color: #c5cac6; font-size: 9px; backdrop-filter: blur(7px); }
 .card-body { padding: 20px; }
