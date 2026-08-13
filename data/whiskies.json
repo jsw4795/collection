@@ -245,5 +245,37 @@
     "bottle": { "status": "sealed", "openedDate": null, "remainingPercent": 100 },
     "personal": { "rating": null, "memo": "", "tags": [] },
     "createdAt": "2026-08-13", "updatedAt": "2026-08-13"
+  },
+  {
+    "id": "balvenie-doublewood-12-001",
+    "whisky": { "name": "The Balvenie DoubleWood 12 Year Old", "nameKo": "발베니 12년 더블우드", "distillery": "The Balvenie", "country": "Scotland", "region": "Speyside", "category": "Single Malt Scotch", "age": 12, "abv": 40.0, "volumeMl": 700, "cask": "Traditional oak casks", "finish": "European oak sherry casks", "peated": false, "image": "/images/balvenie-doublewood-12.png" },
+    "purchase": { "date": null, "place": { "name": "조양마트", "city": "Seoul", "country": "South Korea" }, "price": { "amount": 87300, "currency": "KRW", "convertedKrw": null, "paidKrw": 87300, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "normal" },
+    "bottle": { "status": "opened", "openedDate": null, "remainingPercent": 80 },
+    "personal": { "rating": null, "memo": "", "tags": [] },
+    "createdAt": "2026-08-13", "updatedAt": "2026-08-13"
+  },
+  {
+    "id": "wild-turkey-rare-breed-001",
+    "whisky": { "name": "Wild Turkey Rare Breed", "nameKo": "와일드 터키 레어 브리드", "distillery": "Wild Turkey", "country": "United States", "region": "Kentucky", "category": "Kentucky Straight Bourbon", "age": null, "abv": 58.4, "volumeMl": 700, "cask": "New American oak", "finish": null, "peated": false, "image": "/images/wild-turkey-rare-breed.png" },
+    "purchase": { "date": null, "place": { "name": "조양마트", "city": "Seoul", "country": "South Korea" }, "price": { "amount": 76320, "currency": "KRW", "convertedKrw": null, "paidKrw": 76320, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "normal" },
+    "bottle": { "status": "opened", "openedDate": null, "remainingPercent": 90 },
+    "personal": { "rating": null, "memo": "", "tags": [] },
+    "createdAt": "2026-08-13", "updatedAt": "2026-08-13"
+  },
+  {
+    "id": "henri-mounier-vsop-001",
+    "whisky": { "name": "Henri Mounier VSOP", "nameKo": "헨리 무니에 VSOP", "distillery": "Henri Mounier", "country": "France", "region": "Cognac", "category": "Cognac", "age": null, "abv": 40.0, "volumeMl": 700, "cask": "French oak casks", "finish": null, "peated": false, "image": "/images/henri-mounier-vsop.png" },
+    "purchase": { "date": null, "place": { "name": "GS25 와인플러스", "city": null, "country": "South Korea" }, "price": { "amount": 59900, "currency": "KRW", "convertedKrw": null, "paidKrw": 59900, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "normal" },
+    "bottle": { "status": "opened", "openedDate": null, "remainingPercent": 70 },
+    "personal": { "rating": null, "memo": "", "tags": [] },
+    "createdAt": "2026-08-13", "updatedAt": "2026-08-13"
+  },
+  {
+    "id": "buffalo-trace-001",
+    "whisky": { "name": "Buffalo Trace Kentucky Straight Bourbon", "nameKo": "버팔로 트레이스", "distillery": "Buffalo Trace Distillery", "country": "United States", "region": "Kentucky", "category": "Kentucky Straight Bourbon", "age": null, "abv": 45.0, "volumeMl": 700, "cask": "New charred American oak", "finish": null, "peated": false, "image": "/images/buffalo-trace.png" },
+    "purchase": { "date": null, "place": { "name": "이마트 신촌점", "city": "Seoul", "country": "South Korea" }, "price": { "amount": 35000, "currency": "KRW", "convertedKrw": null, "paidKrw": 35000, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "normal" },
+    "bottle": { "status": "opened", "openedDate": null, "remainingPercent": 55 },
+    "personal": { "rating": null, "memo": "", "tags": [] },
+    "createdAt": "2026-08-13", "updatedAt": "2026-08-13"
   }
 ]
