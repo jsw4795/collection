@@ -14,7 +14,7 @@
       "cask": "American oak and ex-sherry oak casks",
       "finish": null,
       "peated": false,
-      "image": null
+      "image": "/images/glenlivet-18-year-old.png"
     },
     "purchase": {
       "date": null,
@@ -26,10 +26,10 @@
       "price": {
         "amount": 10800,
         "currency": "JPY",
-        "convertedKrw": null,
+        "convertedKrw": 95943,
         "paidKrw": null,
-        "exchangeRate": null,
-        "exchangeRateDate": null
+        "exchangeRate": 8.8836,
+        "exchangeRateDate": "2026-08-13"
       },
       "purchaseType": "tax_free"
     },

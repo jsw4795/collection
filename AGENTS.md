@@ -66,6 +66,7 @@ Each object in `data/whiskies.json` represents one purchased bottle. Application
 - IDs are unique lowercase kebab-case. For another bottle of the same whisky, increment the suffix. Do not change existing IDs unless explicitly requested.
 - For KRW calculations, use `paidKrw`, then `convertedKrw`; exclude records with neither.
 - Preserve foreign-currency `amount` and `currency` even when KRW values are available.
+- When an overseas purchase is provided only in its local currency, obtain the exchange rate on the record's creation date, set `convertedKrw` to the nearest won, and record the rate and date in `exchangeRate` and `exchangeRateDate`. Leave `paidKrw` as `null` unless the actual KRW amount paid is known.
 - Images live in `images/`; use `null` when absent.
 
 ## Updating collection data
