@@ -96,7 +96,7 @@
   },
   {
     "id": "glendronach-21-001",
-    "whisky": { "name": "The GlenDronach Parliament 21 Year Old", "nameKo": "글렌드로낙 21년", "distillery": "The GlenDronach", "country": "Scotland", "region": "Highlands", "category": "Single Malt Scotch", "age": 21, "abv": 48.0, "volumeMl": 700, "cask": "Oloroso and Pedro Ximénez sherry casks", "finish": null, "peated": false, "image": "/images/glendronach-21.jpg" },
+    "whisky": { "name": "The GlenDronach Parliament 21 Year Old", "nameKo": "글렌드로낙 21년", "distillery": "The GlenDronach", "country": "Scotland", "region": "Highlands", "category": "Single Malt Scotch", "age": 21, "abv": 48.0, "volumeMl": 700, "cask": "Oloroso and Pedro Ximénez sherry casks", "finish": null, "peated": false, "image": "/images/glendronach-21.png" },
     "purchase": { "date": null, "place": { "name": "가품양주", "city": null, "country": "Taiwan" }, "price": { "amount": 5980, "currency": "TWD", "convertedKrw": null, "paidKrw": 270357, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "normal" },
     "bottle": { "status": "sealed", "openedDate": null, "remainingPercent": 100 },
     "personal": { "rating": null, "memo": "", "tags": [] },
@@ -136,7 +136,7 @@
   },
   {
     "id": "glendronach-18-50ml-001",
-    "whisky": { "name": "The GlenDronach Allardice 18 Year Old 50ml", "nameKo": "글렌드로낙 18년 50ml", "distillery": "The GlenDronach", "country": "Scotland", "region": "Highlands", "category": "Single Malt Scotch", "age": 18, "abv": 46.0, "volumeMl": 50, "cask": "Oloroso sherry casks", "finish": null, "peated": false, "image": "/images/glendronach-18-50ml.jpg" },
+    "whisky": { "name": "The GlenDronach Allardice 18 Year Old 50ml", "nameKo": "글렌드로낙 18년 50ml", "distillery": "The GlenDronach", "country": "Scotland", "region": "Highlands", "category": "Single Malt Scotch", "age": 18, "abv": 46.0, "volumeMl": 50, "cask": "Oloroso sherry casks", "finish": null, "peated": false, "image": "/images/glendronach-18-50ml.png" },
     "purchase": { "date": null, "place": { "name": "가품양주", "city": null, "country": "Taiwan" }, "price": { "amount": 350, "currency": "TWD", "convertedKrw": null, "paidKrw": 15824, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "normal" },
     "bottle": { "status": "sealed", "openedDate": null, "remainingPercent": 100 },
     "personal": { "rating": null, "memo": "", "tags": [] },
@@ -176,7 +176,7 @@
   },
   {
     "id": "balvenie-doublewood-12-50ml-001",
-    "whisky": { "name": "The Balvenie DoubleWood 12 Year Old 50ml", "nameKo": "발베니 12년 50ml", "distillery": "The Balvenie", "country": "Scotland", "region": "Speyside", "category": "Single Malt Scotch", "age": 12, "abv": 40.0, "volumeMl": 50, "cask": "American oak casks", "finish": "European oak sherry casks", "peated": false, "image": "/images/balvenie-doublewood-12-50ml.jpg" },
+    "whisky": { "name": "The Balvenie DoubleWood 12 Year Old 50ml", "nameKo": "발베니 12년 50ml", "distillery": "The Balvenie", "country": "Scotland", "region": "Speyside", "category": "Single Malt Scotch", "age": 12, "abv": 40.0, "volumeMl": 50, "cask": "American oak casks", "finish": "European oak sherry casks", "peated": false, "image": "/images/balvenie-doublewood-12-50ml.png" },
     "purchase": { "date": null, "place": { "name": "시먼딩 바틀샵", "city": "Taipei", "country": "Taiwan" }, "price": { "amount": 200, "currency": "TWD", "convertedKrw": null, "paidKrw": 9042, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "normal" },
     "bottle": { "status": "sealed", "openedDate": null, "remainingPercent": 100 },
     "personal": { "rating": null, "memo": "", "tags": [] },
@@ -216,7 +216,7 @@
   },
   {
     "id": "glendronach-16-boynsmill-001",
-    "whisky": { "name": "The GlenDronach Boynsmill 16 Year Old", "nameKo": "글렌드로낙 16년 보인스밀", "distillery": "The GlenDronach", "country": "Scotland", "region": "Highlands", "category": "Single Malt Scotch", "age": 16, "abv": 46.0, "volumeMl": 700, "cask": "Pedro Ximénez, Oloroso sherry and Port casks", "finish": null, "peated": false, "image": "/images/glendronach-16-boynsmill.jpg" },
+    "whisky": { "name": "The GlenDronach Boynsmill 16 Year Old", "nameKo": "글렌드로낙 16년 보인스밀", "distillery": "The GlenDronach", "country": "Scotland", "region": "Highlands", "category": "Single Malt Scotch", "age": 16, "abv": 46.0, "volumeMl": 700, "cask": "Pedro Ximénez, Oloroso sherry and Port casks", "finish": null, "peated": false, "image": "/images/glendronach-16-boynsmill.png" },
     "purchase": { "date": null, "place": { "name": "Shinsegae Duty Free", "city": null, "country": "South Korea" }, "price": { "amount": 102216, "currency": "KRW", "convertedKrw": null, "paidKrw": 102216, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "duty_free" },
     "bottle": { "status": "sealed", "openedDate": null, "remainingPercent": 100 },
     "personal": { "rating": null, "memo": "", "tags": [] },
