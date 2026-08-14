@@ -174,6 +174,10 @@ function detailRow(label, value, wide = false, raw = false) {
   return `<div${wide ? ' class="wide"' : ""}><dt>${escapeHtml(label)}</dt><dd>${raw ? value : escapeHtml(value)}</dd></div>`;
 }
 
+function detailSpec(label, value, raw = false) {
+  return `<div><dt>${escapeHtml(label)}</dt><dd>${raw ? value : escapeHtml(value)}</dd></div>`;
+}
+
 function openDetail(id) {
   const item = state.whiskies.find((entry) => entry.id === id);
   if (!item) return;
@@ -185,23 +189,38 @@ function openDetail(id) {
   const personal = item.personal ?? {};
   const peated = w.peated === true ? "예" : w.peated === false ? "아니오" : "-";
   const tags = Array.isArray(personal.tags) && personal.tags.length ? personal.tags.map((tag) => `<span class="tag">${escapeHtml(tag)}</span>`).join("") : "-";
+  const kicker = [w.distillery, w.category].filter(Boolean).join(" / ");
+  const status = labels.status[b.status] ?? "-";
+  const statusMarkup = b.status
+    ? `<span class="status-dot ${escapeHtml(b.status)}"></span>${escapeHtml(status)}`
+    : escapeHtml(status);
   $("#detail-content").innerHTML = `
     <div class="detail-hero">
       <div class="detail-image">${imageMarkup(item)}</div>
-      <div><p class="card-kicker">${escapeHtml(w.distillery)}</p><h2 id="detail-title">${escapeHtml(w.nameKo || w.name)}</h2><p class="english-name">${escapeHtml(w.name)}</p></div>
+      <div class="detail-summary">
+        <p class="card-kicker">${escapeHtml(kicker)}</p>
+        <h2 id="detail-title">${escapeHtml(w.nameKo || w.name)}</h2>
+        <p class="english-name">${escapeHtml(w.name)}</p>
+        ${personal.rating != null ? `<p class="detail-rating">${stars(personal.rating)}</p>` : ""}
+        <dl class="detail-specs">
+          ${detailSpec("TYPE", text(w.category))}${detailSpec("REGION", text(w.region))}
+          ${detailSpec("AGE", w.age != null ? `${w.age}년` : "-")}${detailSpec("ABV", w.abv != null ? `${w.abv}%` : "-")}
+          ${detailSpec("VOLUME", w.volumeMl != null ? `${w.volumeMl} ml` : "-")}${detailSpec("STATUS", statusMarkup, true)}
+        </dl>
+      </div>
     </div>
     <div class="detail-sections">
       <section class="detail-section"><h3>Whisky</h3><dl class="detail-list">
-        ${detailRow("이름", text(w.name))}${detailRow("증류소", text(w.distillery))}${detailRow("국가", text(w.country))}${detailRow("지역", text(w.region))}${detailRow("카테고리", text(w.category), true)}${detailRow("숙성연수", w.age != null ? `${w.age}년` : "-")}${detailRow("도수", w.abv != null ? `${w.abv}%` : "-")}${detailRow("용량", w.volumeMl != null ? `${w.volumeMl}ml` : "-")}${detailRow("캐스크", text(w.cask))}${detailRow("피니시", text(w.finish))}${detailRow("피트", peated)}
+        ${detailRow("이름", text(w.name))}${detailRow("증류소", text(w.distillery))}${detailRow("국가", text(w.country))}${detailRow("캐스크", text(w.cask))}${detailRow("피니시", text(w.finish))}${detailRow("피트", peated)}
       </dl></section>
       <section class="detail-section"><h3>Purchase</h3><dl class="detail-list">
         ${detailRow("구매일", text(p.date))}${detailRow("구매 유형", labels.purchaseType[p.purchaseType] ?? "-")}${detailRow("구매처", text(place.name))}${detailRow("도시", text(place.city))}${detailRow("구매 국가", text(place.country))}${detailRow("현지 구매가격", formatMoney(price.amount, price.currency))}${detailRow("원화 환산가격", formatKrw(price.convertedKrw))}${detailRow("실제 원화 지출", formatKrw(price.paidKrw))}${detailRow("적용 환율", price.exchangeRate != null ? `${price.exchangeRate} (${text(price.exchangeRateDate)})` : "-", true)}
       </dl></section>
       <section class="detail-section"><h3>Bottle</h3><dl class="detail-list">
-        ${detailRow("상태", labels.status[b.status] ?? "-")}${detailRow("개봉일", text(b.openedDate))}${detailRow("남은 양", b.remainingPercent != null ? `${b.remainingPercent}%` : "-")}
+        ${detailRow("개봉일", text(b.openedDate))}${detailRow("남은 양", b.remainingPercent != null ? `${b.remainingPercent}%` : "-")}
       </dl></section>
       <section class="detail-section"><h3>Personal</h3><dl class="detail-list">
-        ${detailRow("개인 평점", personal.rating != null ? `${personal.rating} / 5` : "-")}${detailRow("태그", tags, false, true)}${detailRow("메모", text(personal.memo), true)}
+        ${detailRow("태그", tags, false, true)}${detailRow("메모", text(personal.memo), true)}
       </dl></section>
     </div>`;
   $("#detail-dialog").showModal();
