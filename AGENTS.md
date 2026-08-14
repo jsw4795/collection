@@ -4,6 +4,14 @@
 
 This repository contains a personal, read-only whisky collection website. It is statically hosted on GitHub Pages and uses JSON instead of a database.
 
+## Work Scope
+
+- Perform only the task explicitly requested by the user.
+- Make the minimum changes necessary to complete the request.
+- Do not perform unrelated refactoring, cleanup, renaming, file moves, deletions, or dependency changes.
+- Do not fix unrelated issues unless explicitly requested.
+- Do not modify files that are not necessary for the requested task.
+
 ## Technology constraints
 
 - Use only plain HTML, CSS, and vanilla JavaScript.
@@ -97,6 +105,12 @@ Maintain the read-only collection cards and detail view, case-insensitive search
 - For application changes, serve the repository with any simple static HTTP server and check the browser console, empty data, populated data, responsive layout, and repository-subpath asset behavior.
 - Do not introduce a build command as part of validation.
 
-## Version control
+## Git Workflow
 
-- After every modification to collection data, validate the change, commit it, and push the commit to the configured remote repository.
+- Do not run `git commit` unless the user explicitly asks for it.
+- Do not run `git push` unless the user explicitly asks for it.
+- Do not create or modify branches unless explicitly requested.
+- Do not create pull requests unless explicitly requested.
+- Do not modify remote GitHub resources, including issues, pull requests, or labels, unless explicitly requested.
+- After completing a task, do not commit automatically.
+- Instead, provide exactly one suggested commit message that briefly and clearly summarizes the completed changes.
