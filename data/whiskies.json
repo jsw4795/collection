@@ -271,6 +271,14 @@
     "createdAt": "2026-08-13", "updatedAt": "2026-08-13"
   },
   {
+    "id": "glendronach-12-001",
+    "whisky": { "name": "The GlenDronach Aged 12 Years", "nameKo": "글렌드로낙 12년", "distillery": "The GlenDronach", "country": "Scotland", "region": "Highlands", "category": "Single Malt Scotch", "age": 12, "abv": 43.0, "volumeMl": 700, "cask": "Pedro Ximénez and Oloroso sherry casks", "finish": null, "peated": false, "image": "/images/glendronach-12-new.png" },
+    "purchase": { "date": null, "place": { "name": "조양마트", "city": "Seoul", "country": "South Korea" }, "price": { "amount": 88000, "currency": "KRW", "convertedKrw": null, "paidKrw": 88000, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "normal" },
+    "bottle": { "status": "opened", "openedDate": null, "remainingPercent": 50 },
+    "personal": { "rating": null, "memo": "", "tags": [] },
+    "createdAt": "2026-08-14", "updatedAt": "2026-08-14"
+  },
+  {
     "id": "buffalo-trace-001",
     "whisky": { "name": "Buffalo Trace Kentucky Straight Bourbon", "nameKo": "버팔로 트레이스", "distillery": "Buffalo Trace Distillery", "country": "United States", "region": "Kentucky", "category": "Kentucky Straight Bourbon", "age": null, "abv": 45.0, "volumeMl": 700, "cask": "New charred American oak", "finish": null, "peated": false, "image": "/images/buffalo-trace.png" },
     "purchase": { "date": null, "place": { "name": "이마트 신촌점", "city": "Seoul", "country": "South Korea" }, "price": { "amount": 35000, "currency": "KRW", "convertedKrw": null, "paidKrw": 35000, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "normal" },
