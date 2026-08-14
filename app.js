@@ -149,8 +149,8 @@ function cardMarkup(item) {
       </div>
       <div class="card-body">
         <p class="card-kicker">${escapeHtml(whisky.distillery)}</p>
-        <h3>${escapeHtml(whisky.nameKo || whisky.name)}</h3>
-        <p class="english-name">${escapeHtml(whisky.name)}</p>
+        <h3 class="product-name${whisky.nameKo ? "" : " english-only-name"}">${escapeHtml(whisky.nameKo || whisky.name)}</h3>
+        ${whisky.nameKo && whisky.name ? `<p class="english-name">${escapeHtml(whisky.name)}</p>` : ""}
         <div class="card-facts">${facts.map((fact) => `<span>${escapeHtml(fact)}</span>`).join("") || "<span>-</span>"}</div>
         <div class="card-footer">
           <div class="card-price"><span>구매가격</span><strong>${escapeHtml(displayPrice(item))}</strong></div>
@@ -199,8 +199,8 @@ function openDetail(id) {
       <div class="detail-image">${imageMarkup(item)}</div>
       <div class="detail-summary">
         <p class="card-kicker">${escapeHtml(kicker)}</p>
-        <h2 id="detail-title">${escapeHtml(w.nameKo || w.name)}</h2>
-        <p class="english-name">${escapeHtml(w.name)}</p>
+        <h2 class="product-name${w.nameKo ? "" : " english-only-name"}" id="detail-title">${escapeHtml(w.nameKo || w.name)}</h2>
+        ${w.nameKo && w.name ? `<p class="english-name">${escapeHtml(w.name)}</p>` : ""}
         ${personal.rating != null ? `<p class="detail-rating">${stars(personal.rating)}</p>` : ""}
         <dl class="detail-specs">
           ${detailSpec("TYPE", text(w.category))}${detailSpec("REGION", text(w.region))}
