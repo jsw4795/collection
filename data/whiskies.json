@@ -168,7 +168,7 @@
   },
   {
     "id": "glenfiddich-15-50ml-001",
-    "whisky": { "name": "Glenfiddich 15 Year Old 50ml", "nameKo": "글렌피딕 15년 50ml", "distillery": "Glenfiddich", "country": "Scotland", "region": "Speyside", "category": "Single Malt Scotch", "age": 15, "abv": 40.0, "volumeMl": 50, "cask": null, "finish": null, "peated": false, "image": "/images/glenfiddich-15-50ml.webp" },
+    "whisky": { "name": "Glenfiddich 15 Year Old 50ml", "nameKo": "글렌피딕 15년 50ml", "distillery": "Glenfiddich", "country": "Scotland", "region": "Speyside", "category": "Single Malt Scotch", "age": 15, "abv": 40.0, "volumeMl": 50, "cask": null, "finish": null, "peated": false, "image": "/images/glenfiddich-15-50ml.png" },
     "purchase": { "date": null, "place": { "name": "시먼딩 바틀샵", "city": "Taipei", "country": "Taiwan" }, "price": { "amount": 200, "currency": "TWD", "convertedKrw": null, "paidKrw": 9042, "exchangeRate": null, "exchangeRateDate": null }, "purchaseType": "normal" },
     "bottle": { "status": "sealed", "openedDate": null, "remainingPercent": 100 },
     "personal": { "rating": null, "memo": "", "tags": [] },
