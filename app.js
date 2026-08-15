@@ -5,6 +5,7 @@ const state = {
   search: "",
   sort: "name",
   filters: {},
+  view: "grid",
 };
 
 const $ = (selector, root = document) => root.querySelector(selector);
@@ -65,6 +66,21 @@ function imageMarkup(item, className = "") {
   const url = assetUrl(item.whisky?.image);
   if (!url) return `<div class="empty-bottle card-placeholder ${className}" aria-label="이미지 없음"><span></span></div>`;
   return `<img class="${className}" src="${escapeHtml(url)}" alt="${escapeHtml(name)} 병" loading="lazy" onerror="this.hidden=true;this.nextElementSibling.hidden=false"><div class="empty-bottle card-placeholder" hidden aria-label="이미지 없음"><span></span></div>`;
+}
+
+function labelImageUrl(item) {
+  const imagePath = item.whisky?.image;
+  if (!imagePath) return null;
+  const filename = String(imagePath).split("/").pop();
+  return filename ? assetUrl(`images/labels/${filename}`) : null;
+}
+
+function listImageMarkup(item) {
+  const name = item.whisky?.nameKo || item.whisky?.name || "위스키";
+  const bottleUrl = assetUrl(item.whisky?.image);
+  const labelUrl = labelImageUrl(item);
+  if (!bottleUrl) return `<div class="empty-bottle card-placeholder" aria-label="이미지 없음"><span></span></div>`;
+  return `<img class="list-whisky-image" src="${escapeHtml(labelUrl ?? bottleUrl)}" data-fallback="${escapeHtml(bottleUrl)}" alt="${escapeHtml(name)} 라벨" loading="lazy" onerror="if(this.dataset.fallback){this.classList.add('is-fallback');this.src=this.dataset.fallback;this.dataset.fallback='';}else{this.hidden=true;this.nextElementSibling.hidden=false}"><div class="empty-bottle card-placeholder" hidden aria-label="이미지 없음"><span></span></div>`;
 }
 
 function updateStats() {
@@ -160,14 +176,51 @@ function cardMarkup(item) {
     </button>`;
 }
 
+function listMarkup(item) {
+  const whisky = item.whisky ?? {};
+  const name = whisky.nameKo || whisky.name;
+  return `
+    <button class="whisky-list-item" type="button" data-id="${escapeHtml(item.id)}" aria-label="${escapeHtml(name)} 상세 보기">
+      <div class="list-image">${listImageMarkup(item)}</div>
+      <div class="list-content">
+        <div class="list-primary">
+          <h3 class="product-name${whisky.nameKo ? "" : " english-only-name"}">${escapeHtml(name)}</h3>
+          ${whisky.nameKo && whisky.name ? `<p>${escapeHtml(whisky.name)}</p>` : ""}
+        </div>
+        <div class="list-facts">
+          <div class="list-fact"><span>국가</span><strong>${escapeHtml(text(whisky.country))}</strong></div>
+          <div class="list-fact"><span>ABV</span><strong>${whisky.abv != null ? `${escapeHtml(whisky.abv)}%` : "-"}</strong></div>
+          <div class="list-fact list-price"><span>구매가격</span><strong>${escapeHtml(displayPrice(item))}</strong></div>
+          <div class="list-fact"><span>구매일</span><strong>${escapeHtml(text(item.purchase?.date))}</strong></div>
+        </div>
+      </div>
+    </button>`;
+}
+
+function updateViewControls() {
+  $$('[data-view]').forEach((button) => button.setAttribute("aria-pressed", String(button.dataset.view === state.view)));
+  const collection = $("#card-grid");
+  collection.classList.toggle("list-view", state.view === "list");
+  collection.classList.toggle("card-grid", state.view === "grid");
+}
+
+function setView(view, persist = true) {
+  state.view = view === "list" ? "list" : "grid";
+  if (persist) {
+    try { localStorage.setItem("collectionView", state.view); } catch { /* Storage may be unavailable. */ }
+  }
+  updateViewControls();
+  render();
+}
+
 function render() {
   const items = sortItems(state.whiskies.filter(matches));
   $("#result-count").textContent = `${items.length.toLocaleString("ko-KR")} bottle${items.length === 1 ? "" : "s"}`;
-  $("#card-grid").innerHTML = items.map(cardMarkup).join("");
+  $("#card-grid").innerHTML = items.map(state.view === "list" ? listMarkup : cardMarkup).join("");
   $("#empty-state").hidden = state.whiskies.length !== 0;
   $("#no-results").hidden = state.whiskies.length === 0 || items.length !== 0;
   $("#card-grid").hidden = items.length === 0;
-  $$(".whisky-card").forEach((card) => card.addEventListener("click", () => openDetail(card.dataset.id)));
+  $$("#card-grid [data-id]").forEach((item) => item.addEventListener("click", () => openDetail(item.dataset.id)));
 }
 
 function detailRow(label, value, wide = false, raw = false) {
@@ -242,6 +295,7 @@ function updateFilterCount() {
 }
 
 function bindEvents() {
+  $$('[data-view]').forEach((button) => button.addEventListener("click", () => setView(button.dataset.view)));
   $("#search-input").addEventListener("input", (event) => { state.search = event.target.value; render(); });
   $("#sort-select").addEventListener("change", (event) => { state.sort = event.target.value; render(); });
   $("#filter-toggle").addEventListener("click", () => {
@@ -273,6 +327,11 @@ function bindEvents() {
   });
 }
 
+function restoreView() {
+  try { state.view = localStorage.getItem("collectionView") === "list" ? "list" : "grid"; } catch { state.view = "grid"; }
+  updateViewControls();
+}
+
 async function loadCollection() {
   try {
     const response = await fetch(assetUrl("data/whiskies.json"), { cache: "no-store" });
@@ -292,5 +351,6 @@ async function loadCollection() {
   }
 }
 
+restoreView();
 bindEvents();
 loadCollection();
