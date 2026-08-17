@@ -551,7 +551,9 @@
       "vintage": null,
       "isNonVintage": true,
       "grapes": [
-        "Blend"
+        "Pinot Noir",
+        "Pinot Meunier",
+        "Chardonnay"
       ],
       "alcohol": 12,
       "volumeMl": null,
@@ -560,7 +562,7 @@
       "aging": null,
       "servingTemperature": null,
       "foodPairing": [],
-      "description": "논빈티지 이 와인은 프랑스에서 생산한 스파클링 와인입니다. 주요 품종은 블렌드입니다.",
+      "description": "논빈티지 이 와인은 프랑스에서 생산한 스파클링 와인입니다. 주요 품종은 피노 누아 · 피노 뫼니에 · 샤르도네입니다.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/3408351",
         "rating": 3.8,
@@ -1693,7 +1695,8 @@
       "vintage": 2014,
       "isNonVintage": false,
       "grapes": [
-        "Blend"
+        "Sémillon",
+        "Sauvignon Blanc"
       ],
       "alcohol": 13.5,
       "volumeMl": null,
@@ -1702,7 +1705,7 @@
       "aging": null,
       "servingTemperature": null,
       "foodPairing": [],
-      "description": "2014 빈티지 이 와인은 프랑스에서 생산한 디저트 와인입니다. 주요 품종은 블렌드입니다.",
+      "description": "2014 빈티지 이 와인은 프랑스에서 생산한 디저트 와인입니다. 주요 품종은 세미용 · 소비뇽 블랑입니다.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/1526096",
         "rating": 4.3,
@@ -1743,7 +1746,8 @@
       "vintage": 2020,
       "isNonVintage": false,
       "grapes": [
-        "Blend"
+        "Pinot Noir",
+        "Monastrell"
       ],
       "alcohol": null,
       "volumeMl": null,
@@ -1752,7 +1756,7 @@
       "aging": null,
       "servingTemperature": null,
       "foodPairing": [],
-      "description": "2020 빈티지 이 와인은 스페인에서 생산한 스파클링 와인입니다. 주요 품종은 블렌드입니다.",
+      "description": "2020 빈티지 이 와인은 스페인에서 생산한 스파클링 와인입니다. 주요 품종은 피노 누아 · 모나스트렐입니다.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/141428376",
         "rating": 3.4,
@@ -2174,7 +2178,9 @@
       "vintage": null,
       "isNonVintage": true,
       "grapes": [
-        "Blend"
+        "Xarel-lo",
+        "Macabeo",
+        "Parellada"
       ],
       "alcohol": 12,
       "volumeMl": null,
@@ -2183,7 +2189,7 @@
       "aging": null,
       "servingTemperature": null,
       "foodPairing": [],
-      "description": "논빈티지 이 와인은 스페인에서 생산한 스파클링 와인입니다. 주요 품종은 블렌드입니다.",
+      "description": "논빈티지 이 와인은 스페인에서 생산한 스파클링 와인입니다. 주요 품종은 자렐로 · 마카베오 · 파렐랴다입니다.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/1747080",
         "rating": 3.8,
@@ -3166,7 +3172,8 @@
       "vintage": null,
       "isNonVintage": true,
       "grapes": [
-        "Blend"
+        "Pinot Noir",
+        "Chardonnay"
       ],
       "alcohol": 12.5,
       "volumeMl": null,
@@ -3175,7 +3182,7 @@
       "aging": null,
       "servingTemperature": null,
       "foodPairing": [],
-      "description": "논빈티지 이 와인은 프랑스에서 생산한 스파클링 와인입니다. 주요 품종은 블렌드입니다.",
+      "description": "논빈티지 이 와인은 프랑스에서 생산한 스파클링 와인입니다. 주요 품종은 피노 누아 · 샤르도네입니다.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/32160670",
         "rating": 4.1,
@@ -4288,7 +4295,8 @@
       "vintage": null,
       "isNonVintage": true,
       "grapes": [
-        "Blend"
+        "Trepat",
+        "Pinot Noir"
       ],
       "alcohol": 11.5,
       "volumeMl": null,
@@ -4297,7 +4305,7 @@
       "aging": null,
       "servingTemperature": null,
       "foodPairing": [],
-      "description": "논빈티지 이 와인은 스페인에서 생산한 스파클링 와인입니다. 주요 품종은 블렌드입니다.",
+      "description": "논빈티지 이 와인은 스페인에서 생산한 스파클링 와인입니다. 주요 품종은 트레파트 · 피노 누아입니다.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/170098712",
         "rating": 3.3,
@@ -4805,7 +4813,10 @@
       "vintage": null,
       "isNonVintage": false,
       "grapes": [
-        "Blend"
+        "Chardonnay",
+        "Vermentino",
+        "Pecorino",
+        "Viognier"
       ],
       "alcohol": 13,
       "volumeMl": null,
@@ -4814,7 +4825,7 @@
       "aging": null,
       "servingTemperature": null,
       "foodPairing": [],
-      "description": "이 와인은 이탈리아에서 생산한 화이트 와인입니다. 주요 품종은 블렌드입니다.",
+      "description": "이 와인은 이탈리아에서 생산한 화이트 와인입니다. 주요 품종은 샤르도네 · 베르멘티노 · 페코리노 · 비오니에입니다.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/2481318",
         "rating": 3.6,
@@ -6214,7 +6225,10 @@
       "vintage": null,
       "isNonVintage": true,
       "grapes": [
-        "Blend"
+        "Merlot",
+        "Primitivo",
+        "Nero d'Avola",
+        "Montepulciano"
       ],
       "alcohol": 14,
       "volumeMl": null,
@@ -6223,7 +6237,7 @@
       "aging": null,
       "servingTemperature": null,
       "foodPairing": [],
-      "description": "논빈티지 이 와인은 이탈리아에서 생산한 레드 와인입니다. 주요 품종은 블렌드입니다.",
+      "description": "논빈티지 이 와인은 이탈리아에서 생산한 레드 와인입니다. 주요 품종은 메를로 · 프리미티보 · 네로 다볼라 · 몬테풀치아노입니다.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/164942584",
         "rating": 3.8,
@@ -6604,7 +6618,11 @@
       "vintage": 2020,
       "isNonVintage": false,
       "grapes": [
-        "Blend"
+        "Muscat Ottonel",
+        "Riesling",
+        "Sauvignon Blanc",
+        "Gewürztraminer",
+        "Pinot Gris"
       ],
       "alcohol": 12.5,
       "volumeMl": null,
@@ -6613,7 +6631,7 @@
       "aging": null,
       "servingTemperature": null,
       "foodPairing": [],
-      "description": "2020 빈티지 이 와인은 루마니아에서 생산한 오렌지 와인입니다. 주요 품종은 블렌드입니다.",
+      "description": "2020 빈티지 이 와인은 루마니아에서 생산한 오렌지 와인입니다. 주요 품종은 뮈스카 오토넬 · 리슬링 · 소비뇽 블랑 · 게뷔르츠트라미너 · 피노 그리입니다.",
       "vivino": {
         "url": "https://www.vivino.com/SG/en/cramele-recas-orange-natural/w/7443820?ref=nav-search",
         "rating": 3.4,
