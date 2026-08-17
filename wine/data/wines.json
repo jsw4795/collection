@@ -469,7 +469,7 @@
       "grapes": [
         "Blend"
       ],
-      "alcohol": null,
+      "alcohol": 12.0,
       "volumeMl": null,
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/3408351",
@@ -693,13 +693,13 @@
         "ko": null,
         "en": "Porto Cruz Tawny Port"
       },
-      "winery": null,
+      "winery": "Porto Cruz",
       "type": "dessert",
       "country": "Portugal",
       "region": "Porto",
       "vintage": null,
       "grapes": [],
-      "alcohol": null,
+      "alcohol": 19.0,
       "volumeMl": null,
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/2353432",
@@ -3265,7 +3265,7 @@
       "grapes": [
         "Glera"
       ],
-      "alcohol": null,
+      "alcohol": 11.0,
       "volumeMl": null,
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/157161091",
@@ -4670,7 +4670,7 @@
       "grapes": [
         "Glera"
       ],
-      "alcohol": null,
+      "alcohol": 11.5,
       "volumeMl": null,
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/135368169",
