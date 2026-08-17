@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#0a0d0c">
+    <meta name="description" content="보유 와인과 구매·소비 기록을 한눈에 살펴보는 개인 컬렉션">
+    <title>Wine Collection</title>
+    <link rel="icon" href="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&amp;display=swap">
+    <link rel="stylesheet" href="styles.css">
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="site-header"><a class="brand" href="./" aria-label="Wine Collection 홈"><span class="brand-mark" aria-hidden="true">W</span><span><strong>Wine Collection</strong><small>Personal archive</small></span></a><p class="as-of" id="as-of">나만의 와인 기록</p></header>
+      <main>
+        <section class="hero"><div><p class="eyebrow">MY CELLAR</p><h1>천천히 마시고,<br><span>선명하게 기록하다.</span></h1><p class="hero-copy">한 병의 정보부터 구매 순간과 마신 기억까지, 필요한 기록만 차분하게 모았습니다.</p></div><div class="hero-seal" aria-hidden="true"><span>PRIVATE</span><strong>W</strong><span>COLLECTION</span></div></section>
+        <section class="stats" aria-label="컬렉션 통계"><article class="stat-card stat-primary"><span class="stat-label">현재 보유</span><div><strong id="stat-owned">0</strong><small>병</small></div><p>구매와 소비 기록을 기준으로 계산합니다</p></article><article class="stat-card"><span class="stat-label">보유 와인</span><div><strong id="stat-wines">0</strong><small>종</small></div></article><article class="stat-card"><span class="stat-label">소비 기록</span><div><strong id="stat-consumed">0</strong><small>병</small></div></article><article class="stat-card stat-price"><span class="stat-label">총 구매금액</span><div><strong id="stat-total">₩0</strong></div><p>기록된 원화 구매금액 기준</p></article></section>
+        <section class="collection"><div class="section-heading"><div><p class="eyebrow">THE COLLECTION</p><h2>컬렉션</h2></div><div class="collection-heading-meta"><span class="result-count" id="result-count">0 bottles</span><div class="view-toggle" role="group" aria-label="컬렉션 보기 방식"><button type="button" data-view="grid" aria-pressed="true">GRID</button><span>/</span><button type="button" data-view="list" aria-pressed="false">LIST</button></div></div></div>
+          <div class="toolbar"><label class="search-box"><span class="search-icon"></span><span class="sr-only">와인 검색</span><input id="search-input" type="search" placeholder="이름 또는 와이너리 검색" autocomplete="off"><kbd>⌘ K</kbd></label><button class="control-button" id="filter-toggle" type="button" aria-expanded="false" aria-controls="filter-panel">필터 <span class="filter-count" id="filter-count" hidden>0</span></button><label class="select-wrap"><span class="sr-only">정렬</span><select id="sort-select"><option value="name">이름순</option><option value="purchase-desc">최근 구매순</option><option value="price-desc">최근 구매가격 높은 순</option><option value="price-asc">최근 구매가격 낮은 순</option><option value="rating-desc">최근 내 평점순</option></select></label></div>
+          <div class="filter-panel" id="filter-panel" hidden><div class="filter-grid"><label>타입<select data-filter="type"><option value="">전체</option></select></label><label>국가<select data-filter="country"><option value="">전체</option></select></label><label>지역<select data-filter="region"><option value="">전체</option></select></label><label>와이너리<select data-filter="winery"><option value="">전체</option></select></label><label>품종<select data-filter="grape"><option value="">전체</option></select></label><label>보유 여부<select data-filter="owned"><option value="">전체</option><option value="yes">보유 중</option><option value="no">보유 없음</option></select></label></div><button class="reset-button" id="reset-filters" type="button">필터 초기화</button></div>
+          <div class="loading-state" id="loading-state"><span class="loader"></span><p>컬렉션을 불러오는 중입니다</p></div><div class="empty-state" id="empty-state" hidden><p class="eyebrow">YOUR FIRST BOTTLE</p><h3>아직 컬렉션이 비어 있어요.</h3></div><div class="empty-state compact" id="no-results" hidden><p class="eyebrow">NO RESULTS</p><h3>조건에 맞는 와인이 없습니다.</h3><button class="reset-button" id="reset-search" type="button">검색과 필터 지우기</button></div><div class="card-grid" id="card-grid"></div><div class="error-state" id="error-state" hidden role="alert"><h3>컬렉션을 불러오지 못했습니다.</h3><p>로컬 서버와 <code>data/wines.json</code> 형식을 확인해주세요.</p></div>
+        </section>
+      </main><footer><span>WINE COLLECTION</span><p>한 잔씩, 나만의 취향을 기록합니다.</p></footer>
+    </div>
+    <dialog class="detail-dialog" id="detail-dialog" aria-labelledby="detail-title"><button class="dialog-close" id="dialog-close" type="button" aria-label="상세 보기 닫기">×</button><div id="detail-content"></div></dialog>
+  </body>
+</html>
