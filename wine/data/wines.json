@@ -11,20 +11,33 @@
       "type": "sparkling",
       "country": "France",
       "region": "Champagne",
+      "appellation": "Champagne AOC",
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
-        "Pinot Noir"
+        "Pinot Noir",
+        "Pinot Meunier",
+        "Chardonnay"
       ],
-      "alcohol": 12.5,
+      "alcohol": 12,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": "Traditional Method",
+      "aging": "Minimum 24 months on lees",
+      "servingTemperature": "8-10°C",
+      "foodPairing": [
+        "Aperitif",
+        "Seafood"
+      ],
+      "description": "Moët & Chandon's multi-vintage Brut Impérial is a Champagne AOC blend of Pinot Noir, Pinot Meunier, and Chardonnay, made by the traditional method.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/164942645",
         "rating": 4.1,
         "ratingCount": 123419,
-        "averagePrice": 77885.0
+        "averagePrice": 77885
       },
-      "image": "https://images.vivino.com/thumbs/rMVZMDzeRBWHCcA2a0AgFA_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/rMVZMDzeRBWHCcA2a0AgFA_pb_x600.png"
     },
     "purchases": [
       {
@@ -96,20 +109,33 @@
       "type": "sparkling",
       "country": "France",
       "region": "Champagne",
+      "appellation": "Champagne AOC",
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
-        "Blend"
+        "Pinot Noir",
+        "Pinot Meunier",
+        "Chardonnay"
       ],
-      "alcohol": 12.0,
+      "alcohol": 12,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": "Traditional Method",
+      "aging": "Minimum 24 months on lees",
+      "servingTemperature": "8-10°C",
+      "foodPairing": [
+        "Aperitif",
+        "Seafood"
+      ],
+      "description": "Piper-Heidsieck Cuvée Brut is the house’s multi-vintage Champagne AOC, blended from Champagne’s three principal grapes and matured on lees.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/156715939",
         "rating": 4.1,
         "ratingCount": 15650,
-        "averagePrice": 65730.0
+        "averagePrice": 65730
       },
-      "image": "https://images.vivino.com/thumbs/QIvxnCXGRoeJz5BZG3dfcg_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/QIvxnCXGRoeJz5BZG3dfcg_pb_x600.png"
     },
     "purchases": [
       {
@@ -160,20 +186,28 @@
       "type": "white",
       "country": "New Zealand",
       "region": "Marlborough",
+      "appellation": "Marlborough",
+      "classification": null,
       "vintage": 2021,
+      "isNonVintage": false,
       "grapes": [
         "Sauvignon Blanc"
       ],
       "alcohol": 12.5,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Villa Maria Private Bin Sauvignon Blanc is a 2021 Marlborough wine made from Sauvignon Blanc.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/1694639",
         "rating": 4.1,
         "ratingCount": 65986,
-        "averagePrice": 17765.0
+        "averagePrice": 17765
       },
-      "image": "https://images.vivino.com/thumbs/8oskU7ePTNiChLomWouUZw_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/8oskU7ePTNiChLomWouUZw_pb_x600.png"
     },
     "purchases": [
       {
@@ -233,20 +267,30 @@
       "type": "sparkling",
       "country": "France",
       "region": "Champagne",
+      "appellation": "Champagne AOC",
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
-        "Blend"
+        "Pinot Noir",
+        "Pinot Meunier",
+        "Chardonnay"
       ],
       "alcohol": 12.5,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Veuve Clicquot Yellow Label is a multi-vintage Brut Champagne AOC blend of Pinot Noir, Pinot Meunier, and Chardonnay.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/164942636",
         "rating": 4.3,
         "ratingCount": 131796,
-        "averagePrice": 92378.0
+        "averagePrice": 92378
       },
-      "image": "https://images.vivino.com/thumbs/IKo-8iuYS2GK-Ozg3svtYw_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/IKo-8iuYS2GK-Ozg3svtYw_pb_x600.png"
     },
     "purchases": [
       {
@@ -275,20 +319,30 @@
       "type": "sparkling",
       "country": "France",
       "region": "Champagne",
+      "appellation": "Champagne AOC",
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
-        "Pinot Noir"
+        "Pinot Noir",
+        "Pinot Meunier",
+        "Chardonnay"
       ],
       "alcohol": 12.5,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "G.H. Mumm’s G.H. Mumm Grand Cordon Rosé Brut Champagne is a sparkling wine from Champagne AOC, France made from Pinot Noir, Pinot Meunier, Chardonnay.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/158947297",
-        "rating": 4.0,
+        "rating": 4,
         "ratingCount": 1066,
-        "averagePrice": 85272.0
+        "averagePrice": 85272
       },
-      "image": "https://images.vivino.com/thumbs/dkg6E_oPT0qli3w2HsiVpw_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/dkg6E_oPT0qli3w2HsiVpw_pb_x600.png"
     },
     "purchases": [
       {
@@ -328,20 +382,30 @@
       "type": "sparkling",
       "country": "Spain",
       "region": "Cava",
+      "appellation": "Cava DO",
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
-        "Xarel-lo"
+        "Xarel-lo",
+        "Macabeo",
+        "Parellada"
       ],
-      "alcohol": 12.0,
+      "alcohol": 12,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Bohigas’s Bohigas Reserva Cava Brut is a sparkling wine from Cava DO, Spain made from Xarel-lo, Macabeo, Parellada.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/1947458",
         "rating": 3.8,
         "ratingCount": 4596,
-        "averagePrice": 23094.0
+        "averagePrice": 23094
       },
-      "image": "/images/WINE_e284f95b-c316-414c-b1cd-b0cba3374372.png",
-      "size": "magnum"
+      "image": "/images/WINE_e284f95b-c316-414c-b1cd-b0cba3374372.png"
     },
     "purchases": [
       {
@@ -381,20 +445,29 @@
       "type": "sparkling",
       "country": "France",
       "region": "Champagne",
+      "appellation": "Champagne AOC",
+      "classification": "Vintage",
       "vintage": 2008,
+      "isNonVintage": false,
       "grapes": [
-        "Chardonnay"
+        "Chardonnay",
+        "Pinot Noir"
       ],
-      "alcohol": 12.0,
+      "alcohol": 12,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Rare Champagne’s 2008 Rare Champagne Rare Brut Champagne (Millésimé) is a sparkling wine from Champagne AOC, France made from Chardonnay, Pinot Noir.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/1565612",
         "rating": 4.5,
         "ratingCount": 8776,
-        "averagePrice": 310886.0
+        "averagePrice": 310886
       },
-      "image": "https://images.vivino.com/thumbs/WQYxnqXyS52mwWH9EHX9Gw_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/WQYxnqXyS52mwWH9EHX9Gw_pb_x600.png"
     },
     "purchases": [
       {
@@ -422,21 +495,29 @@
       "winery": "Andre Clouet",
       "type": "sparkling",
       "country": "France",
-      "region": "Champagne Grand Cru 'Bouzy'",
+      "region": "Champagne",
+      "appellation": "Bouzy",
+      "classification": "Grand Cru",
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
         "Pinot Noir"
       ],
-      "alcohol": 12.0,
+      "alcohol": 12,
       "volumeMl": null,
+      "sweetness": "Brut Nature",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Andre Clouet’s Andre Clouet Brut Nature Silver Champagne Grand Cru 'Bouzy' is a sparkling wine from Bouzy, France made from Pinot Noir.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/1519570",
         "rating": 3.8,
         "ratingCount": 10545,
-        "averagePrice": 60401.0
+        "averagePrice": 60401
       },
-      "image": "https://images.vivino.com/thumbs/E8jsksjhQHGfLFpe9MBizA_pb_x600.png",
-      "size": "magnum"
+      "image": "https://images.vivino.com/thumbs/E8jsksjhQHGfLFpe9MBizA_pb_x600.png"
     },
     "purchases": [
       {
@@ -465,20 +546,28 @@
       "type": "sparkling",
       "country": "France",
       "region": "Champagne",
+      "appellation": "Champagne AOC",
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
         "Blend"
       ],
-      "alcohol": 12.0,
+      "alcohol": 12,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Charles Clément’s Charles Clément Tradition Brut Champagne is a sparkling wine from Champagne AOC, France made from Blend.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/3408351",
         "rating": 3.8,
         "ratingCount": 1204,
-        "averagePrice": 49742.0
+        "averagePrice": 49742
       },
-      "image": "https://images.vivino.com/thumbs/SIg-hoveSaKMGJg08HbS2g_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/SIg-hoveSaKMGJg08HbS2g_pb_x600.png"
     },
     "purchases": [
       {
@@ -591,20 +680,30 @@
       "type": "red",
       "country": "Chile",
       "region": "Maipo Valley",
+      "appellation": "Maipo Valley",
+      "classification": null,
       "vintage": 2019,
+      "isNonVintage": false,
       "grapes": [
-        "Blend"
+        "Cabernet Sauvignon",
+        "Cabernet Franc",
+        "Carménère"
       ],
-      "alcohol": 15.0,
+      "alcohol": 15,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Santa Rita’s 2019 Santa Rita Triple C Red Blend is a red wine from Maipo Valley, Chile made from Cabernet Sauvignon, Cabernet Franc, Carménère.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/1933146",
         "rating": 4.1,
         "ratingCount": 11791,
-        "averagePrice": 58624.0
+        "averagePrice": 58624
       },
-      "image": "https://images.vivino.com/thumbs/8oYEDb2SSteMtovw6qfAgA_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/8oYEDb2SSteMtovw6qfAgA_pb_x600.png"
     },
     "purchases": [
       {
@@ -644,20 +743,28 @@
       "type": "red",
       "country": "United States",
       "region": "Washington",
+      "appellation": null,
+      "classification": null,
       "vintage": 2019,
+      "isNonVintage": false,
       "grapes": [
         "Shiraz/Syrah"
       ],
       "alcohol": 13.8,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Two Vines’s 2019 Two Vines Shiraz is a red wine from Washington, United States made from Shiraz/Syrah.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/3742175",
         "rating": 3.7,
         "ratingCount": 3918,
-        "averagePrice": 12435.0
+        "averagePrice": 12435
       },
-      "image": "https://images.vivino.com/thumbs/n86lBoZnRXyYZJtvgUrtuQ_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/n86lBoZnRXyYZJtvgUrtuQ_pb_x600.png"
     },
     "purchases": [
       {
@@ -694,21 +801,29 @@
         "en": "Porto Cruz Tawny Port"
       },
       "winery": "Porto Cruz",
-      "type": "dessert",
+      "type": "fortified",
       "country": "Portugal",
       "region": "Porto",
+      "appellation": "Porto DOC",
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [],
-      "alcohol": 19.0,
+      "alcohol": 19,
       "volumeMl": null,
+      "sweetness": "Sweet",
+      "productionMethod": "Fortified",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Porto Cruz Tawny is a non-vintage fortified wine from the Porto DOC in Portugal.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/2353432",
         "rating": 3.7,
         "ratingCount": 5095,
-        "averagePrice": 17765.0
+        "averagePrice": 17765
       },
-      "image": "https://images.vivino.com/thumbs/mIA39cqnTvuRk3SlJ_NKEw_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/mIA39cqnTvuRk3SlJ_NKEw_pb_x600.png"
     },
     "purchases": [
       {
@@ -747,21 +862,29 @@
       "winery": "Michele Chiarlo",
       "type": "red",
       "country": "Italy",
-      "region": "Barbera d'Asti",
+      "region": "Piedmont",
+      "appellation": "Barbera d'Asti DOCG",
+      "classification": null,
       "vintage": 2020,
+      "isNonVintage": false,
       "grapes": [
         "Barbera"
       ],
       "alcohol": 13.5,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Michele Chiarlo’s 2020 Michele Chiarlo Barbera d'Asti Le Orme is a red wine from Barbera d'Asti DOCG, Italy made from Barbera.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/1513611",
         "rating": 3.7,
         "ratingCount": 20233,
-        "averagePrice": 23094.0
+        "averagePrice": 23094
       },
-      "image": "/images/WINE_07569c17-35d3-4528-8bba-15bed26a32fe.png",
-      "size": "standard"
+      "image": "/images/WINE_07569c17-35d3-4528-8bba-15bed26a32fe.png"
     },
     "purchases": [
       {
@@ -801,20 +924,30 @@
       "type": "red",
       "country": "France",
       "region": "Languedoc",
+      "appellation": "Languedoc",
+      "classification": null,
       "vintage": 2016,
+      "isNonVintage": false,
       "grapes": [
-        "Grenache"
+        "Grenache",
+        "Syrah",
+        "Mourvèdre"
       ],
-      "alcohol": 14.0,
+      "alcohol": 14,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Gérard Bertrand’s 2016 Gérard Bertrand Art de Vivre Rouge is a red wine from Languedoc, France made from Grenache, Syrah, Mourvèdre.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/160217179",
         "rating": 3.9,
         "ratingCount": 2013,
-        "averagePrice": 24871.0
+        "averagePrice": 24871
       },
-      "image": "/images/WINE_2adb431f-494b-46b6-a668-a4ba1afe2f69.png",
-      "size": "standard"
+      "image": "/images/WINE_2adb431f-494b-46b6-a668-a4ba1afe2f69.png"
     },
     "purchases": [
       {
@@ -853,21 +986,29 @@
       "winery": "Louis Jadot",
       "type": "red",
       "country": "France",
-      "region": "Bourgogne",
+      "region": "Burgundy",
+      "appellation": "Bourgogne AOC",
+      "classification": null,
       "vintage": 2020,
+      "isNonVintage": false,
       "grapes": [
         "Pinot Noir"
       ],
       "alcohol": 12.5,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Louis Jadot’s 2020 Louis Jadot Bourgogne Pinot Noir is a red wine from Bourgogne AOC, France made from Pinot Noir.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/1471186",
         "rating": 3.6,
         "ratingCount": 43006,
-        "averagePrice": 30200.0
+        "averagePrice": 30200
       },
-      "image": "https://images.vivino.com/thumbs/YtGIp7cLSRSUpucZV4RMuw_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/YtGIp7cLSRSUpucZV4RMuw_pb_x600.png"
     },
     "purchases": [
       {
@@ -896,20 +1037,28 @@
       "type": "red",
       "country": "United States",
       "region": "California",
+      "appellation": null,
+      "classification": null,
       "vintage": 2020,
+      "isNonVintage": false,
       "grapes": [
         "Shiraz/Syrah"
       ],
       "alcohol": 13.5,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "SLO Down’s 2020 SLO Down Sexual Chocolate Red is a red wine from California, United States made from Shiraz/Syrah.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/3844217",
         "rating": 4.1,
         "ratingCount": 11030,
-        "averagePrice": 35530.0
+        "averagePrice": 35530
       },
-      "image": "https://images.vivino.com/thumbs/RTDsR9wuQzqPoLsZ_fY3gQ_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/RTDsR9wuQzqPoLsZ_fY3gQ_pb_x600.png"
     },
     "purchases": [
       {
@@ -938,20 +1087,28 @@
       "type": "white",
       "country": "Germany",
       "region": "Rheingau",
+      "appellation": "Rheingau",
+      "classification": null,
       "vintage": null,
+      "isNonVintage": false,
       "grapes": [
         "Riesling"
       ],
-      "alcohol": 10.0,
+      "alcohol": 10,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "J. Bäumer’s J. Bäumer Riesling is a white wine from Rheingau, Germany made from Riesling.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/1520604",
         "rating": 3.8,
         "ratingCount": 4091,
-        "averagePrice": 19541.0
+        "averagePrice": 19541
       },
-      "image": "/images/WINE_94564c31-957b-401e-b00a-1de8a4da9c24.png",
-      "size": "standard"
+      "image": "/images/WINE_94564c31-957b-401e-b00a-1de8a4da9c24.png"
     },
     "purchases": [
       {
@@ -991,20 +1148,28 @@
       "type": "white",
       "country": "New Zealand",
       "region": "Marlborough",
+      "appellation": "Marlborough",
+      "classification": null,
       "vintage": 2022,
+      "isNonVintage": false,
       "grapes": [
         "Sauvignon Blanc"
       ],
-      "alcohol": 13.0,
+      "alcohol": 13,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Kono’s 2022 Kono Sauvignon Blanc is a white wine from Marlborough, New Zealand made from Sauvignon Blanc.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/1904451",
         "rating": 3.9,
         "ratingCount": 17015,
-        "averagePrice": 19541.0
+        "averagePrice": 19541
       },
-      "image": "https://images.vivino.com/thumbs/M4j7BCUMR7mahzDDquc5TA_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/M4j7BCUMR7mahzDDquc5TA_pb_x600.png"
     },
     "purchases": [
       {
@@ -1064,20 +1229,30 @@
       "type": "white",
       "country": "Spain",
       "region": "Castilla",
+      "appellation": null,
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
-        "Blend"
+        "Verdejo",
+        "Sauvignon Blanc",
+        "Chardonnay"
       ],
       "alcohol": 12.5,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Félix Solís’s Félix Solís Mucho Más Blanco is a white wine from Castilla, Spain made from Verdejo, Sauvignon Blanc, Chardonnay.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/154618477",
-        "rating": 4.0,
+        "rating": 4,
         "ratingCount": 19342,
-        "averagePrice": 12435.0
+        "averagePrice": 12435
       },
-      "image": "https://images.vivino.com/thumbs/gQMTBQM9R7CHhWU8SILKww_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/gQMTBQM9R7CHhWU8SILKww_pb_x600.png"
     },
     "purchases": [
       {
@@ -1117,20 +1292,28 @@
       "type": "white",
       "country": "United States",
       "region": "Columbia Valley",
+      "appellation": "Columbia Valley AVA",
+      "classification": null,
       "vintage": 2021,
+      "isNonVintage": false,
       "grapes": [
         "Riesling"
       ],
-      "alcohol": 13.0,
+      "alcohol": 13,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Chateau Ste. Michelle’s 2021 Chateau Ste. Michelle Dry Riesling is a white wine from Columbia Valley AVA, United States made from Riesling.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/1559115",
         "rating": 3.8,
         "ratingCount": 14247,
-        "averagePrice": 14212.0
+        "averagePrice": 14212
       },
-      "image": "https://images.vivino.com/thumbs/74EuDUpMR3uUDHUagzIHWg_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/74EuDUpMR3uUDHUagzIHWg_pb_x600.png"
     },
     "purchases": [
       {
@@ -1170,20 +1353,28 @@
       "type": "white",
       "country": "New Zealand",
       "region": "Marlborough",
+      "appellation": "Marlborough",
+      "classification": null,
       "vintage": 2022,
+      "isNonVintage": false,
       "grapes": [
         "Sauvignon Blanc"
       ],
       "alcohol": 12.5,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Stone Bay’s 2022 Stone Bay Sauvignon Blanc is a white wine from Marlborough, New Zealand made from Sauvignon Blanc.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/4925264",
         "rating": 3.8,
         "ratingCount": 1863,
-        "averagePrice": 21318.0
+        "averagePrice": 21318
       },
-      "image": "https://images.vivino.com/thumbs/GMDf_k7YTh-ls-r30hf6bQ_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/GMDf_k7YTh-ls-r30hf6bQ_pb_x600.png"
     },
     "purchases": [
       {
@@ -1244,20 +1435,28 @@
       "type": "white",
       "country": "New Zealand",
       "region": "Marlborough",
+      "appellation": "Marlborough",
+      "classification": null,
       "vintage": 2022,
+      "isNonVintage": false,
       "grapes": [
         "Sauvignon Blanc"
       ],
-      "alcohol": 13.0,
+      "alcohol": 13,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Grove Mill’s 2022 Grove Mill Sauvignon Blanc is a white wine from Marlborough, New Zealand made from Sauvignon Blanc.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/3068136",
         "rating": 4.1,
         "ratingCount": 9821,
-        "averagePrice": 21318.0
+        "averagePrice": 21318
       },
-      "image": "https://images.vivino.com/thumbs/PPSo2PObRzagDvX9Wlepjw_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/PPSo2PObRzagDvX9Wlepjw_pb_x600.png"
     },
     "purchases": [
       {
@@ -1317,20 +1516,28 @@
       "type": "white",
       "country": "New Zealand",
       "region": "Marlborough",
+      "appellation": "Marlborough",
+      "classification": null,
       "vintage": 2022,
+      "isNonVintage": false,
       "grapes": [
         "Sauvignon Blanc"
       ],
-      "alcohol": 13.0,
+      "alcohol": 13,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Altschwager Kenneally’s 2022 Tapî Sauvignon Blanc is a white wine from Marlborough, New Zealand made from Sauvignon Blanc.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/153024126",
-        "rating": 4.0,
+        "rating": 4,
         "ratingCount": 2349,
-        "averagePrice": 21318.0
+        "averagePrice": 21318
       },
-      "image": "/images/WINE_6d00c554-942d-46a6-acdd-06217e235409.png",
-      "size": "standard"
+      "image": "/images/WINE_6d00c554-942d-46a6-acdd-06217e235409.png"
     },
     "purchases": [
       {
@@ -1359,20 +1566,28 @@
       "type": "white",
       "country": "New Zealand",
       "region": "Hawke's Bay",
+      "appellation": "Hawke's Bay",
+      "classification": null,
       "vintage": 2020,
+      "isNonVintage": false,
       "grapes": [
         "Chardonnay"
       ],
-      "alcohol": 14.0,
+      "alcohol": 14,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Moana Park Estate’s 2020 Moana Park Estate Estate Series Chardonnay is a white wine from Hawke's Bay, New Zealand made from Chardonnay.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/45043589",
         "rating": 3.6,
         "ratingCount": 198,
-        "averagePrice": 14033.0
+        "averagePrice": 14033
       },
-      "image": "/images/WINE_7b60b2a5-52ed-4095-ace9-1d731fb2b3fe.png",
-      "size": "standard"
+      "image": "/images/WINE_7b60b2a5-52ed-4095-ace9-1d731fb2b3fe.png"
     },
     "purchases": [
       {
@@ -1412,20 +1627,28 @@
       "type": "white",
       "country": "United States",
       "region": "California",
+      "appellation": null,
+      "classification": null,
       "vintage": 2020,
+      "isNonVintage": false,
       "grapes": [
         "Chardonnay"
       ],
       "alcohol": 13.5,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Bread & Butter’s 2020 Bread & Butter Chardonnay is a white wine from California, United States made from Chardonnay.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/4065555",
         "rating": 3.9,
         "ratingCount": 49166,
-        "averagePrice": 19541.0
+        "averagePrice": 19541
       },
-      "image": "https://images.vivino.com/thumbs/Jr52vlviR6WE2QAT91zx_g_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/Jr52vlviR6WE2QAT91zx_g_pb_x600.png"
     },
     "purchases": [
       {
@@ -1464,21 +1687,29 @@
       "winery": "Château Guiraud",
       "type": "dessert",
       "country": "France",
-      "region": "Sauternes",
+      "region": "Bordeaux",
+      "appellation": "Sauternes AOC",
+      "classification": "Premier Grand Cru Classé",
       "vintage": 2014,
+      "isNonVintage": false,
       "grapes": [
         "Blend"
       ],
       "alcohol": 13.5,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Château Guiraud’s 2014 Château Guiraud Sauternes (Premier Grand Cru Classé) is a dessert wine from Sauternes AOC, France made from Blend.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/1526096",
         "rating": 4.3,
         "ratingCount": 17564,
-        "averagePrice": 94154.0
+        "averagePrice": 94154
       },
-      "image": "https://images.vivino.com/thumbs/seeWxpDkRimnnDRRdUoRDQ_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/seeWxpDkRimnnDRRdUoRDQ_pb_x600.png"
     },
     "purchases": [
       {
@@ -1507,20 +1738,28 @@
       "type": "sparkling",
       "country": "Spain",
       "region": "Cava",
+      "appellation": "Cava DO",
+      "classification": null,
       "vintage": 2020,
+      "isNonVintage": false,
       "grapes": [
         "Blend"
       ],
       "alcohol": null,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Federico Paternina’s 2020 Federico Paternina Cava Brut Vintage Rosé is a sparkling wine from Cava DO, Spain made from Blend.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/141428376",
         "rating": 3.4,
         "ratingCount": 173,
-        "averagePrice": 14212.0
+        "averagePrice": 14212
       },
-      "image": "https://images.vivino.com/thumbs/yVVAOsJmTJK4PIZoKzZTRw_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/yVVAOsJmTJK4PIZoKzZTRw_pb_x600.png"
     },
     "purchases": [
       {
@@ -1576,20 +1815,30 @@
       "type": "sparkling",
       "country": "Spain",
       "region": "Cava",
+      "appellation": "Cava DO",
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
-        "Blend"
+        "Macabeo",
+        "Xarel-lo",
+        "Parellada"
       ],
-      "alcohol": 12.0,
+      "alcohol": 12,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Freixenet’s Freixenet Cava Cordón Negro Brut is a sparkling wine from Cava DO, Spain made from Macabeo, Xarel-lo, Parellada.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/1474180",
         "rating": 3.6,
         "ratingCount": 18778,
-        "averagePrice": 17765.0
+        "averagePrice": 17765
       },
-      "image": "/images/WINE_e388221f-e3ed-4733-ae65-fd4d8904c4d8.png",
-      "size": "standard"
+      "image": "/images/WINE_e388221f-e3ed-4733-ae65-fd4d8904c4d8.png"
     },
     "purchases": [
       {
@@ -1629,20 +1878,28 @@
       "type": "sparkling",
       "country": "Germany",
       "region": "German Wine",
+      "appellation": null,
+      "classification": null,
       "vintage": 2019,
+      "isNonVintage": false,
       "grapes": [
         "Blend"
       ],
       "alcohol": 11.5,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Henkell’s 2019 Henkell Brut Vintage is a sparkling wine from German Wine, Germany made from Blend.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/2089748",
         "rating": 3.5,
         "ratingCount": 647,
-        "averagePrice": 21318.0
+        "averagePrice": 21318
       },
-      "image": "https://images.vivino.com/thumbs/OTn5p3soSvisMN6xPvPagQ_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/OTn5p3soSvisMN6xPvPagQ_pb_x600.png"
     },
     "purchases": [
       {
@@ -1682,20 +1939,28 @@
       "type": "sparkling",
       "country": "France",
       "region": "Champagne",
+      "appellation": "Champagne AOC",
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
         "Chardonnay"
       ],
-      "alcohol": 12.0,
+      "alcohol": 12,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Henri Leblanc’s Henri Leblanc Blanc de Blancs Brut is a sparkling wine from Champagne AOC, France made from Chardonnay.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/2501207",
         "rating": 3.5,
         "ratingCount": 2915,
-        "averagePrice": 12435.0
+        "averagePrice": 12435
       },
-      "image": "/images/WINE_6f70a8a8-0b0f-400a-88a5-30898d63f463.png",
-      "size": "standard"
+      "image": "/images/WINE_6f70a8a8-0b0f-400a-88a5-30898d63f463.png"
     },
     "purchases": [
       {
@@ -1746,20 +2011,30 @@
       "type": "sparkling",
       "country": "Spain",
       "region": "Cava",
+      "appellation": "Cava DO",
+      "classification": null,
       "vintage": 2020,
+      "isNonVintage": false,
       "grapes": [
-        "Parellada"
+        "Parellada",
+        "Xarel-lo",
+        "Chardonnay"
       ],
       "alcohol": 11.5,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Naveran’s 2020 Naveran Cava Vintage Brut is a sparkling wine from Cava DO, Spain made from Parellada, Xarel-lo, Chardonnay.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/1556440",
         "rating": 3.9,
         "ratingCount": 1391,
-        "averagePrice": 26647.0
+        "averagePrice": 26647
       },
-      "image": "https://images.vivino.com/thumbs/mHot-333SCCLYLONTHdQng_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/mHot-333SCCLYLONTHdQng_pb_x600.png"
     },
     "purchases": [
       {
@@ -1799,20 +2074,30 @@
       "type": "sparkling",
       "country": "Spain",
       "region": "Cava",
+      "appellation": "Cava DO",
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
-        "Xarel-lo"
+        "Xarel-lo",
+        "Macabeo",
+        "Parellada"
       ],
-      "alcohol": 12.0,
+      "alcohol": 12,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Bohigas’s Bohigas Reserva Cava Brut is a sparkling wine from Cava DO, Spain made from Xarel-lo, Macabeo, Parellada.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/1947458",
         "rating": 3.8,
         "ratingCount": 4641,
-        "averagePrice": 23094.0
+        "averagePrice": 23094
       },
-      "image": "https://images.vivino.com/thumbs/qaWM-hoITL6EEZjeGcObJg_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/qaWM-hoITL6EEZjeGcObJg_pb_x600.png"
     },
     "purchases": [
       {
@@ -1884,20 +2169,28 @@
       "type": "sparkling",
       "country": "Spain",
       "region": "Cava",
+      "appellation": "Cava DO",
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
         "Blend"
       ],
-      "alcohol": 12.0,
+      "alcohol": 12,
       "volumeMl": null,
+      "sweetness": "Semi-Sec",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Bohigas’s Bohigas Reserva Cava Semi-Sec is a sparkling wine from Cava DO, Spain made from Blend.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/1747080",
         "rating": 3.8,
         "ratingCount": 783,
-        "averagePrice": 17765.0
+        "averagePrice": 17765
       },
-      "image": "/images/WINE_bf593d26-c04e-4131-8026-2c961a2d47f7.png",
-      "size": "standard"
+      "image": "/images/WINE_bf593d26-c04e-4131-8026-2c961a2d47f7.png"
     },
     "purchases": [
       {
@@ -1937,20 +2230,28 @@
       "type": "sparkling",
       "country": "Spain",
       "region": "Cava",
+      "appellation": "Cava DO",
+      "classification": "Gran Reserva",
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
         "Blend"
       ],
-      "alcohol": 12.0,
+      "alcohol": 12,
       "volumeMl": null,
+      "sweetness": "Extra Brut",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Bohigas’s Bohigas Cava Gran Reserva Extra Brut is a sparkling wine from Cava DO, Spain made from Blend.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/156003984",
         "rating": 3.8,
         "ratingCount": 1462,
-        "averagePrice": 28424.0
+        "averagePrice": 28424
       },
-      "image": "https://images.vivino.com/thumbs/E37A4WXtTzOm_9oOYZXOsA_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/E37A4WXtTzOm_9oOYZXOsA_pb_x600.png"
     },
     "purchases": [
       {
@@ -2011,20 +2312,29 @@
       "type": "sparkling",
       "country": "Italy",
       "region": "Piemonte",
+      "appellation": null,
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
-        "Blend"
+        "Pinot Noir",
+        "Chardonnay"
       ],
       "alcohol": 11.5,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Santero’s Santero Pinot - Chardonnay Brut is a sparkling wine from Piemonte, Italy made from Pinot Noir, Chardonnay.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/1507125",
         "rating": 3.4,
         "ratingCount": 6192,
-        "averagePrice": 14212.0
+        "averagePrice": 14212
       },
-      "image": "/images/WINE_9928d5db-ea6e-4652-9827-2e2f351a013a.png",
-      "size": "standard"
+      "image": "/images/WINE_9928d5db-ea6e-4652-9827-2e2f351a013a.png"
     },
     "purchases": [
       {
@@ -2064,20 +2374,28 @@
       "type": "sparkling",
       "country": "New Zealand",
       "region": "Marlborough",
+      "appellation": "Marlborough",
+      "classification": null,
       "vintage": 2021,
+      "isNonVintage": false,
       "grapes": [
         "Sauvignon Blanc"
       ],
       "alcohol": 12.5,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Saint Clair Family Estate’s 2021 Saint Clair Family Estate Vicar's Choice Sauvignon Blanc Bubbles is a sparkling wine from Marlborough, New Zealand made from Sauvignon Blanc.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/2816508",
-        "rating": 4.0,
+        "rating": 4,
         "ratingCount": 4625,
-        "averagePrice": 19541.0
+        "averagePrice": 19541
       },
-      "image": "https://images.vivino.com/thumbs/gJeNxlaVRtC5_1hzdv_eIQ_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/gJeNxlaVRtC5_1hzdv_eIQ_pb_x600.png"
     },
     "purchases": [
       {
@@ -2155,20 +2473,28 @@
       "type": "sparkling",
       "country": "Italy",
       "region": "Brachetto d'Acqui",
+      "appellation": "Brachetto d'Acqui DOCG",
+      "classification": null,
       "vintage": 2020,
+      "isNonVintage": false,
       "grapes": [
         "Brachetto"
       ],
-      "alcohol": 7.0,
+      "alcohol": 7,
       "volumeMl": null,
+      "sweetness": "Sweet",
+      "productionMethod": "Charmat Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Banfi’s 2020 Banfi Rosa Regale is a sparkling wine from Brachetto d'Acqui DOCG, Italy made from Brachetto.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/1469028",
-        "rating": 4.0,
+        "rating": 4,
         "ratingCount": 9406,
-        "averagePrice": 26647.0
+        "averagePrice": 26647
       },
-      "image": "https://images.vivino.com/thumbs/k8skbcUUTjSjviqt1OLhEA_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/k8skbcUUTjSjviqt1OLhEA_pb_x600.png"
     },
     "purchases": [
       {
@@ -2219,20 +2545,28 @@
       "type": "sparkling",
       "country": "France",
       "region": "Champagne",
+      "appellation": "Champagne AOC",
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
         "Blend"
       ],
-      "alcohol": 12.0,
+      "alcohol": 12,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Paul Dangin & Fils’s Paul Dangin & Fils Dangin-Fays Brut Champagne is a sparkling wine from Champagne AOC, France made from Blend.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/3821147",
         "rating": 3.7,
         "ratingCount": 1812,
-        "averagePrice": 49742.0
+        "averagePrice": 49742
       },
-      "image": "https://images.vivino.com/thumbs/O6ZQqTIiRtKhqiw6cM1Y2w_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/O6ZQqTIiRtKhqiw6cM1Y2w_pb_x600.png"
     },
     "purchases": [
       {
@@ -2261,20 +2595,28 @@
       "type": "sparkling",
       "country": "France",
       "region": "Champagne",
+      "appellation": "Champagne AOC",
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
-        "Blend"
+        "Pinot Noir"
       ],
-      "alcohol": 12.0,
+      "alcohol": 12,
       "volumeMl": null,
+      "sweetness": "Extra Brut",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Albert le Brun’s Albert le Brun Blanc de Noirs Extra Brut Champagne is a sparkling wine from Champagne AOC, France made from Pinot Noir.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/160578274",
-        "rating": 4.0,
+        "rating": 4,
         "ratingCount": 985,
-        "averagePrice": 56848.0
+        "averagePrice": 56848
       },
-      "image": "https://images.vivino.com/thumbs/BQXu6SXlTJSvIJ2pJVN8vQ_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/BQXu6SXlTJSvIJ2pJVN8vQ_pb_x600.png"
     },
     "purchases": [
       {
@@ -2324,21 +2666,29 @@
       "winery": "Andre Clouet",
       "type": "sparkling",
       "country": "France",
-      "region": "Champagne Grand Cru 'Bouzy'",
+      "region": "Champagne",
+      "appellation": "Bouzy",
+      "classification": "Grand Cru",
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
         "Pinot Noir"
       ],
-      "alcohol": 12.0,
+      "alcohol": 12,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Andre Clouet’s Andre Clouet Grande Réserve Brut Champagne Grand Cru 'Bouzy' is a sparkling wine from Bouzy, France made from Pinot Noir.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/1481457",
         "rating": 3.9,
         "ratingCount": 16196,
-        "averagePrice": 63954.0
+        "averagePrice": 63954
       },
-      "image": "https://images.vivino.com/thumbs/aM6tHd2WRlG4I-txTAq0fQ_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/aM6tHd2WRlG4I-txTAq0fQ_pb_x600.png"
     },
     "purchases": [
       {
@@ -2377,21 +2727,29 @@
       "winery": "Andre Clouet",
       "type": "sparkling",
       "country": "France",
-      "region": "Champagne Grand Cru 'Bouzy'",
+      "region": "Champagne",
+      "appellation": "Bouzy",
+      "classification": "Grand Cru",
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
         "Pinot Noir"
       ],
-      "alcohol": 12.0,
+      "alcohol": 12,
       "volumeMl": null,
+      "sweetness": "Brut Nature",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Andre Clouet’s Andre Clouet Brut Nature Silver Champagne Grand Cru 'Bouzy' is a sparkling wine from Bouzy, France made from Pinot Noir.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/1519570",
         "rating": 3.8,
         "ratingCount": 10545,
-        "averagePrice": 60401.0
+        "averagePrice": 60401
       },
-      "image": "https://images.vivino.com/thumbs/E8jsksjhQHGfLFpe9MBizA_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/E8jsksjhQHGfLFpe9MBizA_pb_x600.png"
     },
     "purchases": [
       {
@@ -2419,21 +2777,29 @@
       "winery": "Andre Clouet",
       "type": "sparkling",
       "country": "France",
-      "region": "Champagne Grand Cru 'Bouzy'",
+      "region": "Champagne",
+      "appellation": "Bouzy",
+      "classification": "Grand Cru",
       "vintage": 2016,
+      "isNonVintage": false,
       "grapes": [
-        "Chardonnay"
+        "Pinot Noir"
       ],
-      "alcohol": 12.0,
+      "alcohol": 12,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Andre Clouet’s 2016 Andre Clouet Dream Vintage Brut Champagne Grand Cru 'Bouzy' is a sparkling wine from Bouzy, France made from Pinot Noir.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/149627254",
         "rating": 4.1,
         "ratingCount": 7092,
-        "averagePrice": 88825.0
+        "averagePrice": 88825
       },
-      "image": "/images/WINE_7fb8f65d-c6d7-474c-aedc-c3225072d0c4.png",
-      "size": "standard"
+      "image": "/images/WINE_7fb8f65d-c6d7-474c-aedc-c3225072d0c4.png"
     },
     "purchases": [
       {
@@ -2462,20 +2828,30 @@
       "type": "sparkling",
       "country": "France",
       "region": "Champagne",
+      "appellation": "Champagne AOC",
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
-        "Blend"
+        "Chardonnay",
+        "Pinot Noir",
+        "Pinot Meunier"
       ],
-      "alcohol": 12.0,
+      "alcohol": 12,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Taittinger’s Taittinger Brut (Réserve) Champagne is a sparkling wine from Champagne AOC, France made from Chardonnay, Pinot Noir, Pinot Meunier.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/164942648",
         "rating": 4.2,
         "ratingCount": 50532,
-        "averagePrice": 79942.0
+        "averagePrice": 79942
       },
-      "image": "/images/WINE_929ed789-faab-4e47-bb31-a0d32ccde7cc.png",
-      "size": "standard"
+      "image": "/images/WINE_929ed789-faab-4e47-bb31-a0d32ccde7cc.png"
     },
     "purchases": [
       {
@@ -2504,20 +2880,30 @@
       "type": "sparkling",
       "country": "France",
       "region": "Champagne",
+      "appellation": "Champagne AOC",
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
-        "Blend"
+        "Pinot Noir",
+        "Pinot Meunier",
+        "Chardonnay"
       ],
-      "alcohol": 12.0,
+      "alcohol": 12,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Deutz’s Deutz Classic Brut Champagne is a sparkling wine from Champagne AOC, France made from Pinot Noir, Pinot Meunier, Chardonnay.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/164942773",
         "rating": 4.1,
         "ratingCount": 30226,
-        "averagePrice": 65730.0
+        "averagePrice": 65730
       },
-      "image": "https://images.vivino.com/thumbs/FGf5vHDwSESGx1uMaBcOzQ_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/FGf5vHDwSESGx1uMaBcOzQ_pb_x600.png"
     },
     "purchases": [
       {
@@ -2567,21 +2953,31 @@
       "winery": "Nicolas Maillart",
       "type": "sparkling",
       "country": "France",
-      "region": "Champagne Premier Cru",
+      "region": "Champagne",
+      "appellation": "Premier Cru",
+      "classification": "Premier Cru",
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
-        "Chardonnay"
+        "Pinot Noir",
+        "Chardonnay",
+        "Pinot Meunier"
       ],
       "alcohol": 12.5,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Nicolas Maillart’s Nicolas Maillart Platine Brut Champagne Premier Cru is a sparkling wine from Premier Cru, France made from Pinot Noir, Chardonnay, Pinot Meunier.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/1881194",
         "rating": 4.1,
         "ratingCount": 4099,
-        "averagePrice": 60401.0
+        "averagePrice": 60401
       },
-      "image": "https://images.vivino.com/thumbs/RlNH37hXS26UY7E-3LS8kQ_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/RlNH37hXS26UY7E-3LS8kQ_pb_x600.png"
     },
     "purchases": [
       {
@@ -2610,20 +3006,30 @@
       "type": "sparkling",
       "country": "France",
       "region": "Champagne",
+      "appellation": "Champagne AOC",
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
-        "Pinot Noir"
+        "Chardonnay",
+        "Pinot Noir",
+        "Pinot Meunier"
       ],
-      "alcohol": 12.0,
+      "alcohol": 12,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Pommery’s Pommery Royal Brut Champagne is a sparkling wine from Champagne AOC, France made from Chardonnay, Pinot Noir, Pinot Meunier.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/1561557",
         "rating": 3.9,
         "ratingCount": 34200,
-        "averagePrice": 65730.0
+        "averagePrice": 65730
       },
-      "image": "https://images.vivino.com/thumbs/WfnVh-mmT6aojFb0KebhNg_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/WfnVh-mmT6aojFb0KebhNg_pb_x600.png"
     },
     "purchases": [
       {
@@ -2652,20 +3058,29 @@
       "type": "sparkling",
       "country": "France",
       "region": "Champagne",
+      "appellation": "Champagne AOC",
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
-        "Blend"
+        "Pinot Noir",
+        "Chardonnay"
       ],
-      "alcohol": 12.0,
+      "alcohol": 12,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Henri Giraud’s Henri Giraud Esprit Nature Champagne is a sparkling wine from Champagne AOC, France made from Pinot Noir, Chardonnay.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/164942768",
         "rating": 4.1,
         "ratingCount": 7688,
-        "averagePrice": 88825.0
+        "averagePrice": 88825
       },
-      "image": "https://images.vivino.com/thumbs/2-swflAaQo-NJCAcqptpUg_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/2-swflAaQo-NJCAcqptpUg_pb_x600.png"
     },
     "purchases": [
       {
@@ -2694,20 +3109,30 @@
       "type": "sparkling",
       "country": "France",
       "region": "Champagne",
+      "appellation": "Champagne AOC",
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
-        "Chardonnay"
+        "Chardonnay",
+        "Pinot Noir",
+        "Pinot Meunier"
       ],
-      "alcohol": 12.0,
+      "alcohol": 12,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Louis Roederer’s Louis Roederer Théophile Brut Champagne is a sparkling wine from Champagne AOC, France made from Chardonnay, Pinot Noir, Pinot Meunier.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/164943041",
         "rating": 3.9,
         "ratingCount": 2816,
-        "averagePrice": 51518.0
+        "averagePrice": 51518
       },
-      "image": "/images/WINE_ca10cc2a-4600-4147-acfb-ab677a9b7178.png",
-      "size": "standard"
+      "image": "/images/WINE_ca10cc2a-4600-4147-acfb-ab677a9b7178.png"
     },
     "purchases": [
       {
@@ -2735,21 +3160,29 @@
       "winery": "Pehu Simonet",
       "type": "sparkling",
       "country": "France",
-      "region": "Champagne Grand Cru",
+      "region": "Champagne",
+      "appellation": "Grand Cru",
+      "classification": "Grand Cru",
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
         "Blend"
       ],
       "alcohol": 12.5,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Pehu Simonet’s Pehu Simonet Face Nord Brut Champagne Grand Cru is a sparkling wine from Grand Cru, France made from Blend.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/32160670",
         "rating": 4.1,
         "ratingCount": 933,
-        "averagePrice": 76389.0
+        "averagePrice": 76389
       },
-      "image": "https://images.vivino.com/thumbs/d0OjqnZJQky5OdEA7arpwA_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/d0OjqnZJQky5OdEA7arpwA_pb_x600.png"
     },
     "purchases": [
       {
@@ -2777,21 +3210,29 @@
       "winery": "Baron Dauvergne",
       "type": "sparkling",
       "country": "France",
-      "region": "Champagne Grand Cru 'Bouzy'",
+      "region": "Champagne",
+      "appellation": "Bouzy",
+      "classification": "Grand Cru",
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
         "Pinot Noir"
       ],
-      "alcohol": 12.0,
+      "alcohol": 12,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Baron Dauvergne’s Baron Dauvergne Fine Fleur de Bouzy Blanc de Noir Champagne Grand Cru 'Bouzy' is a sparkling wine from Bouzy, France made from Pinot Noir.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/2820244",
         "rating": 4.1,
         "ratingCount": 1197,
-        "averagePrice": 72836.0
+        "averagePrice": 72836
       },
-      "image": "/images/WINE_26226cae-b624-4bfc-ba30-80cad2510d50.png",
-      "size": "standard"
+      "image": "/images/WINE_26226cae-b624-4bfc-ba30-80cad2510d50.png"
     },
     "purchases": [
       {
@@ -2820,20 +3261,29 @@
       "type": "sparkling",
       "country": "France",
       "region": "Champagne",
+      "appellation": "Champagne AOC",
+      "classification": "Vintage",
       "vintage": 2014,
+      "isNonVintage": false,
       "grapes": [
-        "Blend"
+        "Pinot Noir",
+        "Chardonnay"
       ],
-      "alcohol": 12.0,
+      "alcohol": 12,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Piper-Heidsieck’s 2014 Piper-Heidsieck Vintage Brut Champagne is a sparkling wine from Champagne AOC, France made from Pinot Noir, Chardonnay.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/3827551",
         "rating": 4.2,
         "ratingCount": 6662,
-        "averagePrice": 99484.0
+        "averagePrice": 99484
       },
-      "image": "https://images.vivino.com/thumbs/K9Fc3XEqQEqpPNn4eoyx9Q_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/K9Fc3XEqQEqpPNn4eoyx9Q_pb_x600.png"
     },
     "purchases": [
       {
@@ -2862,20 +3312,29 @@
       "type": "sparkling",
       "country": "France",
       "region": "Champagne",
+      "appellation": "Champagne AOC",
+      "classification": "Vintage",
       "vintage": 2013,
+      "isNonVintage": false,
       "grapes": [
-        "Blend"
+        "Pinot Noir",
+        "Chardonnay"
       ],
       "alcohol": 12.5,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Perrier-Jouët’s 2013 Perrier-Jouët Belle Epoque Rosé Brut Champagne is a sparkling wine from Champagne AOC, France made from Pinot Noir, Chardonnay.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/1519030",
         "rating": 4.5,
         "ratingCount": 2228,
-        "averagePrice": 470771.0
+        "averagePrice": 470771
       },
-      "image": "https://images.vivino.com/thumbs/ZBHyhL7GQqaDV8masxNyQA_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/ZBHyhL7GQqaDV8masxNyQA_pb_x600.png"
     },
     "purchases": [
       {
@@ -2904,20 +3363,29 @@
       "type": "sparkling",
       "country": "France",
       "region": "Champagne",
+      "appellation": "Champagne AOC",
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
-        "Pinot Noir"
+        "Pinot Noir",
+        "Chardonnay"
       ],
-      "alcohol": 12.0,
+      "alcohol": 12,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Champagne Devaux’s Champagne Devaux Cuvée D Brut is a sparkling wine from Champagne AOC, France made from Pinot Noir, Chardonnay.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/15534057",
-        "rating": 4.0,
+        "rating": 4,
         "ratingCount": 2650,
-        "averagePrice": 71060.0
+        "averagePrice": 71060
       },
-      "image": "https://images.vivino.com/thumbs/4b-Bd73fQF2_vswejOH3zQ_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/4b-Bd73fQF2_vswejOH3zQ_pb_x600.png"
     },
     "purchases": [
       {
@@ -2957,20 +3425,28 @@
       "type": "red",
       "country": "Chile",
       "region": "Central Valley",
+      "appellation": null,
+      "classification": null,
       "vintage": 2022,
+      "isNonVintage": false,
       "grapes": [
         "Cabernet Sauvignon"
       ],
       "alcohol": null,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Aguirre’s 2022 Aguirre Castillo de Ensueño is a red wine from Central Valley, Chile made from Cabernet Sauvignon.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/167541358",
         "rating": 3.5,
         "ratingCount": 28,
         "averagePrice": null
       },
-      "image": "/images/WINE_f9e5db59-81fb-4251-9cb0-895ed0aff769.png",
-      "size": "standard"
+      "image": "/images/WINE_f9e5db59-81fb-4251-9cb0-895ed0aff769.png"
     },
     "purchases": [
       {
@@ -3006,20 +3482,30 @@
       "type": "sparkling",
       "country": "France",
       "region": "Champagne",
+      "appellation": "Champagne AOC",
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
-        "Pinot Noir"
+        "Pinot Noir",
+        "Pinot Meunier",
+        "Chardonnay"
       ],
-      "alcohol": 12.0,
+      "alcohol": 12,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "G.H. Mumm’s G.H. Mumm Grand Cordon Brut Champagne is a sparkling wine from Champagne AOC, France made from Pinot Noir, Pinot Meunier, Chardonnay.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/1915404",
-        "rating": 4.0,
+        "rating": 4,
         "ratingCount": 10664,
-        "averagePrice": 67507.0
+        "averagePrice": 67507
       },
-      "image": "https://images.vivino.com/thumbs/zQqCp3ixQo-0xvBNM2l5rQ_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/zQqCp3ixQo-0xvBNM2l5rQ_pb_x600.png"
     },
     "purchases": [
       {
@@ -3070,20 +3556,28 @@
       "type": "sparkling",
       "country": "Spain",
       "region": "Jumilla",
+      "appellation": null,
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
         "Moscato"
       ],
       "alcohol": 7.5,
       "volumeMl": null,
+      "sweetness": "Sweet",
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Promesa’s Promesa Moscato is a sparkling wine from Jumilla, Spain made from Moscato.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/168437017",
         "rating": 3.6,
         "ratingCount": 380,
         "averagePrice": null
       },
-      "image": "/images/WINE_30507f72-533d-43c8-9406-9dee76d27b43.webp",
-      "size": "standard"
+      "image": "/images/WINE_30507f72-533d-43c8-9406-9dee76d27b43.webp"
     },
     "purchases": [
       {
@@ -3123,20 +3617,30 @@
       "type": "sparkling",
       "country": "Australia",
       "region": "Victoria",
+      "appellation": null,
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
-        "Blend"
+        "Chardonnay",
+        "Pinot Noir",
+        "Pinot Meunier"
       ],
       "alcohol": null,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "CHANDON Australia’s CHANDON Australia Brut Méthode Traditionnelle is a sparkling wine from Victoria, Australia made from Chardonnay, Pinot Noir, Pinot Meunier.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/3236000",
         "rating": 3.6,
         "ratingCount": 4516,
-        "averagePrice": 28424.0
+        "averagePrice": 28424
       },
-      "image": "https://images.vivino.com/thumbs/rc2gkeqlR3egnDFQd92A1w_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/rc2gkeqlR3egnDFQd92A1w_pb_x600.png"
     },
     "purchases": [
       {
@@ -3176,20 +3680,28 @@
       "type": "red",
       "country": "Chile",
       "region": "Central Valley",
+      "appellation": null,
+      "classification": null,
       "vintage": 2021,
+      "isNonVintage": false,
       "grapes": [
         "Cabernet Sauvignon"
       ],
       "alcohol": 13.5,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Casillero del Diablo’s 2021 Casillero del Diablo Cabernet Sauvignon (Reserva) is a red wine from Central Valley, Chile made from Cabernet Sauvignon.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/1471290",
         "rating": 3.5,
         "ratingCount": 166711,
-        "averagePrice": 14212.0
+        "averagePrice": 14212
       },
-      "image": "https://images.vivino.com/thumbs/xB_QUSa_QY-gy5_BaMyf7w_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/xB_QUSa_QY-gy5_BaMyf7w_pb_x600.png"
     },
     "purchases": [
       {
@@ -3261,20 +3773,26 @@
       "type": "sparkling",
       "country": "Germany",
       "region": "Saale-Unstrut",
+      "appellation": null,
+      "classification": null,
       "vintage": null,
-      "grapes": [
-        "Glera"
-      ],
-      "alcohol": 11.0,
+      "isNonVintage": true,
+      "grapes": [],
+      "alcohol": 11,
       "volumeMl": null,
+      "sweetness": "Sec",
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Rotkäppchen’s Rotkäppchen Rosé Sec is a sparkling wine from Saale-Unstrut, Germany.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/157161091",
         "rating": 3.1,
         "ratingCount": 145,
-        "averagePrice": 7106.0
+        "averagePrice": 7106
       },
-      "image": "/images/WINE_10354789-98eb-4c6f-a27f-f215851ec786.png",
-      "size": "standard"
+      "image": "/images/WINE_10354789-98eb-4c6f-a27f-f215851ec786.png"
     },
     "purchases": [
       {
@@ -3314,20 +3832,29 @@
       "type": "sparkling",
       "country": "Spain",
       "region": "Cava",
+      "appellation": "Cava DO",
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
-        "Garnacha"
+        "Garnacha",
+        "Pinot Noir"
       ],
-      "alcohol": 12.0,
+      "alcohol": 12,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Freixenet’s Freixenet Cuvée Especial Ice Rosé is a sparkling wine from Cava DO, Spain made from Garnacha, Pinot Noir.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/164943494",
         "rating": 3.8,
         "ratingCount": 2011,
-        "averagePrice": 19541.0
+        "averagePrice": 19541
       },
-      "image": "https://images.vivino.com/thumbs/LzeO_fVGQ3GUMPQU84u6WQ_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/LzeO_fVGQ3GUMPQU84u6WQ_pb_x600.png"
     },
     "purchases": [
       {
@@ -3367,20 +3894,30 @@
       "type": "white",
       "country": "Italy",
       "region": "Veneto",
+      "appellation": null,
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
-        "Garganega"
+        "Garganega",
+        "Chardonnay",
+        "Sauvignon Blanc"
       ],
-      "alcohol": 13.0,
+      "alcohol": 13,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Pasqua Vigneti e Cantine’s Pasqua Vigneti e Cantine PassioneSentimento Bianco is a white wine from Veneto, Italy made from Garganega, Chardonnay, Sauvignon Blanc.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/142049174",
-        "rating": 4.0,
+        "rating": 4,
         "ratingCount": 7776,
-        "averagePrice": 19541.0
+        "averagePrice": 19541
       },
-      "image": "https://images.vivino.com/thumbs/NpRkNkuyQmuUNzXL72fwfQ_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/NpRkNkuyQmuUNzXL72fwfQ_pb_x600.png"
     },
     "purchases": [
       {
@@ -3420,20 +3957,28 @@
       "type": "white",
       "country": "New Zealand",
       "region": "Marlborough",
+      "appellation": "Marlborough",
+      "classification": null,
       "vintage": 2021,
+      "isNonVintage": false,
       "grapes": [
         "Sauvignon Blanc"
       ],
-      "alcohol": 13.0,
+      "alcohol": 13,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Invivo’s 2021 Invivo X, SJP Sauvignon Blanc is a white wine from Marlborough, New Zealand made from Sauvignon Blanc.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/161500240",
         "rating": 4.1,
         "ratingCount": 6594,
-        "averagePrice": 24871.0
+        "averagePrice": 24871
       },
-      "image": "https://images.vivino.com/thumbs/Y2vCkN59TiyXN9UmwYinYQ_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/Y2vCkN59TiyXN9UmwYinYQ_pb_x600.png"
     },
     "purchases": [
       {
@@ -3473,20 +4018,28 @@
       "type": "white",
       "country": "New Zealand",
       "region": "Marlborough",
+      "appellation": "Marlborough",
+      "classification": null,
       "vintage": 2022,
+      "isNonVintage": false,
       "grapes": [
         "Sauvignon Blanc"
       ],
-      "alcohol": 13.0,
+      "alcohol": 13,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Invivo’s 2022 Invivo X, SJP Sauvignon Blanc is a white wine from Marlborough, New Zealand made from Sauvignon Blanc.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/161500240",
         "rating": 4.1,
         "ratingCount": 6594,
-        "averagePrice": 24871.0
+        "averagePrice": 24871
       },
-      "image": "https://images.vivino.com/thumbs/Y2vCkN59TiyXN9UmwYinYQ_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/Y2vCkN59TiyXN9UmwYinYQ_pb_x600.png"
     },
     "purchases": [
       {
@@ -3526,20 +4079,28 @@
       "type": "white",
       "country": "United States",
       "region": "Columbia Valley",
+      "appellation": "Columbia Valley AVA",
+      "classification": null,
       "vintage": 2020,
+      "isNonVintage": false,
       "grapes": [
         "Riesling"
       ],
       "alcohol": 12.5,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Chateau Ste. Michelle’s 2020 Chateau Ste. Michelle Riesling is a white wine from Columbia Valley AVA, United States made from Riesling.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/1634407",
         "rating": 3.8,
         "ratingCount": 36538,
-        "averagePrice": 15988.0
+        "averagePrice": 15988
       },
-      "image": "https://images.vivino.com/thumbs/PlkMzRPcROOORQ8DxSvCUg_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/PlkMzRPcROOORQ8DxSvCUg_pb_x600.png"
     },
     "purchases": [
       {
@@ -3579,20 +4140,28 @@
       "type": "white",
       "country": "New Zealand",
       "region": "Marlborough",
+      "appellation": "Marlborough",
+      "classification": null,
       "vintage": 2022,
+      "isNonVintage": false,
       "grapes": [
         "Sauvignon Blanc"
       ],
-      "alcohol": 13.0,
+      "alcohol": 13,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Kirkland Signature’s 2022 Kirkland Signature Ti Point Marlborough Sauvignon Blanc is a white wine from Marlborough, New Zealand made from Sauvignon Blanc.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/4833647",
         "rating": 3.8,
         "ratingCount": 11596,
-        "averagePrice": 19541.0
+        "averagePrice": 19541
       },
-      "image": "/images/WINE_f0b322ae-b1f6-47a0-a9fc-74b72ea58fcf.png",
-      "size": "standard"
+      "image": "/images/WINE_f0b322ae-b1f6-47a0-a9fc-74b72ea58fcf.png"
     },
     "purchases": [
       {
@@ -3653,20 +4222,28 @@
       "type": "white",
       "country": "Spain",
       "region": "Rías Baixas",
+      "appellation": "Rías Baixas DO",
+      "classification": null,
       "vintage": 2021,
+      "isNonVintage": false,
       "grapes": [
         "Albariño"
       ],
       "alcohol": 12.5,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Faustino Rivero Ulecia’s 2021 Faustino Rivero Ulecia Albariño is a white wine from Rías Baixas DO, Spain made from Albariño.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/154826013",
-        "rating": 4.0,
+        "rating": 4,
         "ratingCount": 11356,
-        "averagePrice": 23094.0
+        "averagePrice": 23094
       },
-      "image": "https://images.vivino.com/thumbs/in_84EFmTLe9T7KTYIWnvw_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/in_84EFmTLe9T7KTYIWnvw_pb_x600.png"
     },
     "purchases": [
       {
@@ -3706,20 +4283,28 @@
       "type": "sparkling",
       "country": "Spain",
       "region": "Cava",
+      "appellation": "Cava DO",
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
         "Blend"
       ],
       "alcohol": 11.5,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Jaume Serra’s Jaume Serra Bouquet Cava Rosé is a sparkling wine from Cava DO, Spain made from Blend.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/170098712",
         "rating": 3.3,
         "ratingCount": 315,
-        "averagePrice": 15988.0
+        "averagePrice": 15988
       },
-      "image": "https://images.vivino.com/thumbs/FSLLqKxzR6WwAopcKLH8wA_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/FSLLqKxzR6WwAopcKLH8wA_pb_x600.png"
     },
     "purchases": [
       {
@@ -3759,20 +4344,28 @@
       "type": "white",
       "country": "New Zealand",
       "region": "Marlborough",
+      "appellation": "Marlborough",
+      "classification": null,
       "vintage": 2023,
+      "isNonVintage": false,
       "grapes": [
         "Pinot Gris"
       ],
-      "alcohol": 13.0,
+      "alcohol": 13,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Grove Mill’s 2023 Grove Mill Pinot Gris is a white wine from Marlborough, New Zealand made from Pinot Gris.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/4879183",
         "rating": 3.8,
         "ratingCount": 253,
-        "averagePrice": 12435.0
+        "averagePrice": 12435
       },
-      "image": "/images/WINE_848fd75b-98d1-4013-9010-799254a7f40c.png",
-      "size": "standard"
+      "image": "/images/WINE_848fd75b-98d1-4013-9010-799254a7f40c.png"
     },
     "purchases": [
       {
@@ -3801,20 +4394,28 @@
       "type": "white",
       "country": "Greece",
       "region": "Epanomi",
+      "appellation": "Epanomi PGI",
+      "classification": null,
       "vintage": 2023,
+      "isNonVintage": false,
       "grapes": [
         "Malagouzia"
       ],
       "alcohol": 13.5,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Ktima Gerovassiliou (Κτήμα Γεροβασιλείου)’s 2023 Ktima Gerovassiliou (Κτήμα Γεροβασιλείου) Malagousia Single Vineyard is a white wine from Epanomi PGI, Greece made from Malagouzia.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/4883522",
         "rating": 4.2,
         "ratingCount": 13828,
-        "averagePrice": 31977.0
+        "averagePrice": 31977
       },
-      "image": "https://images.vivino.com/thumbs/9MDhP70OQxC28QSnORLF7A_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/9MDhP70OQxC28QSnORLF7A_pb_x600.png"
     },
     "purchases": [
       {
@@ -3842,21 +4443,30 @@
       "winery": "Anciens Temps",
       "type": "red",
       "country": "France",
-      "region": "Pays d'Oc",
+      "region": "Languedoc",
+      "appellation": "IGP Pays d'Oc",
+      "classification": null,
       "vintage": 2021,
+      "isNonVintage": false,
       "grapes": [
-        "Blend"
+        "Cabernet Sauvignon",
+        "Syrah"
       ],
-      "alcohol": 13.0,
+      "alcohol": 13,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Anciens Temps’s 2021 Anciens Temps Cabernet Sauvignon - Syrah is a red wine from IGP Pays d'Oc, France made from Cabernet Sauvignon, Syrah.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/30309066",
         "rating": 3.7,
         "ratingCount": 3172,
-        "averagePrice": 8882.0
+        "averagePrice": 8882
       },
-      "image": "https://images.vivino.com/thumbs/gsj7oLMdRzSXLdSZNxRHMg_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/gsj7oLMdRzSXLdSZNxRHMg_pb_x600.png"
     },
     "purchases": [
       {
@@ -3896,20 +4506,28 @@
       "type": "white",
       "country": "United States",
       "region": "Washington",
+      "appellation": "Washington",
+      "classification": null,
       "vintage": 2021,
+      "isNonVintage": false,
       "grapes": [
         "Riesling"
       ],
-      "alcohol": 12.0,
+      "alcohol": 12,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Charles Smith’s 2021 Charles Smith Kung Fu Girl Riesling is a white wine from Washington, United States made from Riesling.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/1565762",
         "rating": 3.8,
         "ratingCount": 58509,
-        "averagePrice": 17765.0
+        "averagePrice": 17765
       },
-      "image": "https://images.vivino.com/thumbs/msDK-IYlSWaYvGeqEIRUWw_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/msDK-IYlSWaYvGeqEIRUWw_pb_x600.png"
     },
     "purchases": [
       {
@@ -3949,20 +4567,28 @@
       "type": "white",
       "country": "Italy",
       "region": "Salento",
+      "appellation": "Salento IGP",
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
         "Vermentino"
       ],
-      "alcohol": 12.0,
+      "alcohol": 12,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Notte Rossa’s Notte Rossa Vermentino is a white wine from Salento IGP, Italy made from Vermentino.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/164176873",
         "rating": 3.6,
         "ratingCount": 650,
-        "averagePrice": 8882.0
+        "averagePrice": 8882
       },
-      "image": "https://images.vivino.com/thumbs/UiH5LhXqRpuo7MM3e6SmOQ_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/UiH5LhXqRpuo7MM3e6SmOQ_pb_x600.png"
     },
     "purchases": [
       {
@@ -4002,20 +4628,28 @@
       "type": "red",
       "country": "Australia",
       "region": "Langhorne Creek",
+      "appellation": null,
+      "classification": null,
       "vintage": 2019,
+      "isNonVintage": false,
       "grapes": [
         "Shiraz/Syrah"
       ],
       "alcohol": 14.8,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Smidge’s 2019 Smidge Headline Shiraz is a red wine from Langhorne Creek, Australia made from Shiraz/Syrah.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/159955010",
         "rating": 3.6,
         "ratingCount": 450,
-        "averagePrice": 43502.0
+        "averagePrice": 43502
       },
-      "image": "/images/WINE_84ac4d60-fe71-4517-9ec6-2162c2a0feba.png",
-      "size": "standard"
+      "image": "/images/WINE_84ac4d60-fe71-4517-9ec6-2162c2a0feba.png"
     },
     "purchases": [
       {
@@ -4043,21 +4677,29 @@
       "winery": "Scagliola",
       "type": "white",
       "country": "Italy",
-      "region": "Piemonte",
+      "region": "Piedmont",
+      "appellation": null,
+      "classification": null,
       "vintage": 2022,
+      "isNonVintage": false,
       "grapes": [
         "Chardonnay"
       ],
-      "alcohol": 14.0,
+      "alcohol": 14,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Scagliola’s 2022 Scagliola Chardonnay is a white wine from Piedmont, Italy made from Chardonnay.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/6045989",
-        "rating": 4.0,
+        "rating": 4,
         "ratingCount": 1138,
-        "averagePrice": 40859.0
+        "averagePrice": 40859
       },
-      "image": "https://images.vivino.com/thumbs/_PZ88Z9SQoerUKgz-ztUNA_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/_PZ88Z9SQoerUKgz-ztUNA_pb_x600.png"
     },
     "purchases": [
       {
@@ -4097,20 +4739,28 @@
       "type": "sparkling",
       "country": "Spain",
       "region": "Cava",
+      "appellation": "Cava DO",
+      "classification": null,
       "vintage": 2021,
+      "isNonVintage": false,
       "grapes": [
         "Blend"
       ],
       "alcohol": null,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Federico Paternina’s 2021 Federico Paternina Cava Organic Brut is a sparkling wine from Cava DO, Spain made from Blend.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/171187357",
         "rating": 3.5,
         "ratingCount": 1284,
-        "averagePrice": 14212.0
+        "averagePrice": 14212
       },
-      "image": "/images/WINE_2a971935-9cd1-4933-a577-00d4ae03dae9.png",
-      "size": "standard"
+      "image": "/images/WINE_2a971935-9cd1-4933-a577-00d4ae03dae9.png"
     },
     "purchases": [
       {
@@ -4150,20 +4800,28 @@
       "type": "white",
       "country": "Italy",
       "region": "Toscana",
+      "appellation": null,
+      "classification": null,
       "vintage": null,
+      "isNonVintage": false,
       "grapes": [
         "Blend"
       ],
-      "alcohol": 13.0,
+      "alcohol": 13,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Piccini’s Piccini Memoro Bianco is a white wine from Toscana, Italy made from Blend.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/2481318",
         "rating": 3.6,
         "ratingCount": 7559,
-        "averagePrice": 10659.0
+        "averagePrice": 10659
       },
-      "image": "https://images.vivino.com/thumbs/9pyDrPapR8W9uMgQmWGYKw_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/9pyDrPapR8W9uMgQmWGYKw_pb_x600.png"
     },
     "purchases": [
       {
@@ -4203,20 +4861,28 @@
       "type": "white",
       "country": "New Zealand",
       "region": "Marlborough",
+      "appellation": "Marlborough",
+      "classification": null,
       "vintage": 2023,
+      "isNonVintage": false,
       "grapes": [
         "Sauvignon Blanc"
       ],
       "alcohol": 12.5,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Fault Line’s 2023 Fault Line Sauvignon Blanc is a white wine from Marlborough, New Zealand made from Sauvignon Blanc.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/2656504",
-        "rating": 4.0,
+        "rating": 4,
         "ratingCount": 1540,
-        "averagePrice": 19541.0
+        "averagePrice": 19541
       },
-      "image": "/images/WINE_59e804da-6706-43f6-bf81-eb1d36142aef.png",
-      "size": "standard"
+      "image": "/images/WINE_59e804da-6706-43f6-bf81-eb1d36142aef.png"
     },
     "purchases": [
       {
@@ -4266,21 +4932,29 @@
       "winery": "Precious Day",
       "type": "sparkling",
       "country": "France",
-      "region": "Crémant de Bordeaux",
+      "region": "Bordeaux",
+      "appellation": "Crémant de Bordeaux AOC",
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
         "Blend"
       ],
       "alcohol": 11.5,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Precious Day’s Precious Day Crémant de Bordeaux is a sparkling wine from Crémant de Bordeaux AOC, France made from Blend.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/172181121",
         "rating": 3.8,
         "ratingCount": 330,
-        "averagePrice": 21318.0
+        "averagePrice": 21318
       },
-      "image": "/images/WINE_5846abf9-7a6b-485e-a211-f29d6336dbff.png",
-      "size": "standard"
+      "image": "/images/WINE_5846abf9-7a6b-485e-a211-f29d6336dbff.png"
     },
     "purchases": [
       {
@@ -4341,20 +5015,30 @@
       "type": "sparkling",
       "country": "France",
       "region": "Champagne",
+      "appellation": "Champagne AOC",
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
-        "Blend"
+        "Pinot Noir",
+        "Chardonnay",
+        "Pinot Meunier"
       ],
-      "alcohol": 12.0,
+      "alcohol": 12,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Charles Heidsieck’s Charles Heidsieck Brut Réserve is a sparkling wine from Champagne AOC, France made from Pinot Noir, Chardonnay, Pinot Meunier.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/1655483",
         "rating": 4.2,
         "ratingCount": 29152,
-        "averagePrice": 85272.0
+        "averagePrice": 85272
       },
-      "image": "https://images.vivino.com/thumbs/YH25LjjhTqSG0niNiJmS9A_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/YH25LjjhTqSG0niNiJmS9A_pb_x600.png"
     },
     "purchases": [
       {
@@ -4383,20 +5067,29 @@
       "type": "sparkling",
       "country": "France",
       "region": "Champagne",
+      "appellation": "Champagne AOC",
+      "classification": "Vintage",
       "vintage": 2015,
+      "isNonVintage": false,
       "grapes": [
-        "Blend"
+        "Pinot Noir",
+        "Chardonnay"
       ],
-      "alcohol": 12.0,
+      "alcohol": 12,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Louis Roederer’s 2015 Louis Roederer Cristal Brut Champagne (Millésimé) is a sparkling wine from Champagne AOC, France made from Pinot Noir, Chardonnay.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/1496773",
         "rating": 4.6,
         "ratingCount": 46301,
-        "averagePrice": 495642.0
+        "averagePrice": 495642
       },
-      "image": "https://images.vivino.com/thumbs/bXZK_MhMQi-a2xrjEITv2A_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/bXZK_MhMQi-a2xrjEITv2A_pb_x600.png"
     },
     "purchases": [
       {
@@ -4425,20 +5118,29 @@
       "type": "sparkling",
       "country": "France",
       "region": "Champagne",
+      "appellation": "Champagne AOC",
+      "classification": "Vintage",
       "vintage": 2013,
+      "isNonVintage": false,
       "grapes": [
-        "Blend"
+        "Pinot Noir",
+        "Chardonnay"
       ],
       "alcohol": 12.5,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Dom Pérignon’s 2013 Dom Pérignon Brut Champagne Luminous is a sparkling wine from Champagne AOC, France made from Pinot Noir, Chardonnay.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/1540082",
         "rating": 4.6,
         "ratingCount": 159010,
-        "averagePrice": 461888.0
+        "averagePrice": 461888
       },
-      "image": "/images/WINE_c3f73281-7ac9-422e-9700-624c507343bc.png",
-      "size": "standard"
+      "image": "/images/WINE_c3f73281-7ac9-422e-9700-624c507343bc.png"
     },
     "purchases": [
       {
@@ -4467,20 +5169,28 @@
       "type": "sparkling",
       "country": "France",
       "region": "Champagne",
+      "appellation": "Champagne AOC",
+      "classification": "Vintage",
       "vintage": 2015,
+      "isNonVintage": false,
       "grapes": [
         "Pinot Noir"
       ],
       "alcohol": 12.5,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Veuve Clicquot’s 2015 Veuve Clicquot La Grande Dame Brut Champagne is a sparkling wine from Champagne AOC, France made from Pinot Noir.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/1513886",
         "rating": 4.5,
         "ratingCount": 19357,
-        "averagePrice": 287792.0
+        "averagePrice": 287792
       },
-      "image": "/images/WINE_3b54969a-a2f8-42bd-8c2c-e8a16a959cfb.png",
-      "size": "standard"
+      "image": "/images/WINE_3b54969a-a2f8-42bd-8c2c-e8a16a959cfb.png"
     },
     "purchases": [
       {
@@ -4509,20 +5219,28 @@
       "type": "sparkling",
       "country": "Spain",
       "region": "Cava",
+      "appellation": "Cava DO",
+      "classification": null,
       "vintage": 2020,
+      "isNonVintage": false,
       "grapes": [
         "Blend"
       ],
       "alcohol": null,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Federico Paternina’s 2020 Federico Paternina Cava Organic Brut is a sparkling wine from Cava DO, Spain made from Blend.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/171187357",
         "rating": 3.5,
         "ratingCount": 1402,
-        "averagePrice": 14212.0
+        "averagePrice": 14212
       },
-      "image": "/images/WINE_56190b5a-29d1-4cff-ba51-1919a19fc45a.png",
-      "size": "standard"
+      "image": "/images/WINE_56190b5a-29d1-4cff-ba51-1919a19fc45a.png"
     },
     "purchases": [
       {
@@ -4562,20 +5280,28 @@
       "type": "red",
       "country": "Argentina",
       "region": "Mendoza",
+      "appellation": "Mendoza",
+      "classification": null,
       "vintage": 2021,
+      "isNonVintage": false,
       "grapes": [
         "Malbec"
       ],
-      "alcohol": 14.0,
+      "alcohol": 14,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Trapiche’s 2021 Trapiche Broquel Malbec is a red wine from Mendoza, Argentina made from Malbec.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/1521765",
         "rating": 3.8,
         "ratingCount": 23761,
-        "averagePrice": 21318.0
+        "averagePrice": 21318
       },
-      "image": "/images/WINE_e6e06b36-b022-4a4d-8543-816b76e0c5f0.png",
-      "size": "standard"
+      "image": "/images/WINE_e6e06b36-b022-4a4d-8543-816b76e0c5f0.png"
     },
     "purchases": [
       {
@@ -4611,22 +5337,30 @@
         "ko": null,
         "en": "Dos Copas Frizzante"
       },
-      "winery": null,
+      "winery": "Dos Copas",
       "type": "sparkling",
       "country": "Spain",
       "region": "Vino de España",
+      "appellation": null,
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [],
       "alcohol": null,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Dos Copas’s Dos Copas Frizzante is a sparkling wine from Vino de España, Spain.",
       "vivino": {
         "url": "https://www.shinsegae-lnb.com/html/product/wineView.html?idx=2228&s_brand=&s_style=&s_food=&s_daily=&s_sort=N&s_type=0&s_nation=0&s_region=0&s_page=1&s_data=",
         "rating": null,
         "ratingCount": 0,
         "averagePrice": null
       },
-      "image": "/images/WINE_596c671d-bd49-4308-98cc-8e7cbb60e268.png",
-      "size": "standard"
+      "image": "/images/WINE_596c671d-bd49-4308-98cc-8e7cbb60e268.png"
     },
     "purchases": [
       {
@@ -4666,20 +5400,28 @@
       "type": "sparkling",
       "country": "Italy",
       "region": "Prosecco",
+      "appellation": "Prosecco DOC",
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
         "Glera"
       ],
       "alcohol": 11.5,
       "volumeMl": null,
+      "sweetness": "Dry",
+      "productionMethod": "Charmat Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Gancia’s Gancia Prosecco Dry is a sparkling wine from Prosecco DOC, Italy made from Glera.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/135368169",
-        "rating": 4.0,
+        "rating": 4,
         "ratingCount": 7984,
-        "averagePrice": 14212.0
+        "averagePrice": 14212
       },
-      "image": "https://images.vivino.com/thumbs/aFu6sUYkRY2Ee3_GQS-SlA_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/aFu6sUYkRY2Ee3_GQS-SlA_pb_x600.png"
     },
     "purchases": [
       {
@@ -4714,21 +5456,29 @@
       "winery": "Saint Clair Family Estate",
       "type": "white",
       "country": "New Zealand",
-      "region": "Blenheim",
+      "region": "Marlborough",
+      "appellation": "Marlborough",
+      "classification": null,
       "vintage": 2021,
+      "isNonVintage": false,
       "grapes": [
         "Sauvignon Blanc"
       ],
-      "alcohol": 13.0,
+      "alcohol": 13,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Saint Clair Family Estate’s 2021 Saint Clair Family Estate Pioneer Block 21 Bell Block Sauvignon Blanc is a white wine from Marlborough, New Zealand made from Sauvignon Blanc.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/19420826",
-        "rating": 4.0,
+        "rating": 4,
         "ratingCount": 1176,
-        "averagePrice": 30200.0
+        "averagePrice": 30200
       },
-      "image": "https://images.vivino.com/thumbs/PQhvXZD7SB-we2cn99a5dw_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/PQhvXZD7SB-we2cn99a5dw_pb_x600.png"
     },
     "purchases": [
       {
@@ -4764,20 +5514,28 @@
       "type": "white",
       "country": "Chile",
       "region": "Leyda Valley",
+      "appellation": null,
+      "classification": null,
       "vintage": 2020,
+      "isNonVintage": false,
       "grapes": [
         "Chardonnay"
       ],
-      "alcohol": 13.0,
+      "alcohol": 13,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "San Pedro’s 2020 San Pedro Signature Chardonnay is a white wine from Leyda Valley, Chile made from Chardonnay.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/167254290",
         "rating": 3.6,
         "ratingCount": 97,
         "averagePrice": null
       },
-      "image": "https://images.vivino.com/thumbs/Nyx_VQ0-QfiFrtcK39LGLQ_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/Nyx_VQ0-QfiFrtcK39LGLQ_pb_x600.png"
     },
     "purchases": [
       {
@@ -4813,20 +5571,28 @@
       "type": "red",
       "country": "Spain",
       "region": "Castilla y León",
+      "appellation": "Ribera del Duero DO",
+      "classification": null,
       "vintage": 2018,
+      "isNonVintage": false,
       "grapes": [
         "Tempranillo"
       ],
       "alcohol": 14.5,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Condado de Haza’s 2018 Condado de Haza 20 Aldeas is a red wine from Ribera del Duero DO, Spain made from Tempranillo.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/164397025",
-        "rating": 4.0,
+        "rating": 4,
         "ratingCount": 4510,
-        "averagePrice": 30200.0
+        "averagePrice": 30200
       },
-      "image": "https://images.vivino.com/thumbs/ZWNhW2PyQ3uwxSop-qNmOQ_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/ZWNhW2PyQ3uwxSop-qNmOQ_pb_x600.png"
     },
     "purchases": [
       {
@@ -4866,18 +5632,26 @@
       "type": "sparkling",
       "country": "Germany",
       "region": "German Wine",
+      "appellation": null,
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [],
       "alcohol": 11.5,
       "volumeMl": null,
+      "sweetness": "Dry-Sec",
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Henkell’s Henkell Blanc de Blancs Dry-Sec is a sparkling wine from German Wine, Germany.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/164942918",
         "rating": 3.5,
         "ratingCount": 2032,
-        "averagePrice": 12435.0
+        "averagePrice": 12435
       },
-      "image": "https://images.vivino.com/thumbs/d4q_etRLTyyH8ATyr5dJUA_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/d4q_etRLTyyH8ATyr5dJUA_pb_x600.png"
     },
     "purchases": [
       {
@@ -4917,18 +5691,26 @@
       "type": "sparkling",
       "country": "Germany",
       "region": "German Wine",
+      "appellation": null,
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [],
-      "alcohol": 12.0,
+      "alcohol": 12,
       "volumeMl": null,
+      "sweetness": "Dry-Sec",
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Henkell’s Henkell Rosé Dry-Sec is a sparkling wine from German Wine, Germany.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/1470565",
         "rating": 3.4,
         "ratingCount": 1499,
-        "averagePrice": 14212.0
+        "averagePrice": 14212
       },
-      "image": "https://images.vivino.com/thumbs/DDZ91AC0RRuDZJrUnFDrJw_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/DDZ91AC0RRuDZJrUnFDrJw_pb_x600.png"
     },
     "purchases": [
       {
@@ -4964,20 +5746,28 @@
       "type": "red",
       "country": "United States",
       "region": "Washington",
+      "appellation": null,
+      "classification": null,
       "vintage": 2017,
+      "isNonVintage": false,
       "grapes": [
         "Merlot"
       ],
       "alcohol": 13.5,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Two Vines’s 2017 Two Vines Merlot is a red wine from Washington, United States made from Merlot.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/3192031",
         "rating": 3.5,
         "ratingCount": 2752,
-        "averagePrice": 10659.0
+        "averagePrice": 10659
       },
-      "image": "/images/WINE_30ac8cd4-d3eb-44e6-8b41-6fd65bc44032.webp",
-      "size": "standard"
+      "image": "/images/WINE_30ac8cd4-d3eb-44e6-8b41-6fd65bc44032.webp"
     },
     "purchases": [
       {
@@ -5017,20 +5807,28 @@
       "type": "red",
       "country": "United States",
       "region": "Columbia Valley",
+      "appellation": null,
+      "classification": null,
       "vintage": 2018,
+      "isNonVintage": false,
       "grapes": [
         "Cabernet Sauvignon"
       ],
       "alcohol": 13.5,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Two Vines’s 2018 Two Vines Cabernet Sauvignon is a red wine from Columbia Valley, United States made from Cabernet Sauvignon.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/1531110",
         "rating": 3.5,
         "ratingCount": 5486,
-        "averagePrice": 10659.0
+        "averagePrice": 10659
       },
-      "image": "/images/WINE_190167f1-b487-42e8-89d7-09abd9139bb2.png",
-      "size": "standard"
+      "image": "/images/WINE_190167f1-b487-42e8-89d7-09abd9139bb2.png"
     },
     "purchases": [
       {
@@ -5070,20 +5868,28 @@
       "type": "sparkling",
       "country": "Italy",
       "region": "Vino d'Italia",
+      "appellation": null,
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
         "Moscato Bianco"
       ],
       "alcohol": null,
       "volumeMl": null,
+      "sweetness": "Sweet",
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Atilius’s Atilius Moscato is a sparkling wine from Vino d'Italia, Italy made from Moscato Bianco.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/166528881",
         "rating": 3.4,
         "ratingCount": 79,
-        "averagePrice": 19541.0
+        "averagePrice": 19541
       },
-      "image": "https://images.vivino.com/thumbs/W1jkbtMkQ0G3KpUwNPMzUA_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/W1jkbtMkQ0G3KpUwNPMzUA_pb_x600.png"
     },
     "purchases": [
       {
@@ -5123,20 +5929,28 @@
       "type": "sparkling",
       "country": "Australia",
       "region": "South Eastern Australia",
+      "appellation": null,
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
         "Blend"
       ],
       "alcohol": null,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Seppelt’s Seppelt Fleur de Lys is a sparkling wine from South Eastern Australia, Australia made from Blend.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/2152359",
         "rating": 3.3,
         "ratingCount": 514,
-        "averagePrice": 12435.0
+        "averagePrice": 12435
       },
-      "image": "https://images.vivino.com/thumbs/bRJ0PSIrSNGtW83Yi60utA_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/bRJ0PSIrSNGtW83Yi60utA_pb_x600.png"
     },
     "purchases": [
       {
@@ -5171,21 +5985,29 @@
       "winery": "Domaine du Pere Guillot",
       "type": "sparkling",
       "country": "France",
-      "region": "Bourgogne",
+      "region": "Burgundy",
+      "appellation": null,
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
         "Chardonnay"
       ],
       "alcohol": 11.5,
       "volumeMl": null,
+      "sweetness": "Demi-Sec",
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Domaine du Pere Guillot’s Pere Guillot cuvee prestige demi-sec is a sparkling wine from Burgundy, France made from Chardonnay.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/156844456",
         "rating": null,
         "ratingCount": 0,
         "averagePrice": null
       },
-      "image": "/images/WINE_587588fa-8d59-4245-b614-c3b81b357780.png",
-      "size": "standard"
+      "image": "/images/WINE_587588fa-8d59-4245-b614-c3b81b357780.png"
     },
     "purchases": [
       {
@@ -5246,20 +6068,30 @@
       "type": "sparkling",
       "country": "France",
       "region": "Champagne",
+      "appellation": "Champagne AOC",
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
-        "Pinot Noir"
+        "Pinot Noir",
+        "Pinot Meunier",
+        "Chardonnay"
       ],
-      "alcohol": 12.0,
+      "alcohol": 12,
       "volumeMl": null,
+      "sweetness": "Brut",
+      "productionMethod": "Traditional Method",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Moët & Chandon’s Moët & Chandon Impérial Brut Champagne is a sparkling wine from Champagne AOC, France made from Pinot Noir, Pinot Meunier, Chardonnay.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/164942645",
         "rating": 4.1,
         "ratingCount": 127041,
-        "averagePrice": 78166.0
+        "averagePrice": 78166
       },
-      "image": "https://images.vivino.com/thumbs/LP_B9yqMQHSuMyd4SLgUSw_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/LP_B9yqMQHSuMyd4SLgUSw_pb_x600.png"
     },
     "purchases": [
       {
@@ -5287,21 +6119,30 @@
       "winery": "Anciens Temps",
       "type": "red",
       "country": "France",
-      "region": "Pays d'Oc",
+      "region": "Languedoc",
+      "appellation": "IGP Pays d'Oc",
+      "classification": null,
       "vintage": 2022,
+      "isNonVintage": false,
       "grapes": [
-        "Blend"
+        "Cabernet Sauvignon",
+        "Syrah"
       ],
-      "alcohol": 13.0,
+      "alcohol": 13,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Anciens Temps’s 2022 Anciens Temps Cabernet Sauvignon - Syrah is a red wine from IGP Pays d'Oc, France made from Cabernet Sauvignon, Syrah.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/30309066",
         "rating": 3.7,
         "ratingCount": 3262,
-        "averagePrice": 8882.0
+        "averagePrice": 8882
       },
-      "image": "https://images.vivino.com/thumbs/gsj7oLMdRzSXLdSZNxRHMg_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/gsj7oLMdRzSXLdSZNxRHMg_pb_x600.png"
     },
     "purchases": [
       {
@@ -5368,20 +6209,28 @@
       "type": "red",
       "country": "Italy",
       "region": "Toscana",
+      "appellation": null,
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
         "Blend"
       ],
-      "alcohol": 14.0,
+      "alcohol": 14,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Piccini’s Piccini Memoro Rosso is a red wine from Toscana, Italy made from Blend.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/164942584",
         "rating": 3.8,
         "ratingCount": 71170,
-        "averagePrice": 14212.0
+        "averagePrice": 14212
       },
-      "image": "https://images.vivino.com/thumbs/eP9Wy_D8SeqfQCTK-fgOzA_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/eP9Wy_D8SeqfQCTK-fgOzA_pb_x600.png"
     },
     "purchases": [
       {
@@ -5410,20 +6259,28 @@
       "type": "dessert",
       "country": "Moldova",
       "region": "Moldova",
+      "appellation": null,
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
         "Riesling"
       ],
       "alcohol": null,
       "volumeMl": null,
+      "sweetness": "Sweet",
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Asconi’s Asconi Icewine Riesling is a dessert wine from Moldova, Moldova made from Riesling.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/149885144",
         "rating": 3.9,
         "ratingCount": 279,
-        "averagePrice": 49742.0
+        "averagePrice": 49742
       },
-      "image": "https://images.vivino.com/thumbs/8KmY5M-WTPydp-FlQgGSRg_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/8KmY5M-WTPydp-FlQgGSRg_pb_x600.png"
     },
     "purchases": [
       {
@@ -5452,20 +6309,28 @@
       "type": "white",
       "country": "New Zealand",
       "region": "Marlborough",
+      "appellation": "Marlborough",
+      "classification": null,
       "vintage": 2023,
+      "isNonVintage": false,
       "grapes": [
         "Sauvignon Blanc"
       ],
       "alcohol": 13.5,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Rapaura Springs’s 2023 Rapaura Springs Marlborough Sauvignon Blanc is a white wine from Marlborough, New Zealand made from Sauvignon Blanc.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/4914950",
         "rating": 4.2,
         "ratingCount": 18167,
-        "averagePrice": 23094.0
+        "averagePrice": 23094
       },
-      "image": "https://images.vivino.com/thumbs/BG9vCm3cRJGrVSK3GRfnnw_pb_x600.png",
-      "size": "standard"
+      "image": "https://images.vivino.com/thumbs/BG9vCm3cRJGrVSK3GRfnnw_pb_x600.png"
     },
     "purchases": [
       {
@@ -5502,23 +6367,31 @@
         "en": "Wineintube Jana de Mar Sangria"
       },
       "winery": "Wineintube",
-      "type": "dessert",
+      "type": "other",
       "country": "Spain",
       "region": "Catalunya",
+      "appellation": null,
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
         "Blend"
       ],
-      "alcohol": 11.0,
+      "alcohol": 11,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Wineintube Jana de Mar is a non-vintage sangria from Catalunya, Spain.",
       "vivino": {
         "url": "https://www.vivino.com/wines/161818437",
         "rating": 3.1,
         "ratingCount": 75,
         "averagePrice": null
       },
-      "image": "/images/WINE_79b4bc99-1b5d-467a-94b2-ccd54f42f363.png",
-      "size": "magnum"
+      "image": "/images/WINE_79b4bc99-1b5d-467a-94b2-ccd54f42f363.png"
     },
     "purchases": [
       {
@@ -5558,20 +6431,28 @@
       "type": "red",
       "country": "Spain",
       "region": "Cariñena",
+      "appellation": "Cariñena DO",
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
         "Blend"
       ],
       "alcohol": 14.5,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Paniza’s Paniza High Mountains Red Blend is a red wine from Cariñena DO, Spain made from Blend.",
       "vivino": {
         "url": "https://www.vivino.com/ES/en/es-paniza-high-mountains-red-blend/w/12825337",
         "rating": null,
         "ratingCount": null,
         "averagePrice": null
       },
-      "image": "/images/WINE_13a8733d-951f-4a73-b5a4-5990f0b29031.png",
-      "size": "standard"
+      "image": "/images/WINE_13a8733d-951f-4a73-b5a4-5990f0b29031.png"
     },
     "purchases": [
       {
@@ -5597,23 +6478,31 @@
         "en": "Château Chantal Bubbly Cherry"
       },
       "winery": "Château Chantal",
-      "type": "sparkling",
+      "type": "other",
       "country": "United States",
       "region": "Michigan",
+      "appellation": null,
+      "classification": null,
       "vintage": null,
+      "isNonVintage": true,
       "grapes": [
         "Cherry"
       ],
       "alcohol": 12.5,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Château Chantal Bubbly Cherry is a sparkling cherry wine from Michigan.",
       "vivino": {
         "url": "https://www.chateauchantal.com/product/bubbly-cherry",
         "rating": null,
         "ratingCount": null,
-        "averagePrice": 26609.0
+        "averagePrice": 26609
       },
-      "image": "/images/WINE_776dd8a9-0758-4f06-9917-4a8a1683be19.png",
-      "size": "standard"
+      "image": "/images/WINE_776dd8a9-0758-4f06-9917-4a8a1683be19.png"
     },
     "purchases": [
       {
@@ -5653,20 +6542,28 @@
       "type": "white",
       "country": "New Zealand",
       "region": "Marlborough",
+      "appellation": "Marlborough",
+      "classification": null,
       "vintage": 2024,
+      "isNonVintage": false,
       "grapes": [
         "Sauvignon Blanc"
       ],
       "alcohol": 12.5,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Allan Scott’s 2024 Allan Scott Special Edition Henri Matisse_Blue Nude Sauvignon Blanc is a white wine from Marlborough, New Zealand made from Sauvignon Blanc.",
       "vivino": {
         "url": "https://www.vivino.com/US/en/allan-scott-special-edition-henri-matisse_blue-nude-sauvignon-blanc/w/12133850",
         "rating": 3.7,
         "ratingCount": 466,
         "averagePrice": null
       },
-      "image": "/images/WINE_ee457462-e378-4322-9100-d0963df6fcdf.png",
-      "size": "standard"
+      "image": "/images/WINE_ee457462-e378-4322-9100-d0963df6fcdf.png"
     },
     "purchases": [
       {
@@ -5699,23 +6596,31 @@
         "en": "Cramele Recaş Orange Natural"
       },
       "winery": "Cramele Recaş",
-      "type": "rose",
+      "type": "orange",
       "country": "Romania",
-      "region": "Recas",
+      "region": "Banat",
+      "appellation": "Recaș",
+      "classification": null,
       "vintage": 2020,
+      "isNonVintage": false,
       "grapes": [
         "Blend"
       ],
       "alcohol": 12.5,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": "Skin Contact",
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Cramele Recaş’s 2020 Cramele Recaş Orange Natural is a orange wine from Recaș, Romania made from Blend.",
       "vivino": {
         "url": "https://www.vivino.com/SG/en/cramele-recas-orange-natural/w/7443820?ref=nav-search",
         "rating": 3.4,
         "ratingCount": 2292,
         "averagePrice": null
       },
-      "image": "/images/WINE_62bc4792-414a-46b0-9e60-8394f1a53592.png",
-      "size": "standard"
+      "image": "/images/WINE_62bc4792-414a-46b0-9e60-8394f1a53592.png"
     },
     "purchases": [
       {
@@ -5744,20 +6649,28 @@
       "type": "white",
       "country": "New Zealand",
       "region": "Marlborough",
+      "appellation": "Marlborough",
+      "classification": null,
       "vintage": 2024,
+      "isNonVintage": false,
       "grapes": [
         "Sauvignon Blanc"
       ],
       "alcohol": 13.5,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Rapaura Springs’s 2024 Rapaura Springs Marlborough Sauvignon Blanc is a white wine from Marlborough, New Zealand made from Sauvignon Blanc.",
       "vivino": {
         "url": "https://www.vivino.com/US-CA/en/wines/4914950",
         "rating": 4.2,
         "ratingCount": 18167,
-        "averagePrice": 23094.0
+        "averagePrice": 23094
       },
-      "image": "/images/WINE_ffb490f0-3fab-48c5-8374-bdef084117aa.png",
-      "size": "standard"
+      "image": "/images/WINE_ffb490f0-3fab-48c5-8374-bdef084117aa.png"
     },
     "purchases": [
       {
@@ -5786,20 +6699,28 @@
       "type": "white",
       "country": "New Zealand",
       "region": "Marlborough",
+      "appellation": "Marlborough",
+      "classification": null,
       "vintage": 2025,
+      "isNonVintage": false,
       "grapes": [
         "Sauvignon Blanc"
       ],
       "alcohol": 13.5,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Rapaura Springs’s 2025 Rapaura Springs Reserve Marlborough Sauvignon Blanc is a white wine from Marlborough, New Zealand made from Sauvignon Blanc.",
       "vivino": {
         "url": "https://www.vivino.com/en/rapaura-springs-reserve-marlborough-sauvignon-blanc/w/2469416?ref=nav-search",
         "rating": 4.2,
         "ratingCount": 5083,
         "averagePrice": null
       },
-      "image": "/images/WINE_ae9a30c8-ebb9-4b08-86ad-fda711db44e9.png",
-      "size": "standard"
+      "image": "/images/WINE_ae9a30c8-ebb9-4b08-86ad-fda711db44e9.png"
     },
     "purchases": [
       {
@@ -5862,24 +6783,32 @@
         "ko": null,
         "en": "Côte des Roses Rosé"
       },
-      "winery": "Côte des Roses",
+      "winery": "Gérard Bertrand",
       "type": "rose",
       "country": "France",
       "region": "Languedoc",
+      "appellation": "Languedoc",
+      "classification": null,
       "vintage": 2021,
+      "isNonVintage": false,
       "grapes": [
         "Blend"
       ],
-      "alcohol": 13.0,
+      "alcohol": 13,
       "volumeMl": null,
+      "sweetness": null,
+      "productionMethod": null,
+      "aging": null,
+      "servingTemperature": null,
+      "foodPairing": [],
+      "description": "Gérard Bertrand’s 2021 Côte des Roses Rosé is a rose wine from Languedoc, France made from Blend.",
       "vivino": {
         "url": "https://www.vivino.com/en/cote-des-roses-rose/w/3180824?ref=nav-search",
         "rating": 3.9,
         "ratingCount": 48434,
         "averagePrice": null
       },
-      "image": "/images/WINE_dc3b83c2-b44e-4c4f-b4c3-d897b8485f7e.png",
-      "size": "standard"
+      "image": "/images/WINE_dc3b83c2-b44e-4c4f-b4c3-d897b8485f7e.png"
     },
     "purchases": [
       {
