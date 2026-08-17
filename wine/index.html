@@ -13,12 +13,20 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&amp;display=swap">
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="fixes.css">
+    <style>
+      .collection-switcher { display:flex; align-items:center; gap:15px; margin-left:auto; margin-right:22px; }
+      .collection-switcher a { padding:7px 1px; border-bottom:1px solid transparent; color:#667069; font-size:10px; font-weight:600; letter-spacing:.14em; text-decoration:none; }
+      .collection-switcher a:hover { color:#edf0ed; }
+      .collection-switcher a:focus-visible { outline:2px solid #c86e42; outline-offset:3px; }
+      .collection-switcher a.active { border-bottom-color:#c86e42; color:#edf0ed; }
+      @media (max-width:560px) { .collection-switcher { margin-right:0; gap:11px; } }
+    </style>
     <script src="app.js" defer></script>
     <script src="fixes.js" defer></script>
   </head>
   <body>
     <div class="page-shell">
-      <header class="site-header"><a class="brand" href="./" aria-label="Wine Collection 홈"><span class="brand-mark" aria-hidden="true">W</span><span><strong>Wine Collection</strong><small>Personal archive</small></span></a><p class="as-of" id="as-of">나만의 와인 기록</p></header>
+      <header class="site-header"><a class="brand" href="../" aria-label="Collection Home"><span class="brand-mark" aria-hidden="true">W</span><span><strong>Wine Collection</strong><small>Personal archive</small></span></a><nav class="collection-switcher" aria-label="컬렉션 전환"><a href="../whisky/">WHISKY</a><a class="active" href="../wine/" aria-current="page">WINE</a></nav><p class="as-of" id="as-of">나만의 와인 기록</p></header>
       <main>
         <section class="hero"><div><p class="eyebrow">MY CELLAR</p><h1>천천히 마시고,<br><span>선명하게 기록하다.</span></h1><p class="hero-copy">한 병의 정보부터 구매 순간과 마신 기억까지, 필요한 기록만 차분하게 모았습니다.</p></div><div class="hero-seal" aria-hidden="true"><span>PRIVATE</span><strong>W</strong><span>COLLECTION</span></div></section>
         <section class="stats" aria-label="컬렉션 통계"><article class="stat-card stat-primary"><span class="stat-label">현재 보유</span><div><strong id="stat-owned">0</strong><small>병</small></div><p>구매와 소비 기록을 기준으로 계산합니다</p></article><article class="stat-card"><span class="stat-label">보유 와인</span><div><strong id="stat-wines">0</strong><small>종</small></div></article><article class="stat-card"><span class="stat-label">소비 기록</span><div><strong id="stat-consumed">0</strong><small>병</small></div></article><article class="stat-card stat-price"><span class="stat-label">총 구매금액</span><div><strong id="stat-total">₩0</strong></div><p>기록된 원화 구매금액 기준</p></article></section>

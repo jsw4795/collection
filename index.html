@@ -2,11 +2,30 @@
 <html lang="ko">
   <head>
     <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="0; url=whisky/">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Collection</title>
+    <meta name="theme-color" content="#0a0d0c">
+    <meta name="description" content="J'S COLLECTION — 개인 Whisky와 Wine 아카이브">
+    <title>J'S COLLECTION</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&amp;display=swap">
+    <link rel="stylesheet" href="styles.css">
   </head>
   <body>
-    <p><a href="whisky/">Whisky Collection으로 이동</a></p>
+    <main class="home-shell">
+      <header class="home-header">
+        <a class="home-brand" href="./" aria-current="page"><span class="brand-mark" aria-hidden="true">J</span><span><strong>J'S COLLECTION</strong><small>Personal archive</small></span></a>
+      </header>
+      <section class="home-hero" aria-labelledby="home-title">
+        <p class="eyebrow">PRIVATE ARCHIVE</p>
+        <h1 id="home-title">천천히 모으고,<br><span>선명하게 기록하다.</span></h1>
+        <p>한 병씩 쌓여 온 취향과 순간을 두 개의 컬렉션으로 정리했습니다.</p>
+      </section>
+      <nav class="collection-cards" aria-label="컬렉션 선택">
+        <a class="collection-card whisky" href="./whisky/"><span class="card-label">WHISKY</span><h2>Whisky Collection</h2><p>보유한 위스키와 구매 기록</p><span class="card-arrow" aria-hidden="true">↗</span></a>
+        <a class="collection-card wine" href="./wine/"><span class="card-label">WINE</span><h2>Wine Collection</h2><p>와인과 마신 순간의 기록</p><span class="card-arrow" aria-hidden="true">↗</span></a>
+      </nav>
+    </main>
   </body>
 </html>

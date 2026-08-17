@@ -12,18 +12,30 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&amp;display=swap">
     <link rel="stylesheet" href="styles.css">
+    <style>
+      .collection-switcher { display:flex; align-items:center; gap:15px; margin-left:auto; margin-right:22px; }
+      .collection-switcher a { padding:7px 1px; border-bottom:1px solid transparent; color:#667069; font-size:10px; font-weight:600; letter-spacing:.14em; text-decoration:none; }
+      .collection-switcher a:hover { color:#edf0ed; }
+      .collection-switcher a:focus-visible { outline:2px solid #c86e42; outline-offset:3px; }
+      .collection-switcher a.active { border-bottom-color:#c86e42; color:#edf0ed; }
+      @media (max-width:560px) { .collection-switcher { margin-right:0; gap:11px; } }
+    </style>
     <script src="app.js" defer></script>
   </head>
   <body>
     <div class="page-shell">
       <header class="site-header">
-        <a class="brand" href="./" aria-label="Whisky Collection 홈">
+        <a class="brand" href="../" aria-label="Collection Home">
           <span class="brand-mark" aria-hidden="true">W</span>
           <span>
             <strong>Whisky Collection</strong>
             <small>Personal archive</small>
           </span>
         </a>
+        <nav class="collection-switcher" aria-label="컬렉션 전환">
+          <a class="active" href="../whisky/" aria-current="page">WHISKY</a>
+          <a href="../wine/">WINE</a>
+        </nav>
         <p class="as-of" id="as-of">나만의 위스키 기록</p>
       </header>
 
