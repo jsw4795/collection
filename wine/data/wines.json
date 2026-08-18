@@ -4,7 +4,7 @@
     "sourceId": 7,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "모엣 샹동 임페리얼",
         "en": "Moët & Chandon Impérial Brut Champagne"
       },
       "winery": "Moët & Chandon",
@@ -22,8 +22,8 @@
       ],
       "alcohol": 12,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": "Traditional Method",
@@ -105,7 +105,7 @@
     "sourceId": 8,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "파이퍼 하이직 뀌베 브뤼",
         "en": "Piper-Heidsieck Cuvée Brut Champagne"
       },
       "winery": "Piper-Heidsieck",
@@ -123,8 +123,8 @@
       ],
       "alcohol": 12,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": "Traditional Method",
@@ -185,7 +185,7 @@
     "sourceId": 10,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "빌라 마리아 프라이빗 빈 소비뇽 블랑",
         "en": "Villa Maria Private Bin Sauvignon Blanc"
       },
       "winery": "Villa Maria",
@@ -201,8 +201,8 @@
       ],
       "alcohol": 12.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -269,7 +269,7 @@
     "sourceId": 11,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "뵈브 클리코 옐로우 라벨 브뤼",
         "en": "Veuve Clicquot Brut (Carte Jaune) Champagne"
       },
       "winery": "Veuve Clicquot",
@@ -287,8 +287,8 @@
       ],
       "alcohol": 12.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": "Traditional Method",
@@ -324,7 +324,7 @@
     "sourceId": 12,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "멈 그랑 꼬르동 로제",
         "en": "G.H. Mumm Grand Cordon Rosé Brut Champagne"
       },
       "winery": "G.H. Mumm",
@@ -342,8 +342,8 @@
       ],
       "alcohol": 12.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": "Traditional Method",
@@ -390,7 +390,7 @@
     "sourceId": 13,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "보히가스 리제르바 까바 브뤼",
         "en": "Bohigas Reserva Cava Brut"
       },
       "winery": "Bohigas",
@@ -408,8 +408,8 @@
       ],
       "alcohol": 12,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "magnum",
+        "volumeMl": 1500
       },
       "sweetness": "Brut",
       "productionMethod": "Traditional Method",
@@ -456,7 +456,7 @@
     "sourceId": 14,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "레어 샴페인 레어 브뤼",
         "en": "Rare Champagne Rare Brut Champagne (Millésimé)"
       },
       "winery": "Rare Champagne",
@@ -473,8 +473,8 @@
       ],
       "alcohol": 12,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": "Traditional Method",
@@ -510,7 +510,7 @@
     "sourceId": 15,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "앙드레 끌루에 브륏 나뛰르 실버",
         "en": "Andre Clouet Brut Nature Silver Champagne Grand Cru 'Bouzy'"
       },
       "winery": "Andre Clouet",
@@ -526,8 +526,8 @@
       ],
       "alcohol": 12,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "magnum",
+        "volumeMl": 1500
       },
       "sweetness": "Brut Nature",
       "productionMethod": "Traditional Method",
@@ -563,7 +563,7 @@
     "sourceId": 16,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "샤를 클레망 트라디시옹 브뤼",
         "en": "Charles Clément Tradition Brut Champagne"
       },
       "winery": "Charles Clément",
@@ -581,8 +581,8 @@
       ],
       "alcohol": 12,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": "Traditional Method",
@@ -702,7 +702,7 @@
     "sourceId": 17,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "산타리타 트리플 C",
         "en": "Santa Rita Triple C Red Blend"
       },
       "winery": "Santa Rita",
@@ -720,8 +720,8 @@
       ],
       "alcohol": 15,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -768,7 +768,7 @@
     "sourceId": 18,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "투 바인즈 쉬라즈",
         "en": "Two Vines Shiraz"
       },
       "winery": "Two Vines",
@@ -784,8 +784,8 @@
       ],
       "alcohol": 13.8,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -832,7 +832,7 @@
     "sourceId": 19,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "포르토 크루즈 토니 포트",
         "en": "Porto Cruz Tawny Port"
       },
       "winery": "Porto Cruz",
@@ -846,8 +846,8 @@
       "grapes": [],
       "alcohol": 19,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Sweet",
       "productionMethod": "Fortified",
@@ -894,7 +894,7 @@
     "sourceId": 20,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "미켈레 끼아를로 바르베라 다스티 레 오르메",
         "en": "Michele Chiarlo Barbera d'Asti Le Orme"
       },
       "winery": "Michele Chiarlo",
@@ -910,8 +910,8 @@
       ],
       "alcohol": 13.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -958,7 +958,7 @@
     "sourceId": 21,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "제라르 베르트랑 아르 드 비브르 루즈",
         "en": "Gérard Bertrand Art de Vivre Rouge"
       },
       "winery": "Gérard Bertrand",
@@ -976,8 +976,8 @@
       ],
       "alcohol": 14,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -1024,7 +1024,7 @@
     "sourceId": 22,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "루이 자도 부르고뉴 피노 누아",
         "en": "Louis Jadot Bourgogne Pinot Noir"
       },
       "winery": "Louis Jadot",
@@ -1040,8 +1040,8 @@
       ],
       "alcohol": 12.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -1077,7 +1077,7 @@
     "sourceId": 23,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "슬로 다운 섹슈얼 초콜릿",
         "en": "SLO Down Sexual Chocolate Red"
       },
       "winery": "SLO Down",
@@ -1093,8 +1093,8 @@
       ],
       "alcohol": 13.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -1130,7 +1130,7 @@
     "sourceId": 24,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "J. 바우머 리슬링",
         "en": "J. Bäumer Riesling"
       },
       "winery": "J. Bäumer",
@@ -1146,8 +1146,8 @@
       ],
       "alcohol": 10,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -1194,7 +1194,7 @@
     "sourceId": 25,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "코노 소비뇽 블랑",
         "en": "Kono Sauvignon Blanc"
       },
       "winery": "Kono",
@@ -1210,8 +1210,8 @@
       ],
       "alcohol": 13,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -1278,7 +1278,7 @@
     "sourceId": 26,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "펠릭스 솔리스 무초 마스 블랑코",
         "en": "Félix Solís Mucho Más Blanco"
       },
       "winery": "Félix Solís",
@@ -1296,8 +1296,8 @@
       ],
       "alcohol": 12.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -1344,7 +1344,7 @@
     "sourceId": 27,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "샤또 생 미셸 드라이 리슬링",
         "en": "Chateau Ste. Michelle Dry Riesling"
       },
       "winery": "Chateau Ste. Michelle",
@@ -1360,8 +1360,8 @@
       ],
       "alcohol": 13,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -1408,7 +1408,7 @@
     "sourceId": 28,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "스톤 베이 소비뇽 블랑",
         "en": "Stone Bay Sauvignon Blanc"
       },
       "winery": "Stone Bay",
@@ -1424,8 +1424,8 @@
       ],
       "alcohol": 12.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -1493,7 +1493,7 @@
     "sourceId": 29,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "그로브 밀 소비뇽 블랑",
         "en": "Grove Mill Sauvignon Blanc"
       },
       "winery": "Grove Mill",
@@ -1509,8 +1509,8 @@
       ],
       "alcohol": 13,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -1577,7 +1577,7 @@
     "sourceId": 30,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "타피 소비뇽 블랑",
         "en": "Tapî Sauvignon Blanc"
       },
       "winery": "Altschwager Kenneally",
@@ -1593,8 +1593,8 @@
       ],
       "alcohol": 13,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -1630,7 +1630,7 @@
     "sourceId": 31,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "모아나 파크 에스테이트 시리즈 샤르도네",
         "en": "Moana Park Estate Estate Series Chardonnay"
       },
       "winery": "Moana Park Estate",
@@ -1646,8 +1646,8 @@
       ],
       "alcohol": 14,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -1694,7 +1694,7 @@
     "sourceId": 32,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "브레드 앤 버터 샤르도네",
         "en": "Bread & Butter Chardonnay"
       },
       "winery": "Bread & Butter",
@@ -1710,8 +1710,8 @@
       ],
       "alcohol": 13.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -1758,7 +1758,7 @@
     "sourceId": 33,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "샤또 기로 소테른",
         "en": "Château Guiraud Sauternes (Premier Grand Cru Classé)"
       },
       "winery": "Château Guiraud",
@@ -1775,8 +1775,8 @@
       ],
       "alcohol": 13.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -1812,7 +1812,7 @@
     "sourceId": 35,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "페데리코 파테르니나 까바 브뤼 빈티지 로제",
         "en": "Federico Paternina Cava Brut Vintage Rosé"
       },
       "winery": "Federico Paternina",
@@ -1829,8 +1829,8 @@
       ],
       "alcohol": null,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": "Traditional Method",
@@ -1893,7 +1893,7 @@
     "sourceId": 37,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "프레시넷 꼬르동 네그로 브뤼",
         "en": "Freixenet Cava Cordón Negro Brut"
       },
       "winery": "Freixenet",
@@ -1911,8 +1911,8 @@
       ],
       "alcohol": 12,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": "Traditional Method",
@@ -1959,7 +1959,7 @@
     "sourceId": 38,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "헨켈 브뤼 빈티지",
         "en": "Henkell Brut Vintage"
       },
       "winery": "Henkell",
@@ -1975,8 +1975,8 @@
       ],
       "alcohol": 11.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -2023,7 +2023,7 @@
     "sourceId": 39,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "앙리 르블랑 블랑 드 블랑 브뤼",
         "en": "Henri Leblanc Blanc de Blancs Brut"
       },
       "winery": "Henri Leblanc",
@@ -2039,8 +2039,8 @@
       ],
       "alcohol": 12,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": "Traditional Method",
@@ -2098,7 +2098,7 @@
     "sourceId": 40,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "나베란 까바 빈티지 브뤼",
         "en": "Naveran Cava Vintage Brut"
       },
       "winery": "Naveran",
@@ -2116,8 +2116,8 @@
       ],
       "alcohol": 11.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": "Traditional Method",
@@ -2164,7 +2164,7 @@
     "sourceId": 41,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "보히가스 리제르바 까바 브뤼",
         "en": "Bohigas Reserva Cava Brut"
       },
       "winery": "Bohigas",
@@ -2182,8 +2182,8 @@
       ],
       "alcohol": 12,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": "Traditional Method",
@@ -2262,7 +2262,7 @@
     "sourceId": 42,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "보히가스 리제르바 까바 세미 섹",
         "en": "Bohigas Reserva Cava Semi-Sec"
       },
       "winery": "Bohigas",
@@ -2280,8 +2280,8 @@
       ],
       "alcohol": 12,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Semi-Sec",
       "productionMethod": "Traditional Method",
@@ -2328,7 +2328,7 @@
     "sourceId": 43,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "보히가스 까바 그란 리제르바 엑스트라 브뤼",
         "en": "Bohigas Cava Gran Reserva Extra Brut"
       },
       "winery": "Bohigas",
@@ -2344,8 +2344,8 @@
       ],
       "alcohol": 12,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Extra Brut",
       "productionMethod": "Traditional Method",
@@ -2413,7 +2413,7 @@
     "sourceId": 44,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "산테로 피노 샤르도네 브뤼",
         "en": "Santero Pinot - Chardonnay Brut"
       },
       "winery": "Santero",
@@ -2430,8 +2430,8 @@
       ],
       "alcohol": 11.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": null,
@@ -2478,7 +2478,7 @@
     "sourceId": 45,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "생 클레어 비카스 초이스 소비뇽 블랑 버블스",
         "en": "Saint Clair Family Estate Vicar's Choice Sauvignon Blanc Bubbles"
       },
       "winery": "Saint Clair Family Estate",
@@ -2494,8 +2494,8 @@
       ],
       "alcohol": 12.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": null,
@@ -2580,7 +2580,7 @@
     "sourceId": 46,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "반피 로사 리갈레",
         "en": "Banfi Rosa Regale"
       },
       "winery": "Banfi",
@@ -2596,8 +2596,8 @@
       ],
       "alcohol": 7,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Sweet",
       "productionMethod": "Charmat Method",
@@ -2655,7 +2655,7 @@
     "sourceId": 47,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "폴 당장 에 피스 당장 페이 브뤼",
         "en": "Paul Dangin & Fils Dangin-Fays Brut Champagne"
       },
       "winery": "Paul Dangin & Fils",
@@ -2671,8 +2671,8 @@
       ],
       "alcohol": 12,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": "Traditional Method",
@@ -2708,7 +2708,7 @@
     "sourceId": 48,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "알베르 르 브룅 블랑 드 누아 엑스트라 브뤼",
         "en": "Albert le Brun Blanc de Noirs Extra Brut Champagne"
       },
       "winery": "Albert le Brun",
@@ -2724,8 +2724,8 @@
       ],
       "alcohol": 12,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Extra Brut",
       "productionMethod": "Traditional Method",
@@ -2783,7 +2783,7 @@
     "sourceId": 49,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "앙드레 끌루에 그랑 리저브 브뤼",
         "en": "Andre Clouet Grande Réserve Brut Champagne Grand Cru 'Bouzy'"
       },
       "winery": "Andre Clouet",
@@ -2799,8 +2799,8 @@
       ],
       "alcohol": 12,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": "Traditional Method",
@@ -2847,7 +2847,7 @@
     "sourceId": 50,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "앙드레 끌루에 브륏 나뛰르 실버",
         "en": "Andre Clouet Brut Nature Silver Champagne Grand Cru 'Bouzy'"
       },
       "winery": "Andre Clouet",
@@ -2863,8 +2863,8 @@
       ],
       "alcohol": 12,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut Nature",
       "productionMethod": "Traditional Method",
@@ -2900,7 +2900,7 @@
     "sourceId": 51,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "앙드레 끌루에 드림 빈티지 브뤼",
         "en": "Andre Clouet Dream Vintage Brut Champagne Grand Cru 'Bouzy'"
       },
       "winery": "Andre Clouet",
@@ -2916,8 +2916,8 @@
       ],
       "alcohol": 12,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": "Traditional Method",
@@ -2953,7 +2953,7 @@
     "sourceId": 52,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "떼땅져 브뤼 리저브",
         "en": "Taittinger Brut (Réserve) Champagne"
       },
       "winery": "Taittinger",
@@ -2971,8 +2971,8 @@
       ],
       "alcohol": 12,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": "Traditional Method",
@@ -3008,7 +3008,7 @@
     "sourceId": 53,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "도츠 브뤼 클래식",
         "en": "Deutz Classic Brut Champagne"
       },
       "winery": "Deutz",
@@ -3026,8 +3026,8 @@
       ],
       "alcohol": 12,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": "Traditional Method",
@@ -3085,7 +3085,7 @@
     "sourceId": 54,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "니콜라 마이야르 플라틴 브뤼",
         "en": "Nicolas Maillart Platine Brut Champagne Premier Cru"
       },
       "winery": "Nicolas Maillart",
@@ -3103,8 +3103,8 @@
       ],
       "alcohol": 12.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": "Traditional Method",
@@ -3140,7 +3140,7 @@
     "sourceId": 55,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "뽀므리 브뤼 로얄",
         "en": "Pommery Royal Brut Champagne"
       },
       "winery": "Pommery",
@@ -3158,8 +3158,8 @@
       ],
       "alcohol": 12,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": "Traditional Method",
@@ -3195,7 +3195,7 @@
     "sourceId": 56,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "앙리 지로 에스프리 나튀르",
         "en": "Henri Giraud Esprit Nature Champagne"
       },
       "winery": "Henri Giraud",
@@ -3212,8 +3212,8 @@
       ],
       "alcohol": 12,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": "Traditional Method",
@@ -3249,7 +3249,7 @@
     "sourceId": 57,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "루이 로드레 떼오필 브뤼",
         "en": "Louis Roederer Théophile Brut Champagne"
       },
       "winery": "Louis Roederer",
@@ -3267,8 +3267,8 @@
       ],
       "alcohol": 12,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": "Traditional Method",
@@ -3304,7 +3304,7 @@
     "sourceId": 58,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "페위 시모네 파스 노르 브뤼",
         "en": "Pehu Simonet Face Nord Brut Champagne Grand Cru"
       },
       "winery": "Pehu Simonet",
@@ -3321,8 +3321,8 @@
       ],
       "alcohol": 12.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": "Traditional Method",
@@ -3358,7 +3358,7 @@
     "sourceId": 59,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "바롱 도베르뉴 핀 플뢰르 드 부지",
         "en": "Baron Dauvergne Fine Fleur de Bouzy Blanc de Noir Champagne Grand Cru 'Bouzy'"
       },
       "winery": "Baron Dauvergne",
@@ -3374,8 +3374,8 @@
       ],
       "alcohol": 12,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": "Traditional Method",
@@ -3411,7 +3411,7 @@
     "sourceId": 60,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "파이퍼 하이직 빈티지 브뤼",
         "en": "Piper-Heidsieck Vintage Brut Champagne"
       },
       "winery": "Piper-Heidsieck",
@@ -3428,8 +3428,8 @@
       ],
       "alcohol": 12,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": "Traditional Method",
@@ -3465,7 +3465,7 @@
     "sourceId": 61,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "페리에 주에 벨 에포크 로제",
         "en": "Perrier-Jouët Belle Epoque Rosé Brut Champagne"
       },
       "winery": "Perrier-Jouët",
@@ -3482,8 +3482,8 @@
       ],
       "alcohol": 12.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": "Traditional Method",
@@ -3519,7 +3519,7 @@
     "sourceId": 62,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "샴페인 드보 뀌베 D 브뤼",
         "en": "Champagne Devaux Cuvée D Brut"
       },
       "winery": "Champagne Devaux",
@@ -3536,8 +3536,8 @@
       ],
       "alcohol": 12,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": "Traditional Method",
@@ -3584,7 +3584,7 @@
     "sourceId": 63,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "아기레 카스티요 데 엔수에뇨",
         "en": "Aguirre Castillo de Ensueño"
       },
       "winery": "Aguirre",
@@ -3600,8 +3600,8 @@
       ],
       "alcohol": null,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -3644,7 +3644,7 @@
     "sourceId": 64,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "멈 그랑 꼬르동 브뤼",
         "en": "G.H. Mumm Grand Cordon Brut Champagne"
       },
       "winery": "G.H. Mumm",
@@ -3662,8 +3662,8 @@
       ],
       "alcohol": 12,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": "Traditional Method",
@@ -3721,7 +3721,7 @@
     "sourceId": 65,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "프로메사 모스카토",
         "en": "Promesa Moscato"
       },
       "winery": "Promesa",
@@ -3737,8 +3737,8 @@
       ],
       "alcohol": 7.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Sweet",
       "productionMethod": null,
@@ -3785,7 +3785,7 @@
     "sourceId": 66,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "샹동 오스트레일리아 브뤼",
         "en": "CHANDON Australia Brut Méthode Traditionnelle"
       },
       "winery": "CHANDON Australia",
@@ -3803,8 +3803,8 @@
       ],
       "alcohol": null,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": "Traditional Method",
@@ -3851,7 +3851,7 @@
     "sourceId": 67,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "까시예로 델 디아블로 까베르네 소비뇽",
         "en": "Casillero del Diablo Cabernet Sauvignon (Reserva)"
       },
       "winery": "Casillero del Diablo",
@@ -3867,8 +3867,8 @@
       ],
       "alcohol": 13.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -3947,7 +3947,7 @@
     "sourceId": 68,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "로트캡헨 로제 섹",
         "en": "Rotkäppchen Rosé Sec"
       },
       "winery": "Rotkäppchen",
@@ -3961,8 +3961,8 @@
       "grapes": [],
       "alcohol": 11,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Sec",
       "productionMethod": null,
@@ -4009,7 +4009,7 @@
     "sourceId": 69,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "프레시넷 뀌베 에스페시알 아이스 로제",
         "en": "Freixenet Cuvée Especial Ice Rosé"
       },
       "winery": "Freixenet",
@@ -4026,8 +4026,8 @@
       ],
       "alcohol": 12,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": "Traditional Method",
@@ -4074,7 +4074,7 @@
     "sourceId": 70,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "파스쿠아 파시오네센티멘토 비앙코",
         "en": "Pasqua Vigneti e Cantine PassioneSentimento Bianco"
       },
       "winery": "Pasqua Vigneti e Cantine",
@@ -4092,8 +4092,8 @@
       ],
       "alcohol": 13,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -4140,7 +4140,7 @@
     "sourceId": 71,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "인비보 X, SJP 소비뇽 블랑",
         "en": "Invivo X, SJP Sauvignon Blanc"
       },
       "winery": "Invivo",
@@ -4156,8 +4156,8 @@
       ],
       "alcohol": 13,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -4204,7 +4204,7 @@
     "sourceId": 72,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "인비보 X, SJP 소비뇽 블랑",
         "en": "Invivo X, SJP Sauvignon Blanc"
       },
       "winery": "Invivo",
@@ -4220,8 +4220,8 @@
       ],
       "alcohol": 13,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -4268,7 +4268,7 @@
     "sourceId": 73,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "샤또 생 미셸 리슬링",
         "en": "Chateau Ste. Michelle Riesling"
       },
       "winery": "Chateau Ste. Michelle",
@@ -4284,8 +4284,8 @@
       ],
       "alcohol": 12.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -4332,7 +4332,7 @@
     "sourceId": 74,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "커클랜드 시그니처 티 포인트 말보로 소비뇽 블랑",
         "en": "Kirkland Signature Ti Point Marlborough Sauvignon Blanc"
       },
       "winery": "Kirkland Signature",
@@ -4348,8 +4348,8 @@
       ],
       "alcohol": 13,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -4417,7 +4417,7 @@
     "sourceId": 75,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "파우스티노 리베로 울레시아 알바리뇨",
         "en": "Faustino Rivero Ulecia Albariño"
       },
       "winery": "Faustino Rivero Ulecia",
@@ -4433,8 +4433,8 @@
       ],
       "alcohol": 12.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -4481,7 +4481,7 @@
     "sourceId": 76,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "하우메 세라 부케 까바 로제",
         "en": "Jaume Serra Bouquet Cava Rosé"
       },
       "winery": "Jaume Serra",
@@ -4498,8 +4498,8 @@
       ],
       "alcohol": 11.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": "Traditional Method",
@@ -4546,7 +4546,7 @@
     "sourceId": 77,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "그로브 밀 피노 그리",
         "en": "Grove Mill Pinot Gris"
       },
       "winery": "Grove Mill",
@@ -4562,8 +4562,8 @@
       ],
       "alcohol": 13,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -4599,7 +4599,7 @@
     "sourceId": 78,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "크티마 게로바실리우 말라구지아",
         "en": "Ktima Gerovassiliou (Κτήμα Γεροβασιλείου) Malagousia Single Vineyard"
       },
       "winery": "Ktima Gerovassiliou (Κτήμα Γεροβασιλείου)",
@@ -4615,8 +4615,8 @@
       ],
       "alcohol": 13.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -4652,7 +4652,7 @@
     "sourceId": 79,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "앙시앙 땅 까베르네 소비뇽 시라",
         "en": "Anciens Temps Cabernet Sauvignon - Syrah"
       },
       "winery": "Anciens Temps",
@@ -4669,8 +4669,8 @@
       ],
       "alcohol": 13,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -4717,7 +4717,7 @@
     "sourceId": 80,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "찰스 스미스 쿵푸 걸 리슬링",
         "en": "Charles Smith Kung Fu Girl Riesling"
       },
       "winery": "Charles Smith",
@@ -4733,8 +4733,8 @@
       ],
       "alcohol": 12,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -4781,7 +4781,7 @@
     "sourceId": 81,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "노떼 로사 베르멘티노",
         "en": "Notte Rossa Vermentino"
       },
       "winery": "Notte Rossa",
@@ -4797,8 +4797,8 @@
       ],
       "alcohol": 12,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -4845,7 +4845,7 @@
     "sourceId": 82,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "스미지 헤드라인 쉬라즈",
         "en": "Smidge Headline Shiraz"
       },
       "winery": "Smidge",
@@ -4861,8 +4861,8 @@
       ],
       "alcohol": 14.8,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -4898,7 +4898,7 @@
     "sourceId": 83,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "스칼리올라 샤르도네",
         "en": "Scagliola Chardonnay"
       },
       "winery": "Scagliola",
@@ -4914,8 +4914,8 @@
       ],
       "alcohol": 14,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -4962,7 +4962,7 @@
     "sourceId": 84,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "페데리코 파테르니나 까바 오가닉 브뤼",
         "en": "Federico Paternina Cava Organic Brut"
       },
       "winery": "Federico Paternina",
@@ -4978,8 +4978,8 @@
       ],
       "alcohol": null,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": "Traditional Method",
@@ -5026,7 +5026,7 @@
     "sourceId": 85,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "피치니 메모로 비앙코",
         "en": "Piccini Memoro Bianco"
       },
       "winery": "Piccini",
@@ -5045,8 +5045,8 @@
       ],
       "alcohol": 13,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -5093,7 +5093,7 @@
     "sourceId": 86,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "폴트 라인 소비뇽 블랑",
         "en": "Fault Line Sauvignon Blanc"
       },
       "winery": "Fault Line",
@@ -5109,8 +5109,8 @@
       ],
       "alcohol": 12.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -5168,7 +5168,7 @@
     "sourceId": 87,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "프레셔스 데이 크레망 드 보르도",
         "en": "Precious Day Crémant de Bordeaux"
       },
       "winery": "Precious Day",
@@ -5184,8 +5184,8 @@
       ],
       "alcohol": 11.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": "Traditional Method",
@@ -5253,7 +5253,7 @@
     "sourceId": 88,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "찰스 하이직 브뤼 리저브",
         "en": "Charles Heidsieck Brut Réserve"
       },
       "winery": "Charles Heidsieck",
@@ -5271,8 +5271,8 @@
       ],
       "alcohol": 12,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": "Traditional Method",
@@ -5308,7 +5308,7 @@
     "sourceId": 89,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "루이 로드레 크리스탈 브뤼",
         "en": "Louis Roederer Cristal Brut Champagne (Millésimé)"
       },
       "winery": "Louis Roederer",
@@ -5325,8 +5325,8 @@
       ],
       "alcohol": 12,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": "Traditional Method",
@@ -5362,7 +5362,7 @@
     "sourceId": 90,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "돔 페리뇽 루미너스",
         "en": "Dom Pérignon Brut Champagne Luminous"
       },
       "winery": "Dom Pérignon",
@@ -5379,8 +5379,8 @@
       ],
       "alcohol": 12.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": "Traditional Method",
@@ -5416,7 +5416,7 @@
     "sourceId": 91,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "뵈브 클리코 라 그랑담",
         "en": "Veuve Clicquot La Grande Dame Brut Champagne"
       },
       "winery": "Veuve Clicquot",
@@ -5432,8 +5432,8 @@
       ],
       "alcohol": 12.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": "Traditional Method",
@@ -5469,7 +5469,7 @@
     "sourceId": 94,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "페데리코 파테르니나 까바 오가닉 브뤼",
         "en": "Federico Paternina Cava Organic Brut"
       },
       "winery": "Federico Paternina",
@@ -5485,8 +5485,8 @@
       ],
       "alcohol": null,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": "Traditional Method",
@@ -5533,7 +5533,7 @@
     "sourceId": 97,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "트라피체 브로켈 말벡",
         "en": "Trapiche Broquel Malbec"
       },
       "winery": "Trapiche",
@@ -5549,8 +5549,8 @@
       ],
       "alcohol": 14,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -5597,7 +5597,7 @@
     "sourceId": 98,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "도스 코파스 프리잔테",
         "en": "Dos Copas Frizzante"
       },
       "winery": "Dos Copas",
@@ -5611,8 +5611,8 @@
       "grapes": [],
       "alcohol": null,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -5659,7 +5659,7 @@
     "sourceId": 99,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "간치아 프로세코 드라이",
         "en": "Gancia Prosecco Dry"
       },
       "winery": "Gancia",
@@ -5675,8 +5675,8 @@
       ],
       "alcohol": 11.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Dry",
       "productionMethod": "Charmat Method",
@@ -5719,7 +5719,7 @@
     "sourceId": 100,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "생 클레어 파이오니어 블록 21 소비뇽 블랑",
         "en": "Saint Clair Family Estate Pioneer Block 21 Bell Block Sauvignon Blanc"
       },
       "winery": "Saint Clair Family Estate",
@@ -5735,8 +5735,8 @@
       ],
       "alcohol": 13,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -5779,7 +5779,7 @@
     "sourceId": 101,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "산 페드로 시그니처 샤르도네",
         "en": "San Pedro Signature Chardonnay"
       },
       "winery": "San Pedro",
@@ -5795,8 +5795,8 @@
       ],
       "alcohol": 13,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -5839,7 +5839,7 @@
     "sourceId": 102,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "콘다도 데 아사 20 알데아스",
         "en": "Condado de Haza 20 Aldeas"
       },
       "winery": "Condado de Haza",
@@ -5855,8 +5855,8 @@
       ],
       "alcohol": 14.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -5903,7 +5903,7 @@
     "sourceId": 103,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "헨켈 블랑 드 블랑 드라이 섹",
         "en": "Henkell Blanc de Blancs Dry-Sec"
       },
       "winery": "Henkell",
@@ -5917,8 +5917,8 @@
       "grapes": [],
       "alcohol": 11.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Dry-Sec",
       "productionMethod": null,
@@ -5965,7 +5965,7 @@
     "sourceId": 104,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "헨켈 로제 드라이 섹",
         "en": "Henkell Rosé Dry-Sec"
       },
       "winery": "Henkell",
@@ -5979,8 +5979,8 @@
       "grapes": [],
       "alcohol": 12,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Dry-Sec",
       "productionMethod": null,
@@ -6023,7 +6023,7 @@
     "sourceId": 105,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "투 바인즈 메를로",
         "en": "Two Vines Merlot"
       },
       "winery": "Two Vines",
@@ -6039,8 +6039,8 @@
       ],
       "alcohol": 13.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -6087,7 +6087,7 @@
     "sourceId": 106,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "투 바인즈 까베르네 소비뇽",
         "en": "Two Vines Cabernet Sauvignon"
       },
       "winery": "Two Vines",
@@ -6103,8 +6103,8 @@
       ],
       "alcohol": 13.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -6151,7 +6151,7 @@
     "sourceId": 107,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "아틸리우스 모스카토",
         "en": "Atilius Moscato"
       },
       "winery": "Atilius",
@@ -6167,8 +6167,8 @@
       ],
       "alcohol": null,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Sweet",
       "productionMethod": null,
@@ -6215,7 +6215,7 @@
     "sourceId": 108,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "세펠트 플뢰르 드 리스",
         "en": "Seppelt Fleur de Lys"
       },
       "winery": "Seppelt",
@@ -6231,8 +6231,8 @@
       ],
       "alcohol": null,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -6275,7 +6275,7 @@
     "sourceId": 111,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "페르 기요 뀌베 프레스티지 드미 섹",
         "en": "Pere Guillot cuvee prestige demi-sec"
       },
       "winery": "Domaine du Pere Guillot",
@@ -6291,8 +6291,8 @@
       ],
       "alcohol": 11.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Demi-Sec",
       "productionMethod": null,
@@ -6360,7 +6360,7 @@
     "sourceId": 112,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "모엣 샹동 임페리얼",
         "en": "Moët & Chandon Impérial Brut Champagne"
       },
       "winery": "Moët & Chandon",
@@ -6378,8 +6378,8 @@
       ],
       "alcohol": 12,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": "Brut",
       "productionMethod": "Traditional Method",
@@ -6415,7 +6415,7 @@
     "sourceId": 113,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "앙시앙 땅 까베르네 소비뇽 시라",
         "en": "Anciens Temps Cabernet Sauvignon - Syrah"
       },
       "winery": "Anciens Temps",
@@ -6432,8 +6432,8 @@
       ],
       "alcohol": 13,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -6507,7 +6507,7 @@
     "sourceId": 114,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "피치니 메모로 로쏘",
         "en": "Piccini Memoro Rosso"
       },
       "winery": "Piccini",
@@ -6526,8 +6526,8 @@
       ],
       "alcohol": 14,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -6563,7 +6563,7 @@
     "sourceId": 115,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "아스코니 아이스와인 리슬링",
         "en": "Asconi Icewine Riesling"
       },
       "winery": "Asconi",
@@ -6579,8 +6579,8 @@
       ],
       "alcohol": null,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "other",
+        "volumeMl": 500
       },
       "sweetness": "Sweet",
       "productionMethod": null,
@@ -6616,7 +6616,7 @@
     "sourceId": 116,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "라파우라 스프링스 말보로 소비뇽 블랑",
         "en": "Rapaura Springs Marlborough Sauvignon Blanc"
       },
       "winery": "Rapaura Springs",
@@ -6632,8 +6632,8 @@
       ],
       "alcohol": 13.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -6680,7 +6680,7 @@
     "sourceId": 124,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "와인인튜브 자나 데 마르 상그리아",
         "en": "Wineintube Jana de Mar Sangria"
       },
       "winery": "Wineintube",
@@ -6696,8 +6696,8 @@
       ],
       "alcohol": 11,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "magnum",
+        "volumeMl": 1500
       },
       "sweetness": null,
       "productionMethod": null,
@@ -6744,7 +6744,7 @@
     "sourceId": 130,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "파니자 하이 마운틴 레드 블렌드",
         "en": "Paniza High Mountains Red Blend"
       },
       "winery": "Paniza",
@@ -6760,8 +6760,8 @@
       ],
       "alcohol": 14.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -6797,7 +6797,7 @@
     "sourceId": 131,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "샤또 샹탈 버블리 체리",
         "en": "Château Chantal Bubbly Cherry"
       },
       "winery": "Château Chantal",
@@ -6813,8 +6813,8 @@
       ],
       "alcohol": 12.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -6861,7 +6861,7 @@
     "sourceId": 132,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "앨런 스콧 앙리 마티스 블루 누드 소비뇽 블랑",
         "en": "Allan Scott Special Edition Henri Matisse_Blue Nude Sauvignon Blanc"
       },
       "winery": "Allan Scott",
@@ -6877,8 +6877,8 @@
       ],
       "alcohol": 12.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -6921,7 +6921,7 @@
     "sourceId": 133,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "크라멜레 레카쉬 오렌지 내추럴",
         "en": "Cramele Recaş Orange Natural"
       },
       "winery": "Cramele Recaş",
@@ -6941,8 +6941,8 @@
       ],
       "alcohol": 12.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": "Skin Contact",
@@ -6978,7 +6978,7 @@
     "sourceId": 134,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "라파우라 스프링스 말보로 소비뇽 블랑",
         "en": "Rapaura Springs Marlborough Sauvignon Blanc"
       },
       "winery": "Rapaura Springs",
@@ -6994,8 +6994,8 @@
       ],
       "alcohol": 13.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -7031,7 +7031,7 @@
     "sourceId": 135,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "라파우라 스프링스 리저브 말보로 소비뇽 블랑",
         "en": "Rapaura Springs Reserve Marlborough Sauvignon Blanc"
       },
       "winery": "Rapaura Springs",
@@ -7047,8 +7047,8 @@
       ],
       "alcohol": 13.5,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
@@ -7122,7 +7122,7 @@
     "sourceId": 136,
     "wine": {
       "name": {
-        "ko": null,
+        "ko": "꼬뜨 데 로즈 로제",
         "en": "Côte des Roses Rosé"
       },
       "winery": "Gérard Bertrand",
@@ -7138,8 +7138,8 @@
       ],
       "alcohol": 13,
       "bottle": {
-        "size": null,
-        "volumeMl": null
+        "size": "standard",
+        "volumeMl": 750
       },
       "sweetness": null,
       "productionMethod": null,
