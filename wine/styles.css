@@ -12,3 +12,8 @@
 .bottle-size-badge{border-color:rgba(200,110,66,.76);background:rgba(200,110,66,.16);color:#edb08d;font-size:11px;font-weight:800;letter-spacing:.09em;text-transform:uppercase}
 .list-main .wine-identifiers{margin:7px 0 0}.list-main .vintage-badge,.list-main .bottle-size-badge{min-height:22px}
 @media(max-width:560px){.wine-identifiers{margin-top:10px}.vintage-badge{font-size:12px}.bottle-size-badge{font-size:10px}}
+.wine-card .wine-name{overflow:hidden;white-space:nowrap;text-overflow:ellipsis}
+.wine-card h3.wine-name.compact-name{font-size:19px;letter-spacing:-.025em}
+.wine-card .english-name.wine-name.compact-name{font-size:15px}
+@media(max-width:560px){.wine-card h3.wine-name.compact-name{font-size:18px}.wine-card .english-name.wine-name.compact-name{font-size:14px}}
+.wine-card,.card-body,.wine-card .wine-name,.card-facts,.card-footer{min-width:0;max-width:100%}
