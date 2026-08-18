@@ -6,3 +6,9 @@
 .detail-sections dd{line-height:1.5}
 @media(max-width:800px){.detail-description{padding:25px 24px}.detail-description p{font-size:20px}}
 @media(max-width:560px){.detail-sections dl{grid-template-columns:1fr}}
+.wine-identifiers{display:flex;flex-wrap:wrap;gap:7px;margin-top:12px}
+.vintage-badge,.bottle-size-badge{display:inline-flex;align-items:center;min-height:26px;padding:4px 9px;border:1px solid var(--line);border-radius:4px;line-height:1;white-space:nowrap}
+.vintage-badge{border-color:#536057;background:#141a16;color:#e0e5e0;font-size:13px;font-weight:700;letter-spacing:.05em}
+.bottle-size-badge{border-color:rgba(200,110,66,.76);background:rgba(200,110,66,.16);color:#edb08d;font-size:11px;font-weight:800;letter-spacing:.09em;text-transform:uppercase}
+.list-main .wine-identifiers{margin:7px 0 0}.list-main .vintage-badge,.list-main .bottle-size-badge{min-height:22px}
+@media(max-width:560px){.wine-identifiers{margin-top:10px}.vintage-badge{font-size:12px}.bottle-size-badge{font-size:10px}}
