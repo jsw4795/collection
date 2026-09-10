@@ -7169,5 +7169,67 @@
       }
     ],
     "consumptions": []
+  },
+  {
+    "id": "pasqua-sweet-rose-frizzante",
+    "sourceId": 137,
+    "wine": {
+      "name": {
+        "ko": "파스쿠아 스윗 로제",
+        "en": "Pasqua Sweet Rosé Frizzante Dolce"
+      },
+      "winery": "Pasqua",
+      "type": "sparkling",
+      "country": "Italy",
+      "region": "Veneto",
+      "appellation": null,
+      "classification": null,
+      "vintage": null,
+      "isNonVintage": true,
+      "grapes": [
+        "Pinot Bianco",
+        "Pinot Nero",
+        "Chardonnay"
+      ],
+      "alcohol": 11,
+      "bottle": {
+        "size": "standard",
+        "volumeMl": 750
+      },
+      "sweetness": "Sweet",
+      "productionMethod": "Frizzante",
+      "aging": null,
+      "servingTemperature": "6-8°C",
+      "foodPairing": [],
+      "description": "논빈티지 이 와인은 이탈리아 베네토에서 생산한 달콤한 로제 프리잔떼입니다. 주요 품종은 피노 비앙코 · 피노 네로 · 샤르도네입니다.",
+      "vivino": {
+        "url": null,
+        "rating": 3.7,
+        "ratingCount": 1042,
+        "averagePrice": null
+      },
+      "image": "/images/pasqua-sweet-rose-frizzante.jpg"
+    },
+    "purchases": [
+      {
+        "date": "2026-09-10",
+        "store": "군대 PX",
+        "price": {
+          "amount": 14616,
+          "currency": "KRW",
+          "paidKrw": null
+        },
+        "quantity": 2,
+        "note": null
+      }
+    ],
+    "consumptions": [
+      {
+        "date": "2026-09-10",
+        "quantity": 1,
+        "note": null,
+        "review": null
+      }
+    ]
   }
 ]
