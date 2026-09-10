@@ -328,7 +328,7 @@
         "en": "G.H. Mumm Grand Cordon Rosé Brut Champagne"
       },
       "winery": "G.H. Mumm",
-      "type": "sparkling",
+      "type": ["sparkling", "rose"],
       "country": "France",
       "region": "Champagne",
       "appellation": "Champagne AOC",
@@ -1816,7 +1816,7 @@
         "en": "Federico Paternina Cava Brut Vintage Rosé"
       },
       "winery": "Federico Paternina",
-      "type": "sparkling",
+      "type": ["sparkling", "rose"],
       "country": "Spain",
       "region": "Cava",
       "appellation": "Cava DO",
@@ -2584,7 +2584,7 @@
         "en": "Banfi Rosa Regale"
       },
       "winery": "Banfi",
-      "type": "sparkling",
+      "type": ["sparkling", "red"],
       "country": "Italy",
       "region": "Brachetto d'Acqui",
       "appellation": "Brachetto d'Acqui DOCG",
@@ -3469,7 +3469,7 @@
         "en": "Perrier-Jouët Belle Epoque Rosé Brut Champagne"
       },
       "winery": "Perrier-Jouët",
-      "type": "sparkling",
+      "type": ["sparkling", "rose"],
       "country": "France",
       "region": "Champagne",
       "appellation": "Champagne AOC",
@@ -3951,7 +3951,7 @@
         "en": "Rotkäppchen Rosé Sec"
       },
       "winery": "Rotkäppchen",
-      "type": "sparkling",
+      "type": ["sparkling", "rose"],
       "country": "Germany",
       "region": "Saale-Unstrut",
       "appellation": null,
@@ -4013,7 +4013,7 @@
         "en": "Freixenet Cuvée Especial Ice Rosé"
       },
       "winery": "Freixenet",
-      "type": "sparkling",
+      "type": ["sparkling", "rose"],
       "country": "Spain",
       "region": "Cava",
       "appellation": "Cava DO",
@@ -4485,7 +4485,7 @@
         "en": "Jaume Serra Bouquet Cava Rosé"
       },
       "winery": "Jaume Serra",
-      "type": "sparkling",
+      "type": ["sparkling", "rose"],
       "country": "Spain",
       "region": "Cava",
       "appellation": "Cava DO",
@@ -5969,7 +5969,7 @@
         "en": "Henkell Rosé Dry-Sec"
       },
       "winery": "Henkell",
-      "type": "sparkling",
+      "type": ["sparkling", "rose"],
       "country": "Germany",
       "region": "German Wine",
       "appellation": null,
@@ -7179,7 +7179,7 @@
         "en": "Pasqua Sweet Rosé Frizzante Dolce"
       },
       "winery": "Pasqua",
-      "type": "sparkling",
+      "type": ["sparkling", "rose"],
       "country": "Italy",
       "region": "Veneto",
       "appellation": null,
